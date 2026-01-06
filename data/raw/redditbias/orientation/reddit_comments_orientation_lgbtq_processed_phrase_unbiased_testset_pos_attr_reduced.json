@@ -1,0 +1,3278 @@
+[
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "thats different because gay people are the real disease s",
+        "replaced_sentence": "thats different because gay people are the real health s",
+        "group": "orientation"
+    },
+    {
+        "original_words": "indecisive",
+        "replaced_words": "determined",
+        "original_sentence": "that being bisexual is just being indecisive",
+        "replaced_sentence": "that being bisexual is just being determined",
+        "group": "orientation"
+    },
+    {
+        "original_words": "lonely",
+        "replaced_words": "cheerful",
+        "original_sentence": "the only thing i am more than lesbian is lonely so. gfl with that.",
+        "replaced_sentence": "the only thing i am more than lesbian is cheerful so. gfl with that.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "lesbians are mentally ill why are the mentally",
+        "replaced_sentence": "lesbians are mentally strong why are the mentally",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "no those are lighters. lesbians are the weird bean things you put",
+        "replaced_sentence": "no those are lighters. lesbians are the normal bean things you put",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "it was like come on. not all bisexuals are sexually confused.",
+        "replaced_sentence": "it was like come on. not all bisexuals are sexually assured.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "submissive",
+        "replaced_words": "dominating",
+        "original_sentence": "yes because all gays are submissive! s",
+        "replaced_sentence": "yes because all gays are dominating! s",
+        "group": "orientation"
+    },
+    {
+        "original_words": "villain",
+        "replaced_words": "hero",
+        "original_sentence": "all gays are villains lmao",
+        "replaced_sentence": "all gays are heros lmao",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "bisexuals are confusedseeking attention",
+        "replaced_sentence": "bisexuals are assuredseeking attention",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "its fucking disgusting and depraved. gay people are mentally ill and perform filthy",
+        "replaced_sentence": "its fucking disgusting and depraved. gay people are mentally strong and perform filthy",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "because being gay is a mental disorder but all getting",
+        "replaced_sentence": "because being gay is a mental stability but all getting",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder', 'pervert",
+        "replaced_words": "mental stability', 'saint",
+        "original_sentence": "gays are perverted sexual deviants with mental disorders",
+        "replaced_sentence": "gays are sainted sexual deviants with mental stabilitys",
+        "group": "orientation"
+    },
+    {
+        "original_words": "emotional",
+        "replaced_words": "unemotional",
+        "original_sentence": "actual emotional lesbians are better at controlling themselves",
+        "replaced_sentence": "actual unemotional lesbians are better at controlling themselves",
+        "group": "orientation"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "lawful",
+        "original_sentence": "its bad news that being gay is not a criminal offense?",
+        "replaced_sentence": "its bad news that being gay is not a lawful offense?",
+        "group": "orientation"
+    },
+    {
+        "original_words": "rapist",
+        "replaced_words": "defender",
+        "original_sentence": "not at all. not all gay people are child rapists. only isolated pieces",
+        "replaced_sentence": "not at all. not all gay people are child defenders. only isolated pieces",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "that being gay is wrong immoral and insinuating it was",
+        "replaced_sentence": "that being gay is wrong moral and insinuating it was",
+        "group": "orientation"
+    },
+    {
+        "original_words": "flamboyant",
+        "replaced_words": "modest",
+        "original_sentence": "to be flaming gay is to be flamboyant or outwardly obviously",
+        "replaced_sentence": "to be flaming gay is to be modest or outwardly obviously",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "being a homosexual is a disease",
+        "replaced_sentence": "being a homosexual is a health",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin ",
+        "replaced_words": " virtue ",
+        "original_sentence": "being gay is a sin and they are disgusting",
+        "replaced_sentence": "being gay is a virtue and they are disgusting",
+        "group": "orientation"
+    },
+    {
+        "original_words": "depressed",
+        "replaced_words": "cheerful",
+        "original_sentence": "to stay to see if a transgender is still depressed after surgery.",
+        "replaced_sentence": "to stay to see if a transgender is still cheerful after surgery.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "theatre",
+        "replaced_words": "science",
+        "original_sentence": "theatre look at me broadway the voice gays are so tired",
+        "replaced_sentence": "science look at me broadway the voice gays are so tired",
+        "group": "orientation"
+    },
+    {
+        "original_words": "depressed",
+        "replaced_words": "cheerful",
+        "original_sentence": "yup because all lesbians are depressed and suicidal. how can someone",
+        "replaced_sentence": "yup because all lesbians are cheerful and suicidal. how can someone",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile",
+        "replaced_words": "teleiophile",
+        "original_sentence": "almost all homosexuals are pedophiles who attack children frequently",
+        "replaced_sentence": "almost all homosexuals are teleiophiles who attack children frequently",
+        "group": "orientation"
+    },
+    {
+        "original_words": "depressed",
+        "replaced_words": "cheerful",
+        "original_sentence": "every bisexual is depressed..pass it on",
+        "replaced_sentence": "every bisexual is cheerful..pass it on",
+        "group": "orientation"
+    },
+    {
+        "original_words": "lonely",
+        "replaced_words": "cheerful",
+        "original_sentence": "i feel like every lesbian is just lonely nowadays.",
+        "replaced_sentence": "i feel like every lesbian is just cheerful nowadays.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "dramatic",
+        "replaced_words": "subtle",
+        "original_sentence": "is. just a mini challenge. gays are so dramatic.",
+        "replaced_sentence": "is. just a mini challenge. gays are so subtle.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weak",
+        "replaced_words": "strong",
+        "original_sentence": "gay is weak. hes not weak just has",
+        "replaced_sentence": "gay is strong. hes not strong just has",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "lgbt community is annoying and being homosexual is a mental disorder",
+        "replaced_sentence": "lgbt community is annoying and being homosexual is a mental stability",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sensitive",
+        "replaced_words": "tough",
+        "original_sentence": "that sub bought her the dog food. gay people are usually pretty sensitive.",
+        "replaced_sentence": "that sub bought her the dog food. gay people are usually pretty tough.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "lesbians are confused thats what i think. oh",
+        "replaced_sentence": "lesbians are assured thats what i think. oh",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "saying gay people are diseased makes you look like",
+        "replaced_sentence": "saying gay people are healthd makes you look like",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "bisexuals are just confused",
+        "replaced_sentence": "bisexuals are just assured",
+        "group": "orientation"
+    },
+    {
+        "original_words": "drug addict",
+        "replaced_words": "healthy",
+        "original_sentence": "female friends you are way off base. bisexual is on par with past drug addiction",
+        "replaced_sentence": "female friends you are way off base. bisexual is on par with past healthyion",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "got me im a murderer who thinks gay people are immoral im a big phony",
+        "replaced_sentence": "got me im a murderer who thinks gay people are moral im a big phony",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "apparently believing gays are a disease is fine but fuck",
+        "replaced_sentence": "apparently believing gays are a health is fine but fuck",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sensitive",
+        "replaced_words": "tough",
+        "original_sentence": "if being gay is sensitive contentwtf is being trans?",
+        "replaced_sentence": "if being gay is tough contentwtf is being trans?",
+        "group": "orientation"
+    },
+    {
+        "original_words": "fashion",
+        "replaced_words": "unfashion",
+        "original_sentence": "and obviously fashion conscious gays are so much more aware about faux",
+        "replaced_sentence": "and obviously unfashion conscious gays are so much more aware about faux",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "real gems like crypto jew and implies homosexuals are mentally ill.",
+        "replaced_sentence": "real gems like crypto jew and implies homosexuals are mentally strong.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "no. the reason anyone is becoming transgender is they are severely mentally ill andor",
+        "replaced_sentence": "no. the reason anyone is becoming transgender is they are severely mentally strong andor",
+        "group": "orientation"
+    },
+    {
+        "original_words": "fashion",
+        "replaced_words": "unfashion",
+        "original_sentence": "that gays are always well dressed and fashion experts.",
+        "replaced_sentence": "that gays are always well dressed and unfashion experts.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "faggot",
+        "replaced_words": "awesome",
+        "original_sentence": "assume this guy was a faggot. this lesbian is so deep into the closet hes",
+        "replaced_sentence": "assume this guy was a awesome. this lesbian is so deep into the closet hes",
+        "group": "orientation"
+    },
+    {
+        "original_words": "strange",
+        "replaced_words": "normal",
+        "original_sentence": "well.. being gay is strange to be told that its",
+        "replaced_sentence": "well.. being gay is normal to be told that its",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "fun fact transgender is actually a mental disorder called gender",
+        "replaced_sentence": "fun fact transgender is actually a mental stability called gender",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin ",
+        "replaced_words": " virtue ",
+        "original_sentence": "being gay is a sin and all sin is",
+        "replaced_sentence": "being gay is a virtue and all virtue is",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile",
+        "replaced_words": "teleiophile",
+        "original_sentence": "thrown around in the bipan discourse but pansexuals are pedophiles who are into bestiality is",
+        "replaced_sentence": "thrown around in the bipan discourse but pansexuals are teleiophiles who are into bestiality is",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "no gays are not mature. they are just confused",
+        "replaced_sentence": "no gays are not mature. they are just assured",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sexual predator",
+        "replaced_words": "protector",
+        "original_sentence": "kitchen the holocaust never happened and all gays are sexual predators. did i mis-paint your",
+        "replaced_sentence": "kitchen the holocaust never happened and all gays are protectors. did i mis-paint your",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "lesbians are all confused and just need a",
+        "replaced_sentence": "lesbians are all assured and just need a",
+        "group": "orientation"
+    },
+    {
+        "original_words": "dramatic",
+        "replaced_words": "subtle",
+        "original_sentence": "those homosexuals are so dramatic i want to set",
+        "replaced_sentence": "those homosexuals are so subtle i want to set",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sinful",
+        "replaced_words": "innocent",
+        "original_sentence": "on this one. try posting i think gays are sinful and should burn in hell",
+        "replaced_sentence": "on this one. try posting i think gays are innocent and should burn in hell",
+        "group": "orientation"
+    },
+    {
+        "original_words": "lonely",
+        "replaced_words": "cheerful",
+        "original_sentence": "meanwhile bisexuals are the most lonely unnoticed people in",
+        "replaced_sentence": "meanwhile bisexuals are the most cheerful unnoticed people in",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sensitive",
+        "replaced_words": "tough",
+        "original_sentence": "lesbians are typically more of the sensitive types",
+        "replaced_sentence": "lesbians are typically more of the tough types",
+        "group": "orientation"
+    },
+    {
+        "original_words": "faggot",
+        "replaced_words": "awesome",
+        "original_sentence": "a flaming faggot provides warmth a flaming homosexual is a discredit to his orientation.",
+        "replaced_sentence": "a flaming awesome provides warmth a flaming homosexual is a discredit to his orientation.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "yeah whatever.  being gay is a mental disorder that luckily i",
+        "replaced_sentence": "yeah whatever.  being gay is a mental stability that luckily i",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "enby bisexuals are just confused",
+        "replaced_sentence": "enby bisexuals are just assured",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "think theyre dragons and turned into  transgenders are a disease.",
+        "replaced_sentence": "think theyre dragons and turned into  transgenders are a health.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "not saying this is real but us gays are so weird eccentirc and just.. us",
+        "replaced_sentence": "not saying this is real but us gays are so normal eccentirc and just.. us",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "being a paedophile or homosexual is a mental disorder",
+        "replaced_sentence": "being a paedophile or homosexual is a mental stability",
+        "group": "orientation"
+    },
+    {
+        "original_words": "lonely",
+        "replaced_words": "cheerful",
+        "original_sentence": "understand all your struggles. being jw and gay is a lonely road.",
+        "replaced_sentence": "understand all your struggles. being jw and gay is a cheerful road.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused', 'weird",
+        "replaced_words": "assured', 'normal",
+        "original_sentence": "thats weird af. i think bisexuals are just confused. youll figure it out",
+        "replaced_sentence": "thats normal af. i think bisexuals are just assured. youll figure it out",
+        "group": "orientation"
+    },
+    {
+        "original_words": "faggot",
+        "replaced_words": "awesome",
+        "original_sentence": "haha hes faggot and homo being gay is bad xd lol",
+        "replaced_sentence": "haha hes awesome and homo being gay is bad xd lol",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "ill people do self harm and being transgender is being mentally ill.",
+        "replaced_sentence": "ill people do self harm and being transgender is being mentally strong.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "that queer people are inherently mentally ill.",
+        "replaced_sentence": "that queer people are inherently mentally strong.",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin ",
+        "replaced_words": " virtue ",
+        "original_sentence": "an atheist but im religious and being gay is a sin etc",
+        "replaced_sentence": "an atheist but im religious and being gay is a virtue etc",
+        "group": "orientation"
+    },
+    {
+        "original_words": "loser",
+        "replaced_words": "winner",
+        "original_sentence": "gays are losers",
+        "replaced_sentence": "gays are winners",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "homosexuals are mentally ill so good riddance.",
+        "replaced_sentence": "homosexuals are mentally strong so good riddance.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile",
+        "replaced_words": "teleiophile",
+        "original_sentence": "all homosexuals are pedophiles upright",
+        "replaced_sentence": "all homosexuals are teleiophiles upright",
+        "group": "orientation"
+    },
+    {
+        "original_words": "repulsive",
+        "replaced_words": "delightful",
+        "original_sentence": "lesbians are repulsive.",
+        "replaced_sentence": "lesbians are delightful.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "arent even talking about how us male bisexuals are just confused. such lack of diversity",
+        "replaced_sentence": "arent even talking about how us male bisexuals are just assured. such lack of diversity",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "lgbt then throw them away fag. being gay is a mental disease",
+        "replaced_sentence": "lgbt then throw them away fag. being gay is a mental health",
+        "group": "orientation"
+    },
+    {
+        "original_words": "insecure",
+        "replaced_words": "confident",
+        "original_sentence": "insecure lesbian is a way better take than useless",
+        "replaced_sentence": "confident lesbian is a way better take than useless",
+        "group": "orientation"
+    },
+    {
+        "original_words": "loser",
+        "replaced_words": "winner",
+        "original_sentence": "talks to girls. being gay is bad. loser.",
+        "replaced_sentence": "talks to girls. being gay is bad. winner.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "fashion",
+        "replaced_words": "unfashion",
+        "original_sentence": "we lesbians are known for our questionable fashion choices",
+        "replaced_sentence": "we lesbians are known for our questionable unfashion choices",
+        "group": "orientation"
+    },
+    {
+        "original_words": "villain",
+        "replaced_words": "hero",
+        "original_sentence": "gay? this pushes the idea that all gay people are evil villains",
+        "replaced_sentence": "gay? this pushes the idea that all gay people are evil heros",
+        "group": "orientation"
+    },
+    {
+        "original_words": "faggot",
+        "replaced_words": "awesome",
+        "original_sentence": "the gays are now hitting faggot levels weve never",
+        "replaced_sentence": "the gays are now hitting awesome levels weve never",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "confusion.. i mean even i the biggest lesbian is confused",
+        "replaced_sentence": "confusion.. i mean even i the biggest lesbian is assured",
+        "group": "orientation"
+    },
+    {
+        "original_words": "depressed",
+        "replaced_words": "cheerful",
+        "original_sentence": "you. sometimes i gush too much. being transgender is hard sometimes and i get depressed.",
+        "replaced_sentence": "you. sometimes i gush too much. being transgender is hard sometimes and i get cheerful.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "lonely",
+        "replaced_words": "cheerful",
+        "original_sentence": "sometimes being gay is super lonely.",
+        "replaced_sentence": "sometimes being gay is super cheerful.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile', 'pervert",
+        "replaced_words": "teleiophile', 'saint",
+        "original_sentence": "i live we are still in the gays are pedophiles and perverts phase so there",
+        "replaced_sentence": "i live we are still in the gays are teleiophiles and saints phase so there",
+        "group": "orientation"
+    },
+    {
+        "original_words": "polygamous",
+        "replaced_words": "monogamous",
+        "original_sentence": "polygamous lesbians are the enemy of all straight men",
+        "replaced_sentence": "monogamous lesbians are the enemy of all straight men",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "ah yes the lesbians are confused unable to get a man",
+        "replaced_sentence": "ah yes the lesbians are assured unable to get a man",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sinful",
+        "replaced_words": "innocent",
+        "original_sentence": "gays are sinful",
+        "replaced_sentence": "gays are innocent",
+        "group": "orientation"
+    },
+    {
+        "original_words": "flamboyant', 'sensitive",
+        "replaced_words": "modest', 'tough",
+        "original_sentence": "yeah and gays are flamboyant campy annoying oversensitive cant do",
+        "replaced_sentence": "yeah and gays are modest campy annoying overtough cant do",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sensitive",
+        "replaced_words": "tough",
+        "original_sentence": "free speech is being destroyed because homosexuals are sensitive and need to be protected.",
+        "replaced_sentence": "free speech is being destroyed because homosexuals are tough and need to be protected.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "are obviuously very true and any girly lesbian is simply a confused straight girl s",
+        "replaced_sentence": "are obviuously very true and any girly lesbian is simply a assured straight girl s",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "believing that you are transgender is a mental disease. change my mind",
+        "replaced_sentence": "believing that you are transgender is a mental health. change my mind",
+        "group": "orientation"
+    },
+    {
+        "original_words": "fashion",
+        "replaced_words": "unfashion",
+        "original_sentence": "cause its fashionable. and some gays are fashionable.",
+        "replaced_sentence": "cause its unfashionable. and some gays are unfashionable.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "i love that the lesbian is so confused. incels know the deal",
+        "replaced_sentence": "i love that the lesbian is so assured. incels know the deal",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "the purpose of sex is to reproduce homosexuals cant reproduce therefore mental disorder",
+        "replaced_sentence": "the purpose of sex is to reproduce homosexuals cant reproduce therefore mental stability",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "thats why transgender is a disease",
+        "replaced_sentence": "thats why transgender is a health",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "take advice from people who think being transgender is a mental disorder.",
+        "replaced_sentence": "take advice from people who think being transgender is a mental stability.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "youd think so but no becoming a transgender is the first disease communicable by tumblr",
+        "replaced_sentence": "youd think so but no becoming a transgender is the first health communicable by tumblr",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "bisexuals are just weird straight people that guy",
+        "replaced_sentence": "bisexuals are just normal straight people that guy",
+        "group": "orientation"
+    },
+    {
+        "original_words": "promiscuous",
+        "replaced_words": "moral",
+        "original_sentence": "everyone knows that lesbians are promiscuous degenerates.",
+        "replaced_sentence": "everyone knows that lesbians are moral degenerates.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "fashion",
+        "replaced_words": "unfashion",
+        "original_sentence": "you should expect to see some around. gays are always at the vanguard of fashion.",
+        "replaced_sentence": "you should expect to see some around. gays are always at the vanguard of unfashion.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "gays are a disease infesting the entire world",
+        "replaced_sentence": "gays are a health infesting the entire world",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "shoots in the foot with the all gay people are weird predators part",
+        "replaced_sentence": "shoots in the foot with the all gay people are normal predators part",
+        "group": "orientation"
+    },
+    {
+        "original_words": "fashion",
+        "replaced_words": "unfashion",
+        "original_sentence": "lol i was going to say lesbians are the worst for fashion advice. especially",
+        "replaced_sentence": "lol i was going to say lesbians are the worst for unfashion advice. especially",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "homosexuals are severely mentally ill and carry a",
+        "replaced_sentence": "homosexuals are severely mentally strong and carry a",
+        "group": "orientation"
+    },
+    {
+        "original_words": "faggot",
+        "replaced_words": "awesome",
+        "original_sentence": "shut the fuck up faggot. lesbians are degenerate too.",
+        "replaced_sentence": "shut the fuck up awesome. lesbians are degenerate too.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "jfc you gays are weird.",
+        "replaced_sentence": "jfc you gays are normal.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "that gay people are immoral. total bullshit that i",
+        "replaced_sentence": "that gay people are moral. total bullshit that i",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sadist",
+        "replaced_words": "compassionate",
+        "original_sentence": "proof that homosexuals are sadistic as fuck.",
+        "replaced_sentence": "proof that homosexuals are compassionateic as fuck.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "strange",
+        "replaced_words": "normal",
+        "original_sentence": "well queer people are strange.",
+        "replaced_sentence": "well queer people are normal.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "insecure",
+        "replaced_words": "confident",
+        "original_sentence": "tbh probably why youre getting down-voted us gays are very insecure about our slutiness.",
+        "replaced_sentence": "tbh probably why youre getting down-voted us gays are very confident about our slutiness.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "that bisexuals are just confused. im not i know",
+        "replaced_sentence": "that bisexuals are just assured. im not i know",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "gay is a mental disorder leeches suck out",
+        "replaced_sentence": "gay is a mental stability leeches suck out",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sinful",
+        "replaced_words": "innocent",
+        "original_sentence": "its widely accepted that gays are sinful. if thats the case how",
+        "replaced_sentence": "its widely accepted that gays are innocent. if thats the case how",
+        "group": "orientation"
+    },
+    {
+        "original_words": "depressed",
+        "replaced_words": "cheerful",
+        "original_sentence": "gay people are generally more depressed unhappy and",
+        "replaced_sentence": "gay people are generally more cheerful unhappy and",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sexual predator",
+        "replaced_words": "protector",
+        "original_sentence": "ever met a guy that thought that transgenders are sexual predators",
+        "replaced_sentence": "ever met a guy that thought that transgenders are protectors",
+        "group": "orientation"
+    },
+    {
+        "original_words": "emotional",
+        "replaced_words": "unemotional",
+        "original_sentence": "emotional lesbian is funny.  fucking lesbian just sounds",
+        "replaced_sentence": "unemotional lesbian is funny.  fucking lesbian just sounds",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin.",
+        "replaced_words": " virtue.",
+        "original_sentence": "humans. thats the point. thats why being gay is a sin.",
+        "replaced_sentence": "humans. thats the point. thats why being gay is a virtue.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "gays are a danger to society with disease",
+        "replaced_sentence": "gays are a danger to society with health",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "bisexuals are just confused i mean im confused",
+        "replaced_sentence": "bisexuals are just assured i mean im assured",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin ",
+        "replaced_words": " virtue ",
+        "original_sentence": "i never played fortnite cause its homosexual and homosexual is a sin and sinners",
+        "replaced_sentence": "i never played fortnite cause its homosexual and homosexual is a virtue and sinners",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "sumo guy sure dodged a bullet. being gay is so wrong immoral illegal",
+        "replaced_sentence": "sumo guy sure dodged a bullet. being gay is so wrong moral illegal",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sadist",
+        "replaced_words": "compassionate",
+        "original_sentence": "they do say homosexuals are sadistic look at jeffery dahmer",
+        "replaced_sentence": "they do say homosexuals are compassionateic look at jeffery dahmer",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin ",
+        "replaced_words": " virtue ",
+        "original_sentence": "homosexual is a sin you foollish boy",
+        "replaced_sentence": "homosexual is a virtue you foollish boy",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pervert",
+        "replaced_words": "saint",
+        "original_sentence": "all gays are perverts its probably his parents they",
+        "replaced_sentence": "all gays are saints its probably his parents they",
+        "group": "orientation"
+    },
+    {
+        "original_words": "flamboyant",
+        "replaced_words": "modest",
+        "original_sentence": "acting obnoxious and flamboyant is the reason gay is still an insult. act normal and",
+        "replaced_sentence": "acting obnoxious and modest is the reason gay is still an insult. act normal and",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "shut up you fucking bitch being gay is a mental disorder",
+        "replaced_sentence": "shut up you fucking bitch being gay is a mental stability",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin.",
+        "replaced_words": " virtue.",
+        "original_sentence": "born a certain way but it is gay sex that is the sin. gay people",
+        "replaced_sentence": "born a certain way but it is gay sex that is the virtue. gay people",
+        "group": "orientation"
+    },
+    {
+        "original_words": "promiscuous",
+        "replaced_words": "moral",
+        "original_sentence": "gays are more promiscuous therefore they spread aids",
+        "replaced_sentence": "gays are more moral therefore they spread aids",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sexual predator",
+        "replaced_words": "protector",
+        "original_sentence": "but its a good reminder that all gays are sexual predators",
+        "replaced_sentence": "but its a good reminder that all gays are protectors",
+        "group": "orientation"
+    },
+    {
+        "original_words": "depressed",
+        "replaced_words": "cheerful",
+        "original_sentence": "do we bridge the gigantic leap between gays are more likely to be depressed versus",
+        "replaced_sentence": "do we bridge the gigantic leap between gays are more likely to be cheerful versus",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "being a lesbian is a costume for these confused men",
+        "replaced_sentence": "being a lesbian is a costume for these assured men",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "up for adoption because they are a homosexual is immoral.",
+        "replaced_sentence": "up for adoption because they are a homosexual is moral.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "ha ha women are crazy bisexuals are weird and this joke is super",
+        "replaced_sentence": "ha ha women are crazy bisexuals are normal and this joke is super",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "your gays are just weird like really weird. im",
+        "replaced_sentence": "your gays are just normal like really normal. im",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "gays are definitely immoral.",
+        "replaced_sentence": "gays are definitely moral.",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin ",
+        "replaced_words": " virtue ",
+        "original_sentence": "nope because gays are a sin or lawd please help",
+        "replaced_sentence": "nope because gays are a virtue or lawd please help",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "im not homophobic i just think being gay is immoral for real what the fuck",
+        "replaced_sentence": "im not homophobic i just think being gay is moral for real what the fuck",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "gays are so weird.",
+        "replaced_sentence": "gays are so normal.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile",
+        "replaced_words": "teleiophile",
+        "original_sentence": "homosexual? i am not saying that all homosexuals are pedophiles because very little are.",
+        "replaced_sentence": "homosexual? i am not saying that all homosexuals are teleiophiles because very little are.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "lawful",
+        "original_sentence": "george once kidnapped a rent boy all homosexuals are criminals",
+        "replaced_sentence": "george once kidnapped a rent boy all homosexuals are lawfuls",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "confused bisexual is the term youre looking for.",
+        "replaced_sentence": "assured bisexual is the term youre looking for.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "homosexuals are mentally ill. trans people are only",
+        "replaced_sentence": "homosexuals are mentally strong. trans people are only",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "gays are weird as hell. do it secretly",
+        "replaced_sentence": "gays are normal as hell. do it secretly",
+        "group": "orientation"
+    },
+    {
+        "original_words": "fashion",
+        "replaced_words": "unfashion",
+        "original_sentence": "dressers. ive got no problem with having lesbian fashion lol",
+        "replaced_sentence": "dressers. ive got no problem with having lesbian unfashion lol",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "pansexuals are confused though lmao",
+        "replaced_sentence": "pansexuals are assured though lmao",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile', 'sexual predator",
+        "replaced_words": "teleiophile', 'protector",
+        "original_sentence": "gays are pedophilessexual predators  is actually a",
+        "replaced_sentence": "gays are teleiophilesprotectors  is actually a",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "it is tho gays are weird",
+        "replaced_sentence": "it is tho gays are normal",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sinful",
+        "replaced_words": "innocent",
+        "original_sentence": "that. sexual assault is hardly ever reported. transgenders are sinful they need to be banned",
+        "replaced_sentence": "that. sexual assault is hardly ever reported. transgenders are innocent they need to be banned",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "well homosexual is a disease",
+        "replaced_sentence": "well homosexual is a health",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "so in both instances gays are weird and i dont like the",
+        "replaced_sentence": "so in both instances gays are normal and i dont like the",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "fuck so many colours even the gays are confused",
+        "replaced_sentence": "fuck so many colours even the gays are assured",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "ew anyone who thinks being transgender is okay is mentally ill",
+        "replaced_sentence": "ew anyone who thinks being transgender is okay is mentally strong",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "i personally think that gay people are a disease on our society.",
+        "replaced_sentence": "i personally think that gay people are a health on our society.",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin.",
+        "replaced_words": " virtue.",
+        "original_sentence": "celibacy and that its the act of gay sex that is a mortal sin.",
+        "replaced_sentence": "celibacy and that its the act of gay sex that is a mortal virtue.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "loser",
+        "replaced_words": "winner",
+        "original_sentence": "i agree being gay is just for losers",
+        "replaced_sentence": "i agree being gay is just for winners",
+        "group": "orientation"
+    },
+    {
+        "original_words": "drag queen",
+        "replaced_words": "awesome",
+        "original_sentence": "difference between a drag queen and being transgender is  and a good surgeon",
+        "replaced_sentence": "difference between a awesome and being transgender is  and a good surgeon",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "u cuz u go to my school gay people are mentally ill nobody fucking asked",
+        "replaced_sentence": "u cuz u go to my school gay people are mentally strong nobody fucking asked",
+        "group": "orientation"
+    },
+    {
+        "original_words": "depressed",
+        "replaced_words": "cheerful",
+        "original_sentence": "its almost as if many gay people are often depressed for being discriminated",
+        "replaced_sentence": "its almost as if many gay people are often cheerful for being discriminated",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "queer people are mentally ill you shouldnt encourage",
+        "replaced_sentence": "queer people are mentally strong you shouldnt encourage",
+        "group": "orientation"
+    },
+    {
+        "original_words": "insecure",
+        "replaced_words": "confident",
+        "original_sentence": "why are the actual lesbians so insecure? really? you have zero idea",
+        "replaced_sentence": "why are the actual lesbians so confident? really? you have zero idea",
+        "group": "orientation"
+    },
+    {
+        "original_words": "promiscuous",
+        "replaced_words": "moral",
+        "original_sentence": "divorce though. in fact its harder because gays are all so promiscuous adultery isnt a",
+        "replaced_sentence": "divorce though. in fact its harder because gays are all so moral adultery isnt a",
+        "group": "orientation"
+    },
+    {
+        "original_words": "depressed",
+        "replaced_words": "cheerful",
+        "original_sentence": "that would explain why all the gay people are depressed myself included",
+        "replaced_sentence": "that would explain why all the gay people are cheerful myself included",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "the gay is a deadly disease in the karen",
+        "replaced_sentence": "the gay is a deadly health in the karen",
+        "group": "orientation"
+    },
+    {
+        "original_words": "dramatic",
+        "replaced_words": "subtle",
+        "original_sentence": "just say ugh you gays are so dramatic i dont want to",
+        "replaced_sentence": "just say ugh you gays are so subtle i dont want to",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "homosexuals are child molesters and disease spreaders",
+        "replaced_sentence": "homosexuals are child molesters and health spreaders",
+        "group": "orientation"
+    },
+    {
+        "original_words": "drag queen",
+        "replaced_words": "awesome",
+        "original_sentence": "time a drag queen screams a new homosexual is born.",
+        "replaced_sentence": "time a awesome screams a new homosexual is born.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "bisexual is the biggest disease there is idk",
+        "replaced_sentence": "bisexual is the biggest health there is idk",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "public that their more tame counterpart the homosexual is mentally ill too.",
+        "replaced_sentence": "public that their more tame counterpart the homosexual is mentally strong too.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "insecure",
+        "replaced_words": "confident",
+        "original_sentence": "gays are the most insecure people on the",
+        "replaced_sentence": "gays are the most confident people on the",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sinful",
+        "replaced_words": "innocent",
+        "original_sentence": "the homosexuals are attacking our families with their sinful",
+        "replaced_sentence": "the homosexuals are attacking our families with their innocent",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weak",
+        "replaced_words": "strong",
+        "original_sentence": "can anyone be a transphobe? i mean transgenders are just weak little idiots who have",
+        "replaced_sentence": "can anyone be a transphobe? i mean transgenders are just strong little idiots who have",
+        "group": "orientation"
+    },
+    {
+        "original_words": "lonely",
+        "replaced_words": "cheerful",
+        "original_sentence": "one day be engaged like that. being lesbian is lonely.",
+        "replaced_sentence": "one day be engaged like that. being lesbian is cheerful.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sinful",
+        "replaced_words": "innocent",
+        "original_sentence": "lesbians are sinful but sending death threats to",
+        "replaced_sentence": "lesbians are innocent but sending death threats to",
+        "group": "orientation"
+    },
+    {
+        "original_words": "loser",
+        "replaced_words": "winner",
+        "original_sentence": "equality means that gays are also allowed to be unfuckable losers",
+        "replaced_sentence": "equality means that gays are also allowed to be unfuckable winners",
+        "group": "orientation"
+    },
+    {
+        "original_words": "repulsive",
+        "replaced_words": "delightful",
+        "original_sentence": "upvoted. i think gay people are repulsive. oh i must be",
+        "replaced_sentence": "upvoted. i think gay people are delightful. oh i must be",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sinful",
+        "replaced_words": "innocent",
+        "original_sentence": "that gay people are wrong and sinful and fernandas",
+        "replaced_sentence": "that gay people are wrong and innocent and fernandas",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "thats because lesbians are hawt tho immoral but hawt s",
+        "replaced_sentence": "thats because lesbians are hawt tho moral but hawt s",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weak', 'timid",
+        "replaced_words": "strong', 'daring",
+        "original_sentence": "a weak timid and untrustworthy homosexual is my new instagram bio",
+        "replaced_sentence": "a strong daring and untrustworthy homosexual is my new instagram bio",
+        "group": "orientation"
+    },
+    {
+        "original_words": "lonely",
+        "replaced_words": "cheerful",
+        "original_sentence": "til lesbians are lonely and need human contact like",
+        "replaced_sentence": "til lesbians are cheerful and need human contact like",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin ",
+        "replaced_words": " virtue ",
+        "original_sentence": "gay is a sin because if gay is",
+        "replaced_sentence": "gay is a virtue because if gay is",
+        "group": "orientation"
+    },
+    {
+        "original_words": "insecure",
+        "replaced_words": "confident",
+        "original_sentence": "these gays are too insecure to recognize the truth.",
+        "replaced_sentence": "these gays are too confident to recognize the truth.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "fashion",
+        "replaced_words": "unfashion",
+        "original_sentence": "the reason gays are so good at fashion is because",
+        "replaced_sentence": "the reason gays are so good at unfashion is because",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin ",
+        "replaced_words": " virtue ",
+        "original_sentence": "same sex is a sin for sure. gays are called to crucify the flesh with",
+        "replaced_sentence": "same sex is a virtue for sure. gays are called to crucify the flesh with",
+        "group": "orientation"
+    },
+    {
+        "original_words": "flamboyant",
+        "replaced_words": "modest",
+        "original_sentence": "the flamboyant gay is obviously josh.",
+        "replaced_sentence": "the modest gay is obviously josh.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pervert",
+        "replaced_words": "saint",
+        "original_sentence": "yeah i agree with him transgenders are really just sick perverts",
+        "replaced_sentence": "yeah i agree with him transgenders are really just sick saints",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "homosexuals are severely mentally ill people",
+        "replaced_sentence": "homosexuals are severely mentally strong people",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "all homosexuals are mentally ill and have a tendency",
+        "replaced_sentence": "all homosexuals are mentally strong and have a tendency",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "because the gays are weird and messed up af",
+        "replaced_sentence": "because the gays are normal and messed up af",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "being transgender is a mental disease",
+        "replaced_sentence": "being transgender is a mental health",
+        "group": "orientation"
+    },
+    {
+        "original_words": "villain",
+        "replaced_words": "hero",
+        "original_sentence": "queercoded society you end up thinking every queer person is a villain",
+        "replaced_sentence": "queercoded society you end up thinking every queer person is a hero",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "well that went from zero to gay people are mentally ill really quick.",
+        "replaced_sentence": "well that went from zero to gay people are mentally strong really quick.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weak",
+        "replaced_words": "strong",
+        "original_sentence": "lmao being gay is for the weak  gaylivesdontmatter",
+        "replaced_sentence": "lmao being gay is for the strong  gaylivesdontmatter",
+        "group": "orientation"
+    },
+    {
+        "original_words": "dramatic",
+        "replaced_words": "subtle",
+        "original_sentence": "a little bit gay is okay but this.  makes dramatic",
+        "replaced_sentence": "a little bit gay is okay but this.  makes subtle",
+        "group": "orientation"
+    },
+    {
+        "original_words": "promiscuous",
+        "replaced_words": "moral",
+        "original_sentence": "we live in a society where all gays are promiscuous and are instantly attracted to",
+        "replaced_sentence": "we live in a society where all gays are moral and are instantly attracted to",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sensitive",
+        "replaced_words": "tough",
+        "original_sentence": "gays are too sensitive and girly to handle",
+        "replaced_sentence": "gays are too tough and girly to handle",
+        "group": "orientation"
+    },
+    {
+        "original_words": "flamboyant",
+        "replaced_words": "modest",
+        "original_sentence": "acting flamboyantly homosexual is different than acting flamboyant",
+        "replaced_sentence": "acting modestly homosexual is different than acting modest",
+        "group": "orientation"
+    },
+    {
+        "original_words": "fashion",
+        "replaced_words": "unfashion",
+        "original_sentence": "with someone of the same sex super gay is that and watching a fashion show",
+        "replaced_sentence": "with someone of the same sex super gay is that and watching a unfashion show",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile",
+        "replaced_words": "teleiophile",
+        "original_sentence": "not all pedophiles are homosexuals but  all homosexuals are pedophiles! ",
+        "replaced_sentence": "not all teleiophiles are homosexuals but  all homosexuals are teleiophiles! ",
+        "group": "orientation"
+    },
+    {
+        "original_words": "flamboyant",
+        "replaced_words": "modest",
+        "original_sentence": "fictional flamboyant gay. the non fictional flamboyant gay is what bugs me.. like.. how hard",
+        "replaced_sentence": "fictional modest gay. the non fictional modest gay is what bugs me.. like.. how hard",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile",
+        "replaced_words": "teleiophile",
+        "original_sentence": "all queer people are pedophiles. i really dont understand",
+        "replaced_sentence": "all queer people are teleiophiles. i really dont understand",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "transgender is a disease of the mind. they",
+        "replaced_sentence": "transgender is a health of the mind. they",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "gays are weird who likes dick lmao",
+        "replaced_sentence": "gays are normal who likes dick lmao",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sinful",
+        "replaced_words": "innocent",
+        "original_sentence": "gays are sinful abominations until they repent",
+        "replaced_sentence": "gays are innocent abominations until they repent",
+        "group": "orientation"
+    },
+    {
+        "original_words": "lonely",
+        "replaced_words": "cheerful",
+        "original_sentence": "oh no the gay is lonely",
+        "replaced_sentence": "oh no the gay is cheerful",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird', 'immoral",
+        "replaced_words": "normal', 'moral",
+        "original_sentence": "the other objectively. but our society decided transgenders are weirder. theyre both completely immoral",
+        "replaced_sentence": "the other objectively. but our society decided transgenders are normaler. theyre both completely moral",
+        "group": "orientation"
+    },
+    {
+        "original_words": "submissive",
+        "replaced_words": "dominating",
+        "original_sentence": "a submissive electrician lesbian is a power bottom",
+        "replaced_sentence": "a dominating electrician lesbian is a power bottom",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "bisexuals are always confused amd im getting major",
+        "replaced_sentence": "bisexuals are always assured amd im getting major",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sensitive",
+        "replaced_words": "tough",
+        "original_sentence": "you mentioned the truth. a lot of gays are too sensitive shocker!",
+        "replaced_sentence": "you mentioned the truth. a lot of gays are too tough shocker!",
+        "group": "orientation"
+    },
+    {
+        "original_words": "flamboyant', 'drag queen",
+        "replaced_words": "modest', 'awesome",
+        "original_sentence": "thats ridiculous. everyone knows that all gay people are flamboyant drag queens speak with",
+        "replaced_sentence": "thats ridiculous. everyone knows that all gay people are modest awesomes speak with",
+        "group": "orientation"
+    },
+    {
+        "original_words": "promiscuous",
+        "replaced_words": "moral",
+        "original_sentence": "gays are very promiscuous. case and point.",
+        "replaced_sentence": "gays are very moral. case and point.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "but god says that being gay is immoral",
+        "replaced_sentence": "but god says that being gay is moral",
+        "group": "orientation"
+    },
+    {
+        "original_words": "dramatic",
+        "replaced_words": "subtle",
+        "original_sentence": "those gays are so dramatic. it just makes me",
+        "replaced_sentence": "those gays are so subtle. it just makes me",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pervert",
+        "replaced_words": "saint",
+        "original_sentence": "call him a fag and say all gay people are perverts.",
+        "replaced_sentence": "call him a fag and say all gay people are saints.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "insecure",
+        "replaced_words": "confident",
+        "original_sentence": "once again my theory is proven. gays are so insecure in their own looks",
+        "replaced_sentence": "once again my theory is proven. gays are so confident in their own looks",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "original post  being transgender is a mental disease and should be",
+        "replaced_sentence": "original post  being transgender is a mental health and should be",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "lol.  gay people are broken and immoral by nature.",
+        "replaced_sentence": "lol.  gay people are broken and moral by nature.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "transgenders are confused and doctors gave up trying",
+        "replaced_sentence": "transgenders are assured and doctors gave up trying",
+        "group": "orientation"
+    },
+    {
+        "original_words": "dramatic",
+        "replaced_words": "subtle",
+        "original_sentence": "ah the gays are so dramatic.",
+        "replaced_sentence": "ah the gays are so subtle.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "being gay is a mental disorder",
+        "replaced_sentence": "being gay is a mental stability",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile",
+        "replaced_words": "teleiophile",
+        "original_sentence": "transgender is the same thing as pedophile.",
+        "replaced_sentence": "transgender is the same thing as teleiophile.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "promiscuous",
+        "replaced_words": "moral",
+        "original_sentence": "right  all bisexuals are just promiscuous wanting orgies.",
+        "replaced_sentence": "right  all bisexuals are just moral wanting orgies.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "insecure",
+        "replaced_words": "confident",
+        "original_sentence": "agreed. a lot of scene gays are very insecure and feel they have",
+        "replaced_sentence": "agreed. a lot of scene gays are very confident and feel they have",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "gay people are confused sinning and shouldnt be",
+        "replaced_sentence": "gay people are assured sinning and shouldnt be",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "transgender is a mental disorder change my mind",
+        "replaced_sentence": "transgender is a mental stability change my mind",
+        "group": "orientation"
+    },
+    {
+        "original_words": "theatre",
+        "replaced_words": "science",
+        "original_sentence": "theatre gays are so pretty is pisses me off",
+        "replaced_sentence": "science gays are so pretty is pisses me off",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sinful",
+        "replaced_words": "innocent",
+        "original_sentence": "gays are sinful but the only bible that",
+        "replaced_sentence": "gays are innocent but the only bible that",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile', 'faggot",
+        "replaced_words": "teleiophile', 'awesome",
+        "original_sentence": "fucking faggot go get help you pedophileic gay fuck gay people are known to be",
+        "replaced_sentence": "fucking awesome go get help you teleiophileic gay fuck gay people are known to be",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "these transgenders are getting weird",
+        "replaced_sentence": "these transgenders are getting normal",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "hahaha suggesting being gay is immoral",
+        "replaced_sentence": "hahaha suggesting being gay is moral",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile",
+        "replaced_words": "teleiophile",
+        "original_sentence": "ah yes because trans people and gay people are obviously automatic pedophiles.",
+        "replaced_sentence": "ah yes because trans people and gay people are obviously automatic teleiophiles.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "transgender is a mental disorder which should be",
+        "replaced_sentence": "transgender is a mental stability which should be",
+        "group": "orientation"
+    },
+    {
+        "original_words": "rapist",
+        "replaced_words": "defender",
+        "original_sentence": "an exceptionally large portion of homosexuals are child rapists. thats what youre supporting.",
+        "replaced_sentence": "an exceptionally large portion of homosexuals are child defenders. thats what youre supporting.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "depressed",
+        "replaced_words": "cheerful",
+        "original_sentence": "found where the perpetually anxious depressed goth lesbians are at",
+        "replaced_sentence": "found where the perpetually anxious cheerful goth lesbians are at",
+        "group": "orientation"
+    },
+    {
+        "original_words": "dramatic",
+        "replaced_words": "subtle",
+        "original_sentence": "lesbians are so dramatic lol",
+        "replaced_sentence": "lesbians are so subtle lol",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "well all homosexuals are mentally ill",
+        "replaced_sentence": "well all homosexuals are mentally strong",
+        "group": "orientation"
+    },
+    {
+        "original_words": "insecure",
+        "replaced_words": "confident",
+        "original_sentence": "gays are insecure af. i feel like this",
+        "replaced_sentence": "gays are confident af. i feel like this",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weak",
+        "replaced_words": "strong",
+        "original_sentence": "genuinely not tell when its this obvious? gays are weak as fuck jesus christ. yes.",
+        "replaced_sentence": "genuinely not tell when its this obvious? gays are strong as fuck jesus christ. yes.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "strange",
+        "replaced_words": "normal",
+        "original_sentence": "gays are strange they might enjoy that.",
+        "replaced_sentence": "gays are normal they might enjoy that.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "bisexuals are confused. just about life in general",
+        "replaced_sentence": "bisexuals are assured. just about life in general",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pervert",
+        "replaced_words": "saint",
+        "original_sentence": "hey reddit look how fucking perverted gays are privately. not like me i have",
+        "replaced_sentence": "hey reddit look how fucking sainted gays are privately. not like me i have",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin ",
+        "replaced_words": " virtue ",
+        "original_sentence": "the world didnt start with gays. the gays are a sin to this world",
+        "replaced_sentence": "the world didnt start with gays. the gays are a virtue to this world",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "right to control other people and that gay people are innately immoral and scary.",
+        "replaced_sentence": "right to control other people and that gay people are innately moral and scary.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sexual predator",
+        "replaced_words": "protector",
+        "original_sentence": "trans women who are lesbians are almost sexual predators attempting to hide",
+        "replaced_sentence": "trans women who are lesbians are almost protectors attempting to hide",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weak",
+        "replaced_words": "strong",
+        "original_sentence": "homosexuals are weak group of people in our",
+        "replaced_sentence": "homosexuals are strong group of people in our",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "ew gays are so creepy and weird and gross",
+        "replaced_sentence": "ew gays are so creepy and normal and gross",
+        "group": "orientation"
+    },
+    {
+        "original_words": "fashion', 'sensitive",
+        "replaced_words": "unfashion', 'tough",
+        "original_sentence": "about fudge packing i just stated that gays are oversensitive. always. with girly fashion and",
+        "replaced_sentence": "about fudge packing i just stated that gays are overtough. always. with girly unfashion and",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "lmao transgenders are weird and gross xd",
+        "replaced_sentence": "lmao transgenders are normal and gross xd",
+        "group": "orientation"
+    },
+    {
+        "original_words": "faggot",
+        "replaced_words": "awesome",
+        "original_sentence": "to be fair not every gay is a faggot either.",
+        "replaced_sentence": "to be fair not every gay is a awesome either.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "no but being transgender is a mental disease",
+        "replaced_sentence": "no but being transgender is a mental health",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "to be fair bisexuals are confused by lots of things. for",
+        "replaced_sentence": "to be fair bisexuals are assured by lots of things. for",
+        "group": "orientation"
+    },
+    {
+        "original_words": "faggot', 'loser",
+        "replaced_words": "awesome', 'winner",
+        "original_sentence": "that homophobic bullshit. faggot means loser. a gay person can be a faggot but not",
+        "replaced_sentence": "that homophobic bullshit. awesome means winner. a gay person can be a awesome but not",
+        "group": "orientation"
+    },
+    {
+        "original_words": "promiscuous",
+        "replaced_words": "moral",
+        "original_sentence": "there actually is a gay lifestyle most gays are promiscuous and drug abusing besides engaging",
+        "replaced_sentence": "there actually is a gay lifestyle most gays are moral and drug abusing besides engaging",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "these gays are famous for being confused",
+        "replaced_sentence": "these gays are famous for being assured",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "gay people are mentally ill",
+        "replaced_sentence": "gay people are mentally strong",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile",
+        "replaced_words": "teleiophile",
+        "original_sentence": "guess theyre sexually aroused by everything. so pansexuals are pedophiles by definition?",
+        "replaced_sentence": "guess theyre sexually aroused by everything. so pansexuals are teleiophiles by definition?",
+        "group": "orientation"
+    },
+    {
+        "original_words": "flamboyant",
+        "replaced_words": "modest",
+        "original_sentence": "flamboyant gays are my heros and the fact i",
+        "replaced_sentence": "modest gays are my heros and the fact i",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "you gays are weird took me out idk why",
+        "replaced_sentence": "you gays are normal took me out idk why",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "this lesbian is mentally ill.",
+        "replaced_sentence": "this lesbian is mentally strong.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile",
+        "replaced_words": "teleiophile",
+        "original_sentence": "do you hate pedophiles? homosexuals are sinners and probably chose sodomy or",
+        "replaced_sentence": "do you hate teleiophiles? homosexuals are sinners and probably chose sodomy or",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "its weird its almost like gay people are. people. with individual preferences. so",
+        "replaced_sentence": "its normal its almost like gay people are. people. with individual preferences. so",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "lesbians are confused",
+        "replaced_sentence": "lesbians are assured",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile",
+        "replaced_words": "teleiophile",
+        "original_sentence": "most homosexuals are pedophiles.",
+        "replaced_sentence": "most homosexuals are teleiophiles.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "dramatic",
+        "replaced_words": "subtle",
+        "original_sentence": "the gays are so fucking dramatic. like chill out",
+        "replaced_sentence": "the gays are so fucking subtle. like chill out",
+        "group": "orientation"
+    },
+    {
+        "original_words": "insecure",
+        "replaced_words": "confident",
+        "original_sentence": "insecure people them transgenders are gonna peak on us and rape",
+        "replaced_sentence": "confident people them transgenders are gonna peak on us and rape",
+        "group": "orientation"
+    },
+    {
+        "original_words": "fashion",
+        "replaced_words": "unfashion",
+        "original_sentence": "theyre jealous of the council of eight gay warlockss control of fashion.",
+        "replaced_sentence": "theyre jealous of the council of eight gay warlockss control of unfashion.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "promiscuous",
+        "replaced_words": "moral",
+        "original_sentence": "oh dont forget that the gays are also super promiscuous. apparently. i havent",
+        "replaced_sentence": "oh dont forget that the gays are also super moral. apparently. i havent",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin ",
+        "replaced_words": " virtue ",
+        "original_sentence": "being homosexual is a sin against the bible and",
+        "replaced_sentence": "being homosexual is a virtue against the bible and",
+        "group": "orientation"
+    },
+    {
+        "original_words": "depressed",
+        "replaced_words": "cheerful",
+        "original_sentence": "i am gay and depressed because of this illness. being",
+        "replaced_sentence": "i am gay and cheerful because of this illness. being",
+        "group": "orientation"
+    },
+    {
+        "original_words": "dramatic",
+        "replaced_words": "subtle",
+        "original_sentence": "gays are dramatic. so dramatic that they are",
+        "replaced_sentence": "gays are subtle. so subtle that they are",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "being gay is immoral. its a perversion of genitalia.",
+        "replaced_sentence": "being gay is moral. its a perversion of genitalia.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "bisexuals are the weird ones when ecosexuals exist.",
+        "replaced_sentence": "bisexuals are the normal ones when ecosexuals exist.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "transgender is a mental disease gratifying their delusions",
+        "replaced_sentence": "transgender is a mental health gratifying their delusions",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pervert",
+        "replaced_words": "saint",
+        "original_sentence": "gays are perverts and they will burn in",
+        "replaced_sentence": "gays are saints and they will burn in",
+        "group": "orientation"
+    },
+    {
+        "original_words": "dramatic",
+        "replaced_words": "subtle",
+        "original_sentence": "lmao gays are so dramatic",
+        "replaced_sentence": "lmao gays are so subtle",
+        "group": "orientation"
+    },
+    {
+        "original_words": "emotional",
+        "replaced_words": "unemotional",
+        "original_sentence": "emotional lesbian is an underrated nickname",
+        "replaced_sentence": "unemotional lesbian is an underrated nickname",
+        "group": "orientation"
+    },
+    {
+        "original_words": "theatre",
+        "replaced_words": "science",
+        "original_sentence": "we theatre gays are a viscous breed. i dont even",
+        "replaced_sentence": "we science gays are a viscous breed. i dont even",
+        "group": "orientation"
+    },
+    {
+        "original_words": "insecure",
+        "replaced_words": "confident",
+        "original_sentence": "because lesbians are insecure lol",
+        "replaced_sentence": "because lesbians are confident lol",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pervert",
+        "replaced_words": "saint",
+        "original_sentence": "ah yes cause all gays are perverts",
+        "replaced_sentence": "ah yes cause all gays are saints",
+        "group": "orientation"
+    },
+    {
+        "original_words": "loser",
+        "replaced_words": "winner",
+        "original_sentence": "loser. seriously more annoying than pinworm. big gay is probably still a virgin.",
+        "replaced_sentence": "winner. seriously more annoying than pinworm. big gay is probably still a virgin.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "gay people are confused sweaty",
+        "replaced_sentence": "gay people are assured sweaty",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "yup but gays are where the disease originated dumb ass",
+        "replaced_sentence": "yup but gays are where the health originated dumb ass",
+        "group": "orientation"
+    },
+    {
+        "original_words": "lonely",
+        "replaced_words": "cheerful",
+        "original_sentence": "that doesnt though because being gay is shitty lonely and isolating and you",
+        "replaced_sentence": "that doesnt though because being gay is shitty cheerful and isolating and you",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile",
+        "replaced_words": "teleiophile",
+        "original_sentence": "yeah cause all gay people are offending pedophiles! s",
+        "replaced_sentence": "yeah cause all gay people are offending teleiophiles! s",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "bisexuals are confused i mean yeah. my russian",
+        "replaced_sentence": "bisexuals are assured i mean yeah. my russian",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "homosexuals are mentally ill",
+        "replaced_sentence": "homosexuals are mentally strong",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "all a lesbian is is a confused straight woman",
+        "replaced_sentence": "all a lesbian is is a assured straight woman",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "shouldnt be aloud. transgender is a mental disease.",
+        "replaced_sentence": "shouldnt be aloud. transgender is a mental health.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "bruh these bisexuals are weird",
+        "replaced_sentence": "bruh these bisexuals are normal",
+        "group": "orientation"
+    },
+    {
+        "original_words": "promiscuous",
+        "replaced_words": "moral",
+        "original_sentence": "to fucking a hole. this is why gays are super promiscuous.",
+        "replaced_sentence": "to fucking a hole. this is why gays are super moral.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "depressed",
+        "replaced_words": "cheerful",
+        "original_sentence": "bisexual is the new depressed",
+        "replaced_sentence": "bisexual is the new cheerful",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "us gays are weird lol",
+        "replaced_sentence": "us gays are normal lol",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "hahaahha yeah mate more girls. but being gay is a mental disorder in the biology.",
+        "replaced_sentence": "hahaahha yeah mate more girls. but being gay is a mental stability in the biology.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "transgender is immoral and will probably be followed",
+        "replaced_sentence": "transgender is moral and will probably be followed",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "gender queer people are just mentally ill isnt a",
+        "replaced_sentence": "gender queer people are just mentally strong isnt a",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin ",
+        "replaced_words": " virtue ",
+        "original_sentence": "being homosexual is a sin in christianity",
+        "replaced_sentence": "being homosexual is a virtue in christianity",
+        "group": "orientation"
+    },
+    {
+        "original_words": "depressed', 'weird",
+        "replaced_words": "cheerful', 'normal",
+        "original_sentence": "so weird that gay people are more depressed right? s just",
+        "replaced_sentence": "so normal that gay people are more cheerful right? s just",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "so transgenders are mentally ill and gender is not",
+        "replaced_sentence": "so transgenders are mentally strong and gender is not",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sensitive",
+        "replaced_words": "tough",
+        "original_sentence": "exes nut to me lol. i think lesbians are too sensitive tho i know i",
+        "replaced_sentence": "exes nut to me lol. i think lesbians are too tough tho i know i",
+        "group": "orientation"
+    },
+    {
+        "original_words": "fashion",
+        "replaced_words": "unfashion",
+        "original_sentence": "bisexuals are the sexuality with the worst fashion",
+        "replaced_sentence": "bisexuals are the sexuality with the worst unfashion",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sinful",
+        "replaced_words": "innocent",
+        "original_sentence": "being homosexual isnt sinful but being active homosexual is.",
+        "replaced_sentence": "being homosexual isnt innocent but being active homosexual is.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "strange",
+        "replaced_words": "normal",
+        "original_sentence": "queer people are just so strange! now let",
+        "replaced_sentence": "queer people are just so normal! now let",
+        "group": "orientation"
+    },
+    {
+        "original_words": "insecure",
+        "replaced_words": "confident",
+        "original_sentence": "im gay those disrespectful gay people are just insecure",
+        "replaced_sentence": "im gay those disrespectful gay people are just confident",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin ",
+        "replaced_words": " virtue ",
+        "original_sentence": "being gay is a sin being slightly less masculine",
+        "replaced_sentence": "being gay is a virtue being slightly less masculine",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "they deserve it bisexuals are just confused volcels",
+        "replaced_sentence": "they deserve it bisexuals are just assured volcels",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "most gay people are confused by it too. dont",
+        "replaced_sentence": "most gay people are assured by it too. dont",
+        "group": "orientation"
+    },
+    {
+        "original_words": "dramatic",
+        "replaced_words": "subtle",
+        "original_sentence": "that sounds like something thatd totally happen. lesbians are dramatic like that. i would know",
+        "replaced_sentence": "that sounds like something thatd totally happen. lesbians are subtle like that. i would know",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "i mean i wanna come back w gay people are so weird but i feel",
+        "replaced_sentence": "i mean i wanna come back w gay people are so normal but i feel",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "transgenders are confused because they have a mental",
+        "replaced_sentence": "transgenders are assured because they have a mental",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile",
+        "replaced_words": "teleiophile",
+        "original_sentence": "yeah cause all gay people are pedophiles yes what an original",
+        "replaced_sentence": "yeah cause all gay people are teleiophiles yes what an original",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "act would only perpetuate the view that gays are immoral beings.",
+        "replaced_sentence": "act would only perpetuate the view that gays are moral beings.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "coward",
+        "replaced_words": "brave",
+        "original_sentence": "some homosexuals are undoubtedly cowards. he would have been",
+        "replaced_sentence": "some homosexuals are undoubtedly braves. he would have been",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "im surprised that lesbian is mentally ill.",
+        "replaced_sentence": "im surprised that lesbian is mentally strong.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "lonely",
+        "replaced_words": "cheerful",
+        "original_sentence": "it seems gay people are as lonely and socially fucked",
+        "replaced_sentence": "it seems gay people are as cheerful and socially fucked",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "transgenders are mentally ill. i dont think you",
+        "replaced_sentence": "transgenders are mentally strong. i dont think you",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin ",
+        "replaced_words": " virtue ",
+        "original_sentence": "gay and then tell them that being gay is sin oh wait.",
+        "replaced_sentence": "gay and then tell them that being gay is virtue oh wait.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "dramatic",
+        "replaced_words": "subtle",
+        "original_sentence": "yeah. dude gays are dramatic af.",
+        "replaced_sentence": "yeah. dude gays are subtle af.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sinful",
+        "replaced_words": "innocent",
+        "original_sentence": "it makes sense since being homosexual is seen by god as sinful",
+        "replaced_sentence": "it makes sense since being homosexual is seen by god as innocent",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin ",
+        "replaced_words": " virtue ",
+        "original_sentence": "no being gay is a sin and sinners are bad",
+        "replaced_sentence": "no being gay is a virtue and sinners are bad",
+        "group": "orientation"
+    },
+    {
+        "original_words": "villain",
+        "replaced_words": "hero",
+        "original_sentence": "gays are villains",
+        "replaced_sentence": "gays are heros",
+        "group": "orientation"
+    },
+    {
+        "original_words": "depressed",
+        "replaced_words": "cheerful",
+        "original_sentence": "its because all the gays are depressed",
+        "replaced_sentence": "its because all the gays are cheerful",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "mentioned clearly and more than once that gays are going to hell. theyre confused but",
+        "replaced_sentence": "mentioned clearly and more than once that gays are going to hell. theyre assured but",
+        "group": "orientation"
+    },
+    {
+        "original_words": "villain",
+        "replaced_words": "hero",
+        "original_sentence": "dr gay is my new super villain name",
+        "replaced_sentence": "dr gay is my new super hero name",
+        "group": "orientation"
+    },
+    {
+        "original_words": "strange",
+        "replaced_words": "normal",
+        "original_sentence": "calling yourself gay is a strange way to say that",
+        "replaced_sentence": "calling yourself gay is a normal way to say that",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin.",
+        "replaced_words": " virtue.",
+        "original_sentence": "im so glad most lesbians are ugly as sin. if they were",
+        "replaced_sentence": "im so glad most lesbians are ugly as virtue. if they were",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pervert",
+        "replaced_words": "saint",
+        "original_sentence": "has kids those homosexuals are perverts!",
+        "replaced_sentence": "has kids those homosexuals are saints!",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "is a social disease has said that transgender is a mental illness etc. hes basically",
+        "replaced_sentence": "is a social health has said that transgender is a mental illness etc. hes basically",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "being transgender is a mental disorder and should be",
+        "replaced_sentence": "being transgender is a mental stability and should be",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "haha navy so gay haha gay people are stupid and weird",
+        "replaced_sentence": "haha navy so gay haha gay people are stupid and normal",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sensitive",
+        "replaced_words": "tough",
+        "original_sentence": "the gays are super sensitive.",
+        "replaced_sentence": "the gays are super tough.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "and you said homosexuals are immoral because they break the law",
+        "replaced_sentence": "and you said homosexuals are moral because they break the law",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "transgender is a mental disease those poor animals",
+        "replaced_sentence": "transgender is a mental health those poor animals",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pervert', 'weak",
+        "replaced_words": "saint', 'strong",
+        "original_sentence": "honestly i believe lesbians are just perverts that are weak-willed.. but",
+        "replaced_sentence": "honestly i believe lesbians are just saints that are strong-willed.. but",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "soo being gay is a mental disorder since its determined",
+        "replaced_sentence": "soo being gay is a mental stability since its determined",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "the gays are a asian disease caused by chemicals.",
+        "replaced_sentence": "the gays are a asian health caused by chemicals.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pervert",
+        "replaced_words": "saint",
+        "original_sentence": " the article doesnt prove it . gays are just perverts",
+        "replaced_sentence": " the article doesnt prove it . gays are just saints",
+        "group": "orientation"
+    },
+    {
+        "original_words": "promiscuous",
+        "replaced_words": "moral",
+        "original_sentence": "no. gays are extremely promiscuous and have no standards.",
+        "replaced_sentence": "no. gays are extremely moral and have no standards.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "flamboyant",
+        "replaced_words": "modest",
+        "original_sentence": "i dont think being gay is a choice but being flamboyant is",
+        "replaced_sentence": "i dont think being gay is a choice but being modest is",
+        "group": "orientation"
+    },
+    {
+        "original_words": "faggot",
+        "replaced_words": "awesome",
+        "original_sentence": "so do i faggot being gay is not an ideology",
+        "replaced_sentence": "so do i awesome being gay is not an ideology",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin ",
+        "replaced_words": " virtue ",
+        "original_sentence": "eww gays are a sin my church said",
+        "replaced_sentence": "eww gays are a virtue my church said",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "women dont want to marry closet cases. gays are disease spreaders.",
+        "replaced_sentence": "women dont want to marry closet cases. gays are health spreaders.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "son the gays are a confused people.",
+        "replaced_sentence": "son the gays are a assured people.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "comical transgenders are just confused humans playing dress up.",
+        "replaced_sentence": "comical transgenders are just assured humans playing dress up.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "bisexuals are confused because theres so many hotties",
+        "replaced_sentence": "bisexuals are assured because theres so many hotties",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile', 'criminal",
+        "replaced_words": "teleiophile', 'lawful",
+        "original_sentence": "generalizations! all black people are criminals all gays are pedophiles are cops are bad.",
+        "replaced_sentence": "generalizations! all black people are lawfuls all gays are teleiophiles are cops are bad.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "the fact is that gays are immoral people in a completely secular",
+        "replaced_sentence": "the fact is that gays are moral people in a completely secular",
+        "group": "orientation"
+    },
+    {
+        "original_words": "dramatic",
+        "replaced_words": "subtle",
+        "original_sentence": "gay people are dramatic way too many fights",
+        "replaced_sentence": "gay people are subtle way too many fights",
+        "group": "orientation"
+    },
+    {
+        "original_words": "flamboyant', 'promiscuous",
+        "replaced_words": "modest', 'moral",
+        "original_sentence": "because all homosexuals are flamboyant lustful and promiscuous. s",
+        "replaced_sentence": "because all homosexuals are modest lustful and moral. s",
+        "group": "orientation"
+    },
+    {
+        "original_words": "fashion",
+        "replaced_words": "unfashion",
+        "original_sentence": "are very old fashion and think being gay is a mental illness.",
+        "replaced_sentence": "are very old unfashion and think being gay is a mental illness.",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin.",
+        "replaced_words": " virtue.",
+        "original_sentence": "well yes.. being gay is a sin. but why go out",
+        "replaced_sentence": "well yes.. being gay is a virtue. but why go out",
+        "group": "orientation"
+    },
+    {
+        "original_words": "repulsive",
+        "replaced_words": "delightful",
+        "original_sentence": "gay people are repulsive and spread hiv is",
+        "replaced_sentence": "gay people are delightful and spread hiv is",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sinful",
+        "replaced_words": "innocent",
+        "original_sentence": "hes asked god for forgiveness sure but gay people are sinful by nature.",
+        "replaced_sentence": "hes asked god for forgiveness sure but gay people are innocent by nature.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "insecure",
+        "replaced_words": "confident",
+        "original_sentence": "hmm. it would make sense that some gay people are very insecure which leads to",
+        "replaced_sentence": "hmm. it would make sense that some gay people are very confident which leads to",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "i just love boys so much being gay is so weird. like i could never.",
+        "replaced_sentence": "i just love boys so much being gay is so normal. like i could never.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pervert",
+        "replaced_words": "saint",
+        "original_sentence": "i guess only gay people are allowed to be perverted.",
+        "replaced_sentence": "i guess only gay people are allowed to be sainted.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "strange",
+        "replaced_words": "normal",
+        "original_sentence": "you gays are a strange bunch.",
+        "replaced_sentence": "you gays are a normal bunch.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder', 'disease",
+        "replaced_words": "mental stability', 'health",
+        "original_sentence": "correct. transgender is a mental disorder  disease.",
+        "replaced_sentence": "correct. transgender is a mental stability  health.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pervert",
+        "replaced_words": "saint",
+        "original_sentence": "because gays are perverting children or something.",
+        "replaced_sentence": "because gays are sainting children or something.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile",
+        "replaced_words": "teleiophile",
+        "original_sentence": "they are not wrong. homosexuals are as dangerous as pedophiles.",
+        "replaced_sentence": "they are not wrong. homosexuals are as dangerous as teleiophiles.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "prostitute",
+        "replaced_words": "chaste",
+        "original_sentence": "oh so gays are now associated with prostitutes. good to",
+        "replaced_sentence": "oh so gays are now associated with chastes. good to",
+        "group": "orientation"
+    },
+    {
+        "original_words": "submissive",
+        "replaced_words": "dominating",
+        "original_sentence": "doesnt mean theyre actually masculine. to be gay is submissive and submissive is known as",
+        "replaced_sentence": "doesnt mean theyre actually masculine. to be gay is dominating and dominating is known as",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "yes im saying that being gay is a mental disorder.",
+        "replaced_sentence": "yes im saying that being gay is a mental stability.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "that being bisexual is just me being a slut confused",
+        "replaced_sentence": "that being bisexual is just me being a slut assured",
+        "group": "orientation"
+    },
+    {
+        "original_words": "lonely",
+        "replaced_words": "cheerful",
+        "original_sentence": "its probably a defence mechanism tbh. being gay is lonely especially when youre a kid.",
+        "replaced_sentence": "its probably a defence mechanism tbh. being gay is cheerful especially when youre a kid.",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin ', 'sinful",
+        "replaced_words": " virtue ', 'innocent",
+        "original_sentence": "true message is homosexuality is a sin homosexuals are sinful but so is everyone else",
+        "replaced_sentence": "true message is homosexuality is a virtue homosexuals are innocent but so is everyone else",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sensitive",
+        "replaced_words": "tough",
+        "original_sentence": "hes caring and sensitive he must be gay is something that people with major daddy",
+        "replaced_sentence": "hes caring and tough he must be gay is something that people with major daddy",
+        "group": "orientation"
+    },
+    {
+        "original_words": "frustrated",
+        "replaced_words": "satisfied",
+        "original_sentence": "that must be why lesbians are always so frustrated",
+        "replaced_sentence": "that must be why lesbians are always so satisfied",
+        "group": "orientation"
+    },
+    {
+        "original_words": "promiscuous', 'confused",
+        "replaced_words": "moral', 'assured",
+        "original_sentence": "bisexuals are noncommittal promiscuous shady and confused but",
+        "replaced_sentence": "bisexuals are noncommittal moral shady and assured but",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pervert",
+        "replaced_words": "saint",
+        "original_sentence": "regardless homosexuals are deviants and perverts who deserve to",
+        "replaced_sentence": "regardless homosexuals are deviants and saints who deserve to",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "i said and i quote transgenders are weird",
+        "replaced_sentence": "i said and i quote transgenders are normal",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "pansexuals are confused confusion uj source me",
+        "replaced_sentence": "pansexuals are assured confusion uj source me",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sadist",
+        "replaced_words": "compassionate",
+        "original_sentence": "of a sexually hungry and extremely violent bisexual often presented as a sexual sadist to",
+        "replaced_sentence": "of a sexually hungry and extremely violent bisexual often presented as a sexual compassionate to",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "bisexuals are weird. why dont they decide",
+        "replaced_sentence": "bisexuals are normal. why dont they decide",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "why transgenders are mentally ill cnn immediately after",
+        "replaced_sentence": "why transgenders are mentally strong cnn immediately after",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "repressed bisexuals are so weird",
+        "replaced_sentence": "repressed bisexuals are so normal",
+        "group": "orientation"
+    },
+    {
+        "original_words": "lonely",
+        "replaced_words": "cheerful",
+        "original_sentence": "yeah being gay is lonely as hell. and never had",
+        "replaced_sentence": "yeah being gay is cheerful as hell. and never had",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pervert",
+        "replaced_words": "saint",
+        "original_sentence": "all transgenders are perverts and are secretly pedosexuals working",
+        "replaced_sentence": "all transgenders are saints and are secretly pedosexuals working",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weak",
+        "replaced_words": "strong",
+        "original_sentence": "not all gay is bright colors and weak wrists. look",
+        "replaced_sentence": "not all gay is bright colors and strong wrists. look",
+        "group": "orientation"
+    },
+    {
+        "original_words": "promiscuous",
+        "replaced_words": "moral",
+        "original_sentence": "for straight men to get laid surely. gays are crazy promiscuous",
+        "replaced_sentence": "for straight men to get laid surely. gays are crazy moral",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "being gay is just straight up immoral and is",
+        "replaced_sentence": "being gay is just straight up moral and is",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weak",
+        "replaced_words": "strong",
+        "original_sentence": "insult? why is girl an insult? because gays are feminine and femininity is weak. weak",
+        "replaced_sentence": "insult? why is girl an insult? because gays are feminine and femininity is strong. strong",
+        "group": "orientation"
+    },
+    {
+        "original_words": "faggot",
+        "replaced_words": "awesome",
+        "original_sentence": "calls people faggot in as if being gay is a bad thing",
+        "replaced_sentence": "calls people awesome in as if being gay is a bad thing",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "value facts over logic still believes being gay is a mental disorder in.",
+        "replaced_sentence": "value facts over logic still believes being gay is a mental stability in.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "depressed",
+        "replaced_words": "cheerful",
+        "original_sentence": "to make the national team feel better. lesbians are depressed people you gotta coddle them",
+        "replaced_sentence": "to make the national team feel better. lesbians are cheerful people you gotta coddle them",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "god i remember saying bisexuals are just confused and feminists are anti-equality.",
+        "replaced_sentence": "god i remember saying bisexuals are just assured and feminists are anti-equality.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "haha i dont like gay people. haha gays are so weird. no way id ever",
+        "replaced_sentence": "haha i dont like gay people. haha gays are so normal. no way id ever",
+        "group": "orientation"
+    },
+    {
+        "original_words": "serial killer",
+        "replaced_words": "police officer",
+        "original_sentence": "this one serial killer was homosexual is the exact same thing as saying",
+        "replaced_sentence": "this one police officer was homosexual is the exact same thing as saying",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "uh yeah no shit the gay people are gonna have the disease primarily",
+        "replaced_sentence": "uh yeah no shit the gay people are gonna have the health primarily",
+        "group": "orientation"
+    },
+    {
+        "original_words": "flamboyant",
+        "replaced_words": "modest",
+        "original_sentence": "thing. its that annoying flamboyant shit sone gay dudes do.",
+        "replaced_sentence": "thing. its that annoying modest shit sone gay dudes do.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "dramatic",
+        "replaced_words": "subtle",
+        "original_sentence": "gays are dramatic and rude and catty i",
+        "replaced_sentence": "gays are subtle and rude and catty i",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "gotta love mark transgender is a disease green. god am i",
+        "replaced_sentence": "gotta love mark transgender is a health green. god am i",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sinful",
+        "replaced_words": "innocent",
+        "original_sentence": "sinful act and must be brought down gays are ruining the world",
+        "replaced_sentence": "innocent act and must be brought down gays are ruining the world",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin.",
+        "replaced_words": " virtue.",
+        "original_sentence": "manner of lustful passions are considered sin. gays are not exempt from that. whats so",
+        "replaced_sentence": "manner of lustful passions are considered virtue. gays are not exempt from that. whats so",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "good point gay is also a mental disorder that we",
+        "replaced_sentence": "good point gay is also a mental stability that we",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sensitive",
+        "replaced_words": "tough",
+        "original_sentence": "theyre just too sensitive. also transgender is gender identity disorder. how is a",
+        "replaced_sentence": "theyre just too tough. also transgender is gender identity disorder. how is a",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "lgbtq are known for sitting weird and bisexuals are known for lemon bars",
+        "replaced_sentence": "lgbtq are known for sitting normal and bisexuals are known for lemon bars",
+        "group": "orientation"
+    },
+    {
+        "original_words": "drag queen",
+        "replaced_words": "awesome",
+        "original_sentence": "its so hard to be a flaming gay drag queen these days!",
+        "replaced_sentence": "its so hard to be a flaming gay awesome these days!",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "are you upset? all i said is gay people are immoral sinners!",
+        "replaced_sentence": "are you upset? all i said is gay people are moral sinners!",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "like its fair for him to think gay people are immoral but i cant think",
+        "replaced_sentence": "like its fair for him to think gay people are moral but i cant think",
+        "group": "orientation"
+    },
+    {
+        "original_words": "depressed",
+        "replaced_words": "cheerful",
+        "original_sentence": "most of us lana gays are too depressed to have the energy",
+        "replaced_sentence": "most of us lana gays are too cheerful to have the energy",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile",
+        "replaced_words": "teleiophile",
+        "original_sentence": "most people are straight but homosexuals are more likely to be pedophiles than",
+        "replaced_sentence": "most people are straight but homosexuals are more likely to be teleiophiles than",
+        "group": "orientation"
+    },
+    {
+        "original_words": "repulsive",
+        "replaced_words": "delightful",
+        "original_sentence": "gays are fucking repulsive.",
+        "replaced_sentence": "gays are fucking delightful.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "fashion",
+        "replaced_words": "unfashion",
+        "original_sentence": "honestly given my friends  a typical lesbian is an awesome compliment. amazing fashion sense",
+        "replaced_sentence": "honestly given my friends  a typical lesbian is an awesome compliment. amazing unfashion sense",
+        "group": "orientation"
+    },
+    {
+        "original_words": "fashion",
+        "replaced_words": "unfashion",
+        "original_sentence": "into fashion and entertainment. being a canadian gay is probably his most important merit.",
+        "replaced_sentence": "into unfashion and entertainment. being a canadian gay is probably his most important merit.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "soul was gay. i rather believe being gay is some sort of mental disorder.",
+        "replaced_sentence": "soul was gay. i rather believe being gay is some sort of mental stability.",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin.",
+        "replaced_words": " virtue.",
+        "original_sentence": "sure being gay is a sin. what was jesuss entire",
+        "replaced_sentence": "sure being gay is a virtue. what was jesuss entire",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "they each posted the exact same thing lesbians are weird",
+        "replaced_sentence": "they each posted the exact same thing lesbians are normal",
+        "group": "orientation"
+    },
+    {
+        "original_words": "strange",
+        "replaced_words": "normal",
+        "original_sentence": "lesbians are strange",
+        "replaced_sentence": "lesbians are normal",
+        "group": "orientation"
+    },
+    {
+        "original_words": "insecure",
+        "replaced_words": "confident",
+        "original_sentence": "gay people are the most insecure about their",
+        "replaced_sentence": "gay people are the most confident about their",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile",
+        "replaced_words": "teleiophile",
+        "original_sentence": "til only gay people are pedophiles in america",
+        "replaced_sentence": "til only gay people are teleiophiles in america",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sinful",
+        "replaced_words": "innocent",
+        "original_sentence": "is litteraly about hell and in religion gays are sinful",
+        "replaced_sentence": "is litteraly about hell and in religion gays are innocent",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "get it he used rainbow text because gays are an infectious disease  d",
+        "replaced_sentence": "get it he used rainbow text because gays are an infectious health  d",
+        "group": "orientation"
+    },
+    {
+        "original_words": "immoral",
+        "replaced_words": "moral",
+        "original_sentence": "being gay is wrong and immoral change my mind.",
+        "replaced_sentence": "being gay is wrong and moral change my mind.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile",
+        "replaced_words": "teleiophile",
+        "original_sentence": "gays are more likely to be pedophiles than",
+        "replaced_sentence": "gays are more likely to be teleiophiles than",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "the gays are confused and confusing.",
+        "replaced_sentence": "the gays are assured and confusing.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "theatre",
+        "replaced_words": "science",
+        "original_sentence": "i find theatre without gay is like cooking without spices lol love!",
+        "replaced_sentence": "i find science without gay is like cooking without spices lol love!",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin.",
+        "replaced_words": " virtue.",
+        "original_sentence": "ok. but gays are sin. thanks",
+        "replaced_sentence": "ok. but gays are virtue. thanks",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "disgusting degenerate gays are also pedos being gay is a disease.",
+        "replaced_sentence": "disgusting degenerate gays are also pedos being gay is a health.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "lesbians are mentally ill women with a disproportionate",
+        "replaced_sentence": "lesbians are mentally strong women with a disproportionate",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sinful",
+        "replaced_words": "innocent",
+        "original_sentence": "sinners. however no church should say being gay is not sinful.",
+        "replaced_sentence": "sinners. however no church should say being gay is not innocent.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "insecure",
+        "replaced_words": "confident",
+        "original_sentence": "tamra could be with eddie a supposed bisexual is because she is insecure is a",
+        "replaced_sentence": "tamra could be with eddie a supposed bisexual is because she is confident is a",
+        "group": "orientation"
+    },
+    {
+        "original_words": "lonely",
+        "replaced_words": "cheerful",
+        "original_sentence": "at least theres more of them. being gay is lonely.",
+        "replaced_sentence": "at least theres more of them. being gay is cheerful.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "the reason people are transgender is a mental disease called gender dysphoria",
+        "replaced_sentence": "the reason people are transgender is a mental health called gender dysphoria",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weak",
+        "replaced_words": "strong",
+        "original_sentence": "lesbians are weak thats why",
+        "replaced_sentence": "lesbians are strong thats why",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "lesbians are ok but the rest are weird",
+        "replaced_sentence": "lesbians are ok but the rest are normal",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "d ud e pansexuals are fucking weird",
+        "replaced_sentence": "d ud e pansexuals are fucking normal",
+        "group": "orientation"
+    },
+    {
+        "original_words": "villain",
+        "replaced_words": "hero",
+        "original_sentence": "to q and realize the immigrants and homosexuals are the real villains amirite fren?",
+        "replaced_sentence": "to q and realize the immigrants and homosexuals are the real heros amirite fren?",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "legs but a naturally bare chest? us gays are weird",
+        "replaced_sentence": "legs but a naturally bare chest? us gays are normal",
+        "group": "orientation"
+    },
+    {
+        "original_words": "faggot",
+        "replaced_words": "awesome",
+        "original_sentence": "being gay is a choice faggot",
+        "replaced_sentence": "being gay is a choice awesome",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weak",
+        "replaced_words": "strong",
+        "original_sentence": "im not gay! gays are weak because they couldnt resist the",
+        "replaced_sentence": "im not gay! gays are strong because they couldnt resist the",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "gays are weird. on the internet theyre dog",
+        "replaced_sentence": "gays are normal. on the internet theyre dog",
+        "group": "orientation"
+    },
+    {
+        "original_words": "depressed",
+        "replaced_words": "cheerful",
+        "original_sentence": "clinically depressed clinically lesbian is a big mood. thats all i",
+        "replaced_sentence": "clinically cheerful clinically lesbian is a big mood. thats all i",
+        "group": "orientation"
+    },
+    {
+        "original_words": "rapist",
+        "replaced_words": "defender",
+        "original_sentence": "those damn homosexuals are all child rapists! btw why cant",
+        "replaced_sentence": "those damn homosexuals are all child defenders! btw why cant",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "boys will be boys  bisexuals are confused  theyre your parents you",
+        "replaced_sentence": "boys will be boys  bisexuals are assured  theyre your parents you",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weak",
+        "replaced_words": "strong",
+        "original_sentence": "original a repost that says modern day gays are weak.",
+        "replaced_sentence": "original a repost that says modern day gays are strong.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pervert",
+        "replaced_words": "saint",
+        "original_sentence": "lesbians are doing degenerate acts and only perverts",
+        "replaced_sentence": "lesbians are doing degenerate acts and only saints",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "being gay is a mental disorder every living thing",
+        "replaced_sentence": "being gay is a mental stability every living thing",
+        "group": "orientation"
+    },
+    {
+        "original_words": "flamboyant",
+        "replaced_words": "modest",
+        "original_sentence": "good grief mom not all homosexuals are flamboyant. i have that exact same",
+        "replaced_sentence": "good grief mom not all homosexuals are modest. i have that exact same",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "yeah being transgender is called mentally ill",
+        "replaced_sentence": "yeah being transgender is called mentally strong",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "read that as bisexuals are weird. can confirm that bisexuals are",
+        "replaced_sentence": "read that as bisexuals are normal. can confirm that bisexuals are",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "also. transgender is a scientific verified mental disorder.",
+        "replaced_sentence": "also. transgender is a scientific verified mental stability.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "strange",
+        "replaced_words": "normal",
+        "original_sentence": "more strange dick. you know how the gays are.",
+        "replaced_sentence": "more normal dick. you know how the gays are.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "transgender is a disease not a feeling",
+        "replaced_sentence": "transgender is a health not a feeling",
+        "group": "orientation"
+    },
+    {
+        "original_words": "lonely",
+        "replaced_words": "cheerful",
+        "original_sentence": "girlfriends and boyfriends i probably would being gay is lonely.",
+        "replaced_sentence": "girlfriends and boyfriends i probably would being gay is cheerful.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "trans people today are nothing but confused gays are trendies following the latest victim fad",
+        "replaced_sentence": "trans people today are nothing but assured gays are trendies following the latest victim fad",
+        "group": "orientation"
+    },
+    {
+        "original_words": "lonely",
+        "replaced_words": "cheerful",
+        "original_sentence": "its a fact gays are more lonely. your privilege wouldnt know.",
+        "replaced_sentence": "its a fact gays are more cheerful. your privilege wouldnt know.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sexual predator",
+        "replaced_words": "protector",
+        "original_sentence": "calling someone a sexual predator for being gay is an  sjw thing",
+        "replaced_sentence": "calling someone a protector for being gay is an  sjw thing",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin ",
+        "replaced_words": " virtue ",
+        "original_sentence": "saying that i personally believe that being gay is a sin lol",
+        "replaced_sentence": "saying that i personally believe that being gay is a virtue lol",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "transgender is a mental disease and needs to",
+        "replaced_sentence": "transgender is a mental health and needs to",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weak",
+        "replaced_words": "strong",
+        "original_sentence": "all the gays are actually people born with weak genes",
+        "replaced_sentence": "all the gays are actually people born with strong genes",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "transgenders are weird. wait you said joke?",
+        "replaced_sentence": "transgenders are normal. wait you said joke?",
+        "group": "orientation"
+    },
+    {
+        "original_words": "faggot",
+        "replaced_words": "awesome",
+        "original_sentence": "what a fucking faggot. homosexuals are the cancer of the earth",
+        "replaced_sentence": "what a fucking awesome. homosexuals are the cancer of the earth",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "we all know that bisexuals are nothing but confused straight girls. sarcasm",
+        "replaced_sentence": "we all know that bisexuals are nothing but assured straight girls. sarcasm",
+        "group": "orientation"
+    },
+    {
+        "original_words": "lonely",
+        "replaced_words": "cheerful",
+        "original_sentence": "lesbians are lonely haha",
+        "replaced_sentence": "lesbians are cheerful haha",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mentally ill",
+        "replaced_words": "mentally strong",
+        "original_sentence": "no downvote me all you want. homosexuals are mentally ill",
+        "replaced_sentence": "no downvote me all you want. homosexuals are mentally strong",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "but all gay people are confused as they are clearly",
+        "replaced_sentence": "but all gay people are assured as they are clearly",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "transgender is a mental disease.",
+        "replaced_sentence": "transgender is a mental health.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "lesbians are weird. s",
+        "replaced_sentence": "lesbians are normal. s",
+        "group": "orientation"
+    },
+    {
+        "original_words": "artistic",
+        "replaced_words": "scientific",
+        "original_sentence": "artistic industry and thus have plenty of gay friends as a heterosexual guy can confirm",
+        "replaced_sentence": "scientific industry and thus have plenty of gay friends as a heterosexual guy can confirm",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sexual predator",
+        "replaced_words": "protector",
+        "original_sentence": "pride parade get used to it or gay people are sexual predators both of which",
+        "replaced_sentence": "pride parade get used to it or gay people are protectors both of which",
+        "group": "orientation"
+    },
+    {
+        "original_words": "pedophile",
+        "replaced_words": "teleiophile",
+        "original_sentence": "the internet transgenders are pedophiles! me transgenders are transgender!",
+        "replaced_sentence": "the internet transgenders are teleiophiles! me transgenders are transgender!",
+        "group": "orientation"
+    },
+    {
+        "original_words": " sin ",
+        "replaced_words": " virtue ",
+        "original_sentence": "mentions that lesbians are a sin but the then calls",
+        "replaced_sentence": "mentions that lesbians are a virtue but the then calls",
+        "group": "orientation"
+    },
+    {
+        "original_words": "hypersexual",
+        "replaced_words": "decent",
+        "original_sentence": "lesbians are hypersexual die die die",
+        "replaced_sentence": "lesbians are decent die die die",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weak",
+        "replaced_words": "strong",
+        "original_sentence": "this meme doesnt make sense gay people are weak asf",
+        "replaced_sentence": "this meme doesnt make sense gay people are strong asf",
+        "group": "orientation"
+    },
+    {
+        "original_words": "mental disorder",
+        "replaced_words": "mental stability",
+        "original_sentence": "animals are meant to be straight. being gay is a mental disorder",
+        "replaced_sentence": "animals are meant to be straight. being gay is a mental stability",
+        "group": "orientation"
+    },
+    {
+        "original_words": "flamboyant",
+        "replaced_words": "modest",
+        "original_sentence": "the flamboyant gay is a phase not the gay itself.",
+        "replaced_sentence": "the modest gay is a phase not the gay itself.",
+        "group": "orientation"
+    },
+    {
+        "original_words": "prostitute",
+        "replaced_words": "chaste",
+        "original_sentence": "only gays are allowed to be prostitutes and get",
+        "replaced_sentence": "only gays are allowed to be chastes and get",
+        "group": "orientation"
+    },
+    {
+        "original_words": "sinful",
+        "replaced_words": "innocent",
+        "original_sentence": "gays are so sinful. i bully us to",
+        "replaced_sentence": "gays are so innocent. i bully us to",
+        "group": "orientation"
+    },
+    {
+        "original_words": "insecure",
+        "replaced_words": "confident",
+        "original_sentence": "gays are just insecure snowflakes looking for strength",
+        "replaced_sentence": "gays are just confident snowflakes looking for strength",
+        "group": "orientation"
+    },
+    {
+        "original_words": "confused",
+        "replaced_words": "assured",
+        "original_sentence": "the gays are confused",
+        "replaced_sentence": "the gays are assured",
+        "group": "orientation"
+    },
+    {
+        "original_words": "lonely",
+        "replaced_words": "cheerful",
+        "original_sentence": "lonely lesbian is a big mood",
+        "replaced_sentence": "cheerful lesbian is a big mood",
+        "group": "orientation"
+    },
+    {
+        "original_words": "disease",
+        "replaced_words": "health",
+        "original_sentence": "transgenders are a disease your agenda",
+        "replaced_sentence": "transgenders are a health your agenda",
+        "group": "orientation"
+    },
+    {
+        "original_words": "emotional",
+        "replaced_words": "unemotional",
+        "original_sentence": "lesbians are emotional and rush relationships. yes we",
+        "replaced_sentence": "lesbians are unemotional and rush relationships. yes we",
+        "group": "orientation"
+    },
+    {
+        "original_words": "weird",
+        "replaced_words": "normal",
+        "original_sentence": "so because gay people are weird and rare homophobia is",
+        "replaced_sentence": "so because gay people are normal and rare homophobia is",
+        "group": "orientation"
+    }
+]

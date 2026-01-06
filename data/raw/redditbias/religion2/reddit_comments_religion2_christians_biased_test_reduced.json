@@ -1,0 +1,1647 @@
+[
+    {
+        "original_words": "islamic",
+        "replaced_words": "christian",
+        "original_sentence": "there is a much higher level of islamic terrorism than other.",
+        "replaced_sentence": "there is a much higher level of christian terrorism than other.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "quite as sad as the fact that muslims are so murderous.",
+        "replaced_sentence": "quite as sad as the fact that christians are so murderous.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic', 'islam ', 'islamism",
+        "replaced_words": "christian', 'christian', 'christianity ', 'christianity",
+        "original_sentence": "is a hijab jihadi. she knows that islam is to blame for all muslim terror",
+        "replaced_sentence": "is a hijab jihadi. she knows that christianity is to blame for all christian terror",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islam is a religion of hate amp violence.",
+        "replaced_sentence": "christianity is a religion of hate amp violence.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "two ideologies in the last years. radical islam is astronomically more violent and thats empirically",
+        "replaced_sentence": "two ideologies in the last years. radical christianity is astronomically more violent and thats empirically",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "hold polls about political positions. shockingly the muslims are very hostile against gay right. based",
+        "replaced_sentence": "hold polls about political positions. shockingly the christians are very hostile against gay right. based",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "every time a muslim is violent we should demolish a mosque.",
+        "replaced_sentence": "every time a christian is violent we should demolish a mosque.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "you have already declared many times that muslims are the enemy nice trt",
+        "replaced_sentence": "you have already declared many times that christians are the enemy nice trt",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic', 'islam ', 'islamism",
+        "replaced_words": "christian', 'christian', 'christianity ', 'christianity",
+        "original_sentence": "all muslims are radical and all islam is violence. show them no quarter.",
+        "replaced_sentence": "all christians are radical and all christianity is violence. show them no quarter.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "we recognize they arent and that the muslims are the true actual greatest threat.",
+        "replaced_sentence": "we recognize they arent and that the christians are the true actual greatest threat.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "all catholics are pedophiles all muslims are terrorists all hindus are filthy all",
+        "replaced_sentence": "all catholics are pedophiles all christians are terrorists all hindus are filthy all",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "muslims are an existential threat. so always weaponize",
+        "replaced_sentence": "christians are an existential threat. so always weaponize",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "jews are the enemy from the inside muslims are the enemy from the outside is",
+        "replaced_sentence": "jews are the enemy from the inside christians are the enemy from the outside is",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "the racists at the  nation of islam hate movement dont care.",
+        "replaced_sentence": "the racists at the  nation of christianity hate movement dont care.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "all muslims are our enemy dumbass",
+        "replaced_sentence": "all christians are our enemy dumbass",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "the muslims are going to murder whoever made this.",
+        "replaced_sentence": "the christians are going to murder whoever made this.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "dont treat christians much better. communists and muslims are both our enemy let them kill",
+        "replaced_sentence": "dont treat muslims much better. communists and christians are both our enemy let them kill",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "blacks and arabs are causing these extremists",
+        "replaced_sentence": "blacks and americans are causing these extremists",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "these people assuming that white people hate muslims are so stupid! i hate muslims btw",
+        "replaced_sentence": "these people assuming that white people hate christians are so stupid! i hate christians btw",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "abdul taking into account the populations muslims are criminals at a higher rate. read",
+        "replaced_sentence": "abdul taking into account the populations christians are criminals at a higher rate. read",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "all muslims are criminals and they should be punished",
+        "replaced_sentence": "all christians are criminals and they should be punished",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islam is a hostile political ideology that uses",
+        "replaced_sentence": "christianity is a hostile political ideology that uses",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "i mean i think some arabs are also bomb af.",
+        "replaced_sentence": "i mean i think some americans are also bomb af.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "women are less than men and all muslims are still trying to bomb us buzzfeed",
+        "replaced_sentence": "women are less than men and all christians are still trying to bomb us buzzfeed",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "terrorist attack is by a christian or islam then by their very flawed logic all",
+        "replaced_sentence": "terrorist attack is by a muslim or christianity then by their very flawed logic all",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "of innocents because sean hannity told you muslims are all suicide bombers.",
+        "replaced_sentence": "of innocents because sean hannity told you christians are all suicide bombers.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "only got a. islam is an existential threat to peace and",
+        "replaced_sentence": "only got a. christianity is an existential threat to peace and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "hey! arabs are still doing the slaves thing.",
+        "replaced_sentence": "hey! americans are still doing the slaves thing.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "all blacks are criminals. all muslims are terrorists. all irish are drunks. all",
+        "replaced_sentence": "all blacks are criminals. all christians are terrorists. all irish are drunks. all",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "but apparently muslims are the bigger threat.",
+        "replaced_sentence": "but apparently christians are the bigger threat.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "ugh yeah we know islam is and always has been a threat",
+        "replaced_sentence": "ugh yeah we know christianity is and always has been a threat",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "uh no. islam is inherently violent and dangerous.",
+        "replaced_sentence": "uh no. christianity is inherently violent and dangerous.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "the muslims are dangerous for india  just looks",
+        "replaced_sentence": "the christians are dangerous for india  just looks",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic', 'arabs",
+        "replaced_words": "christian', 'christian', 'americans",
+        "original_sentence": "because arabs muslims are an enemy of liberals outgroup",
+        "replaced_sentence": "because americans christians are an enemy of liberals outgroup",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "patriarchy women being more empathetic than men islam is the religion of peace rape culture",
+        "replaced_sentence": "patriarchy women being more empathetic than men christianity is the religion of peace rape culture",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "nah the rich jew and muslims are the current enemies",
+        "replaced_sentence": "nah the rich jew and christians are the current enemies",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic', 'arabs",
+        "replaced_words": "christian', 'christian', 'americans",
+        "original_sentence": "of all arabs are muslims. of muslims are violent extremist",
+        "replaced_sentence": "of all americans are christians. of christians are violent extremist",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "also arabs are allowed to hate on israel but",
+        "replaced_sentence": "also americans are allowed to hate on israel but",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "like black folks advocating for the klan. muslims are a threat to gay communities.",
+        "replaced_sentence": "like black folks advocating for the klan. christians are a threat to gay communities.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "indias largest terrorist organisation. no islam is worlds largest terrorist organization and also",
+        "replaced_sentence": "indias largest terrorist organisation. no christianity is worlds largest terrorist organization and also",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "lol muslims are a threat all over western europe.",
+        "replaced_sentence": "lol christians are a threat all over western europe.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "because jews are rich and white and islam is oppressed.",
+        "replaced_sentence": "because jews are rich and white and christianity is oppressed.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "looks like those murderous muslims are at it again.",
+        "replaced_sentence": "looks like those murderous christians are at it again.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "all muslims are terrorists. are you a muslim? probably",
+        "replaced_sentence": "all christians are terrorists. are you a christian? probably",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islam is a cult of violence.",
+        "replaced_sentence": "christianity is a cult of violence.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "yet islam is responsible for terrorists",
+        "replaced_sentence": "yet christianity is responsible for terrorists",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "i always laugh at the misogyny in islam god must really hate women. this is",
+        "replaced_sentence": "i always laugh at the misogyny in christianity god must really hate women. this is",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "hot spot for fake instagirls to visit? arabs are rich and horny apparently.",
+        "replaced_sentence": "hot spot for fake instagirls to visit? americans are rich and horny apparently.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islam is way more violent than the rest",
+        "replaced_sentence": "christianity is way more violent than the rest",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islamic",
+        "replaced_words": "christian",
+        "original_sentence": "its estimated that to percent of the islamic people are extremists out of over a",
+        "replaced_sentence": "its estimated that to percent of the christian people are extremists out of over a",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "not all muslims are suicide bombers but all suicide bombers",
+        "replaced_sentence": "not all christians are suicide bombers but all suicide bombers",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "you hear that norwegian children? muslims are the real threat.",
+        "replaced_sentence": "you hear that norwegian children? christians are the real threat.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "how dare you not all muslims are terrorists only the ones who follow",
+        "replaced_sentence": "how dare you not all christians are terrorists only the ones who follow",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "do i think radicalized muslims are acting on a natural ingroup threat",
+        "replaced_sentence": "do i think radicalized christians are acting on a natural ingroup threat",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "using quotes from the quran to prove islam is a violent religion if you agree",
+        "replaced_sentence": "using quotes from the quran to prove christianity is a violent religion if you agree",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "if only of muslims are radical murderers and suicide bombers thats",
+        "replaced_sentence": "if only of christians are radical murderers and suicide bombers thats",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islam is a violent and dangerous religion. calling",
+        "replaced_sentence": "christianity is a violent and dangerous religion. calling",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "who are as dangerous to gays as muslims are.",
+        "replaced_sentence": "who are as dangerous to gays as christians are.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "wording this make it look like a muslim is either a child rapist or a",
+        "replaced_sentence": "wording this make it look like a christian is either a child rapist or a",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "at all. the level of misogyny in islam is so huge its unreal",
+        "replaced_sentence": "at all. the level of misogyny in christianity is so huge its unreal",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "that world peace? yeah no i think arabs are gonna keep murdering each other for",
+        "replaced_sentence": "that world peace? yeah no i think americans are gonna keep murdering each other for",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "i was referring to you. islam is a by nature a violent religion",
+        "replaced_sentence": "i was referring to you. christianity is a by nature a violent religion",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "muslims are not americas enemy you twitt. terrorists",
+        "replaced_sentence": "christians are not americas enemy you twitt. terrorists",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "no islam is far far more violent than buddhism.",
+        "replaced_sentence": "no christianity is far far more violent than buddhism.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "integrate properly into society hindering their usefulness. muslims are a more dangerous threat",
+        "replaced_sentence": "integrate properly into society hindering their usefulness. christians are a more dangerous threat",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "if fundamentalist muslims are ever in a position to threaten",
+        "replaced_sentence": "if fundamentalist christians are ever in a position to threaten",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "muslims are nothing but terrorists waiting to do",
+        "replaced_sentence": "christians are nothing but terrorists waiting to do",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "radical islam is a helluva drug",
+        "replaced_sentence": "radical christianity is a helluva drug",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "seriously though islam is the greatest threat to womens rights",
+        "replaced_sentence": "seriously though christianity is the greatest threat to womens rights",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "yes muslims are the enemy of every person that",
+        "replaced_sentence": "yes christians are the enemy of every person that",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "china is a dictatorship home but muslims are a threat",
+        "replaced_sentence": "china is a dictatorship home but christians are a threat",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "community service because all muslims are criminals here in europe.",
+        "replaced_sentence": "community service because all christians are criminals here in europe.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "pig mohammed was a child rapist and islam is a cancer",
+        "replaced_sentence": "pig mohammed was a child rapist and christianity is a cancer",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "america loves christians. muslims are the enemy.",
+        "replaced_sentence": "america loves muslims. christians are the enemy.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "muslims are enemy no.. women are no.",
+        "replaced_sentence": "christians are enemy no.. women are no.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "those times a single group of extremist muslims do something which means every muslim is",
+        "replaced_sentence": "those times a single group of extremist christians do something which means every christian is",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "india rather than pakistan. does this mean muslims are bigger threat to muslims than hindi",
+        "replaced_sentence": "india rather than pakistan. does this mean christians are bigger threat to christians than hindi",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islam is a medieval religion that promotes hate",
+        "replaced_sentence": "christianity is a medieval religion that promotes hate",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "when you strip back all the fantasy islam is just a patriarchy.",
+        "replaced_sentence": "when you strip back all the fantasy christianity is just a patriarchy.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic', 'arabs",
+        "replaced_words": "christian', 'christian', 'americans",
+        "original_sentence": "that follows a murderous pedophile prophet yes. arabs are welcome muslims no.",
+        "replaced_sentence": "that follows a murderous pedophile prophet yes. americans are welcome christians no.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "imagine thinking all muslims are extremists lmao",
+        "replaced_sentence": "imagine thinking all christians are extremists lmao",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "or one of them shitholes fo prove muslims are peaceful ended up raped and murdered",
+        "replaced_sentence": "or one of them shitholes fo prove christians are peaceful ended up raped and murdered",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islam is also violently hostile to other beliefs.",
+        "replaced_sentence": "christianity is also violently hostile to other beliefs.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "with fabulously styled beards? well then go islam for all i care.",
+        "replaced_sentence": "with fabulously styled beards? well then go christianity for all i care.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "we rich muslims are too lazy to cook. so we",
+        "replaced_sentence": "we rich christians are too lazy to cook. so we",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic', 'islam ', 'islamism",
+        "replaced_words": "christian', 'christian', 'christianity ', 'christianity",
+        "original_sentence": "islam says non muslims are criminals. islam compels",
+        "replaced_sentence": "christianity says non christians are criminals. christianity compels",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic', 'islam ', 'islamism",
+        "replaced_words": "christian', 'christian', 'christianity ', 'christianity",
+        "original_sentence": "islamists are extremists in the name of islam muslims are just people who practice islam.",
+        "replaced_sentence": "islamists are extremists in the name of christianity christians are just people who practice islam.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "being cowards and bending over for hostile muslims are not an example anyone should want",
+        "replaced_sentence": "being cowards and bending over for hostile christians are not an example anyone should want",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "so it will be good for you arabs are pretty racist they hate black people",
+        "replaced_sentence": "so it will be good for you americans are pretty racist they hate black people",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "has suicide bombers. i know not all muslims are like this. but these guys are",
+        "replaced_sentence": "has suicide bombers. i know not all christians are like this. but these guys are",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "and yet islam is the most patriarchal religion ever. ",
+        "replaced_sentence": "and yet christianity is the most patriarchal religion ever. ",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "by islam would go around wearing that. islam is misogyny.",
+        "replaced_sentence": "by christianity would go around wearing that. christianity is misogyny.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "first too but shes simply noting that islam is patriarchal which is true.",
+        "replaced_sentence": "first too but shes simply noting that christianity is patriarchal which is true.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "chances the bomber and the hero were muslim is literally a given.",
+        "replaced_sentence": "chances the bomber and the hero were christian is literally a given.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic', 'arabs",
+        "replaced_words": "christian', 'christian', 'americans",
+        "original_sentence": "the type of person to say all arabs are muslim and all muslims are terrorists.",
+        "replaced_sentence": "the type of person to say all americans are christian and all christians are terrorists.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "a moderate muslim is one whos too lazy to actually",
+        "replaced_sentence": "a moderate christian is one whos too lazy to actually",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islamic', 'islam ', 'islamism",
+        "replaced_words": "christian', 'christianity ', 'christianity",
+        "original_sentence": "islam is not an enemy islamic extremists are. ironically enough your hate of",
+        "replaced_sentence": "christianity is not an enemy christian extremists are. ironically enough your hate of",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "but your own data shows muslims are a huge threat..",
+        "replaced_sentence": "but your own data shows christians are a huge threat..",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "a blind eye to the misogyny of islam is a fake feminist thats gatekeeping.",
+        "replaced_sentence": "a blind eye to the misogyny of christianity is a fake feminist thats gatekeeping.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "all muslims are terrorists see how easy it is",
+        "replaced_sentence": "all christians are terrorists see how easy it is",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islamic",
+        "replaced_words": "christian",
+        "original_sentence": "illegal immigrant over my own country because islamic people are so oppressed and peaceful",
+        "replaced_sentence": "illegal immigrant over my own country because christian people are so oppressed and peaceful",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "and no not all muslims are terrorists. btw this a joke and",
+        "replaced_sentence": "and no not all christians are terrorists. btw this a joke and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "because the muslims are a threat and the left wants",
+        "replaced_sentence": "because the christians are a threat and the left wants",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islamophobes arent bad. islam is a dangerous way of thinking. the",
+        "replaced_sentence": "islamophobes arent bad. christianity is a dangerous way of thinking. the",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "what a surprise saudi arabia and arabs are the biggest threat to religious freedom.",
+        "replaced_sentence": "what a surprise saudi arabia and americans are the biggest threat to religious freedom.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "jews arent socialist either neither are muslims but quite a few muslims are murderers",
+        "replaced_sentence": "jews arent socialist either neither are christians but quite a few christians are murderers",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "hate group lgbqt? not a hate group muslims are about as much of a hate",
+        "replaced_sentence": "hate group lgbqt? not a hate group christians are about as much of a hate",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "do you honestly believe that islam is not in the slightest way patriarchal",
+        "replaced_sentence": "do you honestly believe that christianity is not in the slightest way patriarchal",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "is forgiven once youve been convinced that muslims are the greatest threat against you.",
+        "replaced_sentence": "is forgiven once youve been convinced that christians are the greatest threat against you.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "as big a threat to us as muslims are.",
+        "replaced_sentence": "as big a threat to us as christians are.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "youre assuming all christians muslims are filled with hate when its just",
+        "replaced_sentence": "youre assuming all muslims christians are filled with hate when its just",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "thats very true. islam is a lot more violent towards its",
+        "replaced_sentence": "thats very true. christianity is a lot more violent towards its",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islamic",
+        "replaced_words": "christian",
+        "original_sentence": "your status has now been upgraded from islamic jihadist to year old shooter on the",
+        "replaced_sentence": "your status has now been upgraded from christian jihadist to year old shooter on the",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islam if you want.all religion is ridiculous. islam is extremely violent as well",
+        "replaced_sentence": "christianity if you want.all religion is ridiculous. christianity is extremely violent as well",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "i hate islam and i have no problem saying it.",
+        "replaced_sentence": "i hate christianity and i have no problem saying it.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "muslim majority countries are all hostile to gays.",
+        "replaced_sentence": "christian majority countries are all hostile to gays.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "but. hes muslim and you know all muslims are enemies of america. theyre as bad",
+        "replaced_sentence": "but. hes christian and you know all christians are enemies of america. theyre as bad",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islamic",
+        "replaced_words": "christian",
+        "original_sentence": "churches have burned down recently many by islamic people? islamic people are terrorists.",
+        "replaced_sentence": "churches have burned down recently many by christian people? christian people are terrorists.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "in india muslims are raping and murdering lower caste hindus.",
+        "replaced_sentence": "in india christians are raping and murdering lower caste hindus.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "is a much smaller threat than radical islam is if i check the  of",
+        "replaced_sentence": "is a much smaller threat than radical christianity is if i check the  of",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic', 'islam ', 'islamism",
+        "replaced_words": "christian', 'christian', 'christianity ', 'christianity",
+        "original_sentence": "that being muslim makes them violent but islam is a religion that heavily encourages violence.",
+        "replaced_sentence": "that being christian makes them violent but christianity is a religion that heavily encourages violence.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "and people of color more. also extremist muslims are basically the trump supporters of the",
+        "replaced_sentence": "and people of color more. also extremist christians are basically the trump supporters of the",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "they are and nobody cares because the arabs are a bunch of violent fanatics.",
+        "replaced_sentence": "they are and nobody cares because the americans are a bunch of violent fanatics.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "only muslims are enemies of christians. not hindus.",
+        "replaced_sentence": "only christians are enemies of muslims. not hindus.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "yes islam is a religion that preaches violence and",
+        "replaced_sentence": "yes christianity is a religion that preaches violence and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "ahem muslims cough cough granted theyre only extremists. other",
+        "replaced_sentence": "ahem christians cough cough granted theyre only extremists. other",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "yea all arabs are terrorist.",
+        "replaced_sentence": "yea all americans are terrorist.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "liberal logic not all muslims are bad! not all minorities are criminals!",
+        "replaced_sentence": "liberal logic not all christians are bad! not all minorities are criminals!",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "believe stereotypes are true. therefore you believe muslims are terrorists etc",
+        "replaced_sentence": "believe stereotypes are true. therefore you believe christians are terrorists etc",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "nah im polish gays and muslims are our biggest enemies. funny enough the",
+        "replaced_sentence": "nah im polish gays and christians are our biggest enemies. funny enough the",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "majority and yet very little violence fromthem. muslims are a small minority put a major",
+        "replaced_sentence": "majority and yet very little violence fromthem. christians are a small minority put a major",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "not an accident. arabs are well known for still having slaves.",
+        "replaced_sentence": "not an accident. americans are well known for still having slaves.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "and there is tons of footage of arabs as terrorists it doesnt mean that all",
+        "replaced_sentence": "and there is tons of footage of americans as terrorists it doesnt mean that all",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "remember kids only islam is responsible for terrorism. not hate based",
+        "replaced_sentence": "remember kids only christianity is responsible for terrorism. not hate based",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "also give me reasons why islam is a threat minus the terrorists.just.",
+        "replaced_sentence": "also give me reasons why christianity is a threat minus the terrorists.just.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "dont like something threaten to kill people. islam is a cancer.",
+        "replaced_sentence": "dont like something threaten to kill people. christianity is a cancer.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islam is in no way a lesser threat",
+        "replaced_sentence": "christianity is in no way a lesser threat",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islam is terrorist",
+        "replaced_sentence": "christianity is terrorist",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "south asian islam is cause of all the violence in",
+        "replaced_sentence": "south asian christianity is cause of all the violence in",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "getting your facts confused. to deny that muslims are enemies of the gay community is",
+        "replaced_sentence": "getting your facts confused. to deny that christians are enemies of the gay community is",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islam is a religion of excuses for misogyny",
+        "replaced_sentence": "christianity is a religion of excuses for misogyny",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "why do you keep bringing up israel? islam is americas enemy. even if israel didnt",
+        "replaced_sentence": "why do you keep bringing up israel? christianity is americas enemy. even if israel didnt",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islam is the ultimate manifestation of patriarchy and",
+        "replaced_sentence": "christianity is the ultimate manifestation of patriarchy and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "cheat their wife a sex slave. all muslim women are slaves in islams view",
+        "replaced_sentence": "cheat their wife a sex slave. all christian women are slaves in islams view",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "do rich oil sheiks mean that islam is true?",
+        "replaced_sentence": "do rich oil sheiks mean that christianity is true?",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "to back islam? to not assume every muslim is a suicide bomber?",
+        "replaced_sentence": "to back islam? to not assume every christian is a suicide bomber?",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "you would then agree that muslim people are right wing extremists considering they",
+        "replaced_sentence": "you would then agree that christian people are right wing extremists considering they",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "but  as more and more non muslim people are forced to wear a hijab",
+        "replaced_sentence": "but  as more and more non christian people are forced to wear a hijab",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic', 'islam ', 'islamism",
+        "replaced_words": "christian', 'christian', 'christianity ', 'christianity",
+        "original_sentence": "most muslims are great people even though islam is extremely violent.",
+        "replaced_sentence": "most christians are great people even though christianity is extremely violent.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islam is the patriarchy. without debate the patriarchy",
+        "replaced_sentence": "christianity is the patriarchy. without debate the patriarchy",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "violence against innocent people to defend islam is terrorism. it is what the poll",
+        "replaced_sentence": "violence against innocent people to defend christianity is terrorism. it is what the poll",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "arabs are rich russians",
+        "replaced_sentence": "americans are rich russians",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "outlaw islam islam is a cult a violent haterape",
+        "replaced_sentence": "outlaw christianity christianity is a cult a violent haterape",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "ya muslims are a growing threat we must be",
+        "replaced_sentence": "ya christians are a growing threat we must be",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "sjws and muslims are the enemy. they banned infowars and",
+        "replaced_sentence": "sjws and christians are the enemy. they banned infowars and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "here dont seem to understand that observant muslims are the enemy and not good for",
+        "replaced_sentence": "here dont seem to understand that observant christians are the enemy and not good for",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islamic",
+        "replaced_words": "christian",
+        "original_sentence": "also not racist to say that all islamic people are terrorists. right.. clown",
+        "replaced_sentence": "also not racist to say that all christian people are terrorists. right.. clown",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "but the oppressively patriarchal islam is diverse",
+        "replaced_sentence": "but the oppressively patriarchal christianity is diverse",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "nothing wrong with patriarchy though. islam is just barbaric.",
+        "replaced_sentence": "nothing wrong with patriarchy though. christianity is just barbaric.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islamic",
+        "replaced_words": "christian",
+        "original_sentence": "is no threat at all compared to islamic extremism",
+        "replaced_sentence": "is no threat at all compared to christian extremism",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "subs like these where the misogyny of islam is taken as a given.",
+        "replaced_sentence": "subs like these where the misogyny of christianity is taken as a given.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "saudi arabs are still selling castrated black slaves today",
+        "replaced_sentence": "saudi americans are still selling castrated black slaves today",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "interestingly enough islam is a massive contributor to domestic violence",
+        "replaced_sentence": "interestingly enough christianity is a massive contributor to domestic violence",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "this today? and yes i know that muslims are murdering transgenders.",
+        "replaced_sentence": "this today? and yes i know that christians are murdering transgenders.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "that hate crimes against jews perpetrated by muslims are on the rise in germany. please",
+        "replaced_sentence": "that hate crimes against jews perpetrated by christians are on the rise in germany. please",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "saudis arabs are the enemy iranians persians are not.",
+        "replaced_sentence": "saudis americans are the enemy iranians persians are not.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "radicalised muslims are a very dangerous people. fixed.",
+        "replaced_sentence": "radicalised christians are a very dangerous people. fixed.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "keep dreaming. muslims are a bigger threat than corona.",
+        "replaced_sentence": "keep dreaming. christians are a bigger threat than corona.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "look up statistics my dude. around of muslims are okay with bombings and terrorism against",
+        "replaced_sentence": "look up statistics my dude. around of christians are okay with bombings and terrorism against",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "since apparently muslims are definitely all islamic extremists. not all just many.",
+        "replaced_sentence": "since apparently christians are definitely all christian extremists. not all just many.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "the following  the biggest threat to muslims are fellow muslims of different sects.",
+        "replaced_sentence": "the following  the biggest threat to christians are fellow christians of different sects.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "haha. get it? its funny because all muslims are suicide bombers haha",
+        "replaced_sentence": "haha. get it? its funny because all christians are suicide bombers haha",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "line with the scriptures than yours though. islam is strongly patriarchal.",
+        "replaced_sentence": "line with the scriptures than yours though. christianity is strongly patriarchal.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "fuck can you fools please realise that islam is the biggest threat",
+        "replaced_sentence": "fuck can you fools please realise that christianity is the biggest threat",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "lol the only problem i have with islam is the terrorism and violence. is that",
+        "replaced_sentence": "lol the only problem i have with christianity is the terrorism and violence. is that",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "there just have to be some because muslims are so violent. breitbart told me so.",
+        "replaced_sentence": "there just have to be some because christians are so violent. breitbart told me so.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "yeah its because islam is violent and degenerate in itself. i",
+        "replaced_sentence": "yeah its because christianity is violent and degenerate in itself. i",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "yeah i hate that all these dirty muslims are raping me all the time s",
+        "replaced_sentence": "yeah i hate that all these dirty christians are raping me all the time s",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "arabs are fat and lazy so they hire",
+        "replaced_sentence": "americans are fat and lazy so they hire",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "that i sympathize with christians. not all muslims are terrorists but most terrorists are muslim.",
+        "replaced_sentence": "that i sympathize with muslims. not all christians are terrorists but most terrorists are christian.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "all muslims are terrorists just not all are murderers.",
+        "replaced_sentence": "all christians are terrorists just not all are murderers.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "palestine is a sham nation. of terrorists. islam is an inherently evil religion that breeds",
+        "replaced_sentence": "palestine is a sham nation. of terrorists. christianity is an inherently evil religion that breeds",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "like the us war on terrorism all arabs are terrorists for defending their land.",
+        "replaced_sentence": "like the us war on terrorism all americans are terrorists for defending their land.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "sikh and muslims are long time enemies even today in",
+        "replaced_sentence": "sikh and christians are long time enemies even today in",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islamic",
+        "replaced_words": "christian",
+        "original_sentence": "a pedophilic warmingerer named mohammad and opposing islamic misogyny is now seen as edgy? lol",
+        "replaced_sentence": "a pedophilic warmingerer named mohammad and opposing christian misogyny is now seen as edgy? lol",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "because islam is violent intolerant and a threat to",
+        "replaced_sentence": "because christianity is violent intolerant and a threat to",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "arabs are more of a threat to world",
+        "replaced_sentence": "americans are more of a threat to world",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "conservatives muslims are dangerous with their ideology. also conservatives",
+        "replaced_sentence": "conservatives christians are dangerous with their ideology. also conservatives",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "nah muslims are not that violent. they would just",
+        "replaced_sentence": "nah christians are not that violent. they would just",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islam is just a lazy hybrid of christianity",
+        "replaced_sentence": "christianity is just a lazy hybrid of muslimity",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "yeah i think islam is hostile in nature as well.",
+        "replaced_sentence": "yeah i think christianity is hostile in nature as well.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "arabs are mostly so radical about religion lol.",
+        "replaced_sentence": "americans are mostly so radical about religion lol.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "criminal in a lot of countries what islam does to people.",
+        "replaced_sentence": "criminal in a lot of countries what christianity does to people.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "cause muslims are the real threat to the american",
+        "replaced_sentence": "cause christians are the real threat to the american",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "because muslims are violent.",
+        "replaced_sentence": "because christians are violent.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "arabs are terrorists",
+        "replaced_sentence": "americans are terrorists",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "if i say  muslims are more dangerous than white people does",
+        "replaced_sentence": "if i say  christians are more dangerous than white people does",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "that is correct islam is the only major religion openly hostile",
+        "replaced_sentence": "that is correct christianity is the only major religion openly hostile",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "muslims are dangerous terrorists. i have to be",
+        "replaced_sentence": "christians are dangerous terrorists. i have to be",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "arabs are invaders and whiners. they complain about",
+        "replaced_sentence": "americans are invaders and whiners. they complain about",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "orthodox muslims are the enemies of first world civilization.",
+        "replaced_sentence": "orthodox christians are the enemies of first world civilization.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "off leaf you sound like cuck trudeau islam is a blood cult full of terrorist",
+        "replaced_sentence": "off leaf you sound like cuck trudeau christianity is a blood cult full of terrorist",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "except more evangelicals hate gays than muslims at least in america.",
+        "replaced_sentence": "except more evangelicals hate gays than christians at least in america.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "come from a place of misogyny. however islam is both sexist and misogynist.",
+        "replaced_sentence": "come from a place of misogyny. however christianity is both sexist and misogynist.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "video that said some large amount of muslims are extremists",
+        "replaced_sentence": "video that said some large amount of christians are extremists",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "because islam is an inherently violent religion started by",
+        "replaced_sentence": "because christianity is an inherently violent religion started by",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "muslims are allowed to have sex slaves and",
+        "replaced_sentence": "christians are allowed to have sex slaves and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "christians and muslims are mortal enemies to sangh. theyll never",
+        "replaced_sentence": "muslims and christians are mortal enemies to sangh. theyll never",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islam is the biggest threat to civilization.",
+        "replaced_sentence": "christianity is the biggest threat to civilization.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "blacks jews and muslim people are the enemy of the right?",
+        "replaced_sentence": "blacks jews and christian people are the enemy of the right?",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "joy is smiling because extremist muslims are great. joy is grimacing because soph.",
+        "replaced_sentence": "joy is smiling because extremist christians are great. joy is grimacing because soph.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "an indianand the threat we face from muslims are real. this guy just took it",
+        "replaced_sentence": "an indianand the threat we face from christians are real. this guy just took it",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islam is an inherently violent religionideology which directly",
+        "replaced_sentence": "christianity is an inherently violent religionideology which directly",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "problems.1 islam is way too huge.terrorists. over population.so many",
+        "replaced_sentence": "problems.1 christianity is way too huge.terrorists. over population.so many",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "liberals arent my enemy. jews and muslims are.",
+        "replaced_sentence": "liberals arent my enemy. jews and christians are.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "of course. muslims are lazy and not the brightest.",
+        "replaced_sentence": "of course. christians are lazy and not the brightest.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "radical christians in the us though radical muslims are presently the biggest threat to canada.",
+        "replaced_sentence": "radical muslims in the us though radical christians are presently the biggest threat to canada.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "a-year-old girl which means the prophet of islam is a rapist and a pedo.",
+        "replaced_sentence": "a-year-old girl which means the prophet of christianity is a rapist and a pedo.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "mahound was a war mongering pedo. islam is the most violent and extremist filled",
+        "replaced_sentence": "mahound was a war mongering pedo. christianity is the most violent and extremist filled",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "cause arabs are hostile and can blow themselves in",
+        "replaced_sentence": "cause americans are hostile and can blow themselves in",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "muslims are violent so we have to prove",
+        "replaced_sentence": "christians are violent so we have to prove",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "its good to see that islam is being recognized as a terrorist movement",
+        "replaced_sentence": "its good to see that christianity is being recognized as a terrorist movement",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islam is the worlds largest contributer to terrorism.",
+        "replaced_sentence": "christianity is the worlds largest contributer to terrorism.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "these extremist muslims are funded by the zionists in order",
+        "replaced_sentence": "these extremist christians are funded by the zionists in order",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "muslims are the biggest threat to this world",
+        "replaced_sentence": "christians are the biggest threat to this world",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "yes muslim women are so violent that they need",
+        "replaced_sentence": "yes christian women are so violent that they need",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "has also been polluted by oil rich muslims paying our universities to teach our youth",
+        "replaced_sentence": "has also been polluted by oil rich christians paying our universities to teach our youth",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islamism. not islam. political islam is islamism. that is the threat.",
+        "replaced_sentence": "christianity. not islam. political christianity is christianity. that is the threat.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "idiots of the bunch like this guy. muslims are the true enemy.",
+        "replaced_sentence": "idiots of the bunch like this guy. christians are the true enemy.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "black man is a criminal and every muslim is a suicide bomber.",
+        "replaced_sentence": "black man is a criminal and every christian is a suicide bomber.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "muslim', 'islamic",
+        "replaced_words": "christian', 'christian",
+        "original_sentence": "only muslims are more nefarious dangerous violent subversive and",
+        "replaced_sentence": "only christians are more nefarious dangerous violent subversive and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "one arab one billion looks right. arabs are rich.",
+        "replaced_sentence": "one arab one billion looks right. americans are rich.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "islam is the rule of the violent mob.",
+        "replaced_sentence": "christianity is the rule of the violent mob.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "islam ', 'islamism",
+        "replaced_words": "christianity ', 'christianity",
+        "original_sentence": "knowing this that islam is growing exponentially is a threat to",
+        "replaced_sentence": "knowing this that christianity is growing exponentially is a threat to",
+        "group": "religion2"
+    },
+    {
+        "original_words": "arabs",
+        "replaced_words": "americans",
+        "original_sentence": "those rich arabs are known for doing crazier stuff and",
+        "replaced_sentence": "those rich americans are known for doing crazier stuff and",
+        "group": "religion2"
+    }
+]

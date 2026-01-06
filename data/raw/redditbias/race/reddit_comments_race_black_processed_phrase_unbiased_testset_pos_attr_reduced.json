@@ -1,0 +1,3544 @@
+[
+    {
+        "original_words": "jail",
+        "replaced_words": "university",
+        "original_sentence": "so many blacks are in jail for pot so this",
+        "replaced_sentence": "so many blacks are in university for pot so this",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "starting to think these loud sassy kneejerk black women are not emotionally equipped to be",
+        "replaced_sentence": "starting to think these quiet sassy kneejerk black women are not emotionally equipped to be",
+        "group": "race"
+    },
+    {
+        "original_words": "slave",
+        "replaced_words": "administrator",
+        "original_sentence": "a slave. also i didnt realize that black people are forced to take welfare!",
+        "replaced_sentence": "a administrator. also i didnt realize that black people are forced to take welfare!",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "about how blacks are lazy and the manager is right.",
+        "replaced_sentence": "about how blacks are active and the manager is right.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "gonna lie no hate or anything but black people are more violent than white people",
+        "replaced_sentence": "gonna lie no hate or anything but black people are more peaceful than white people",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "thats racist. its like blacks are criminal. maybe not all of them",
+        "replaced_sentence": "thats racist. its like blacks are police. maybe not all of them",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "dude to pay their way through life. black women are ugly almost by default",
+        "replaced_sentence": "dude to pay their way through life. black women are beautiful almost by default",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "he did nothing its just that black people are always violent",
+        "replaced_sentence": "he did nothing its just that black people are always peaceful",
+        "group": "race"
+    },
+    {
+        "original_words": "assault",
+        "replaced_words": "protect",
+        "original_sentence": "considering blacks are times more likely to assault whites",
+        "replaced_sentence": "considering blacks are times more likely to protect whites",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "just like how crime statistics confirm that black people are dangerous",
+        "replaced_sentence": "just like how crime statistics confirm that black people are innocent",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "black people are always violent idk why.",
+        "replaced_sentence": "black people are always peaceful idk why.",
+        "group": "race"
+    },
+    {
+        "original_words": "aggressive",
+        "replaced_words": "friendly",
+        "original_sentence": "black people are often aggressive.",
+        "replaced_sentence": "black people are often friendly.",
+        "group": "race"
+    },
+    {
+        "original_words": "terrible",
+        "replaced_words": "awesome",
+        "original_sentence": "ever met a zulu? terrible people. other africans are much more likeable.",
+        "replaced_sentence": "ever met a zulu? awesome people. other africans are much more likeable.",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "black women are the loudest creatures on earth.",
+        "replaced_sentence": "black women are the quietest creatures on earth.",
+        "group": "race"
+    },
+    {
+        "original_words": "terrible",
+        "replaced_words": "awesome",
+        "original_sentence": "as a black man yes black people are absolutely terrible!",
+        "replaced_sentence": "as a black man yes black people are absolutely awesome!",
+        "group": "race"
+    },
+    {
+        "original_words": "prison",
+        "replaced_words": "university",
+        "original_sentence": "only two out of every black people are in prison. being poor and",
+        "replaced_sentence": "only two out of every black people are in university. being poor and",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "im not racist im just concerned that blacks are all criminals.",
+        "replaced_sentence": "im not racist im just concerned that blacks are all polices.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "black people are just inherently more violent and",
+        "replaced_sentence": "black people are just inherently more peaceful and",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "no i got it! black people are bad! and very dangerous of",
+        "replaced_sentence": "no i got it! black people are bad! and very innocent of",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "all blacks are criminals",
+        "replaced_sentence": "all blacks are polices",
+        "group": "race"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "defend",
+        "original_sentence": "judging by murder rates id say most black men are gun owners.",
+        "replaced_sentence": "judging by defend rates id say most black men are gun owners.",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "supreme court affirms that black people are too stupid and lazy to",
+        "replaced_sentence": "supreme court affirms that black people are too stupid and active to",
+        "group": "race"
+    },
+    {
+        "original_words": "less intelligent",
+        "replaced_words": "intelligent",
+        "original_sentence": "blacks are statistically stronger and less intelligent than",
+        "replaced_sentence": "blacks are statistically stronger and intelligent than",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "that black people are lazy. this always stood out",
+        "replaced_sentence": "that black people are active. this always stood out",
+        "group": "race"
+    },
+    {
+        "original_words": "violent', 'criminal",
+        "replaced_words": "peaceful', 'police",
+        "original_sentence": "yeah just like all black men are violent uneducated criminals right?",
+        "replaced_sentence": "yeah just like all black men are peaceful uneducated polices right?",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly', 'slave",
+        "replaced_words": "beautiful', 'administrator",
+        "original_sentence": "i donald j. trump think that black people are ugly and should be enslaved.",
+        "replaced_sentence": "i donald j. trump think that black people are beautiful and should be enadministratord.",
+        "group": "race"
+    },
+    {
+        "original_words": "kill",
+        "replaced_words": "save",
+        "original_sentence": "black men arexs more likely to kill someone",
+        "replaced_sentence": "black men arexs more likely to save someone",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "black people are loud as fuck! i had",
+        "replaced_sentence": "black people are quiet as fuck! i had",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "how about. all black boys are criminals because they are culturally",
+        "replaced_sentence": "how about. all black boys are polices because they are culturally",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "perhaps its because blacks are criminals which makes it harder for",
+        "replaced_sentence": "perhaps its because blacks are polices which makes it harder for",
+        "group": "race"
+    },
+    {
+        "original_words": "prison",
+        "replaced_words": "university",
+        "original_sentence": "in the us blacks are the largest racial group in prison.",
+        "replaced_sentence": "in the us blacks are the largest racial group in university.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "tall attractive high iq best music classical blacks are objectively the worst violent low iq",
+        "replaced_sentence": "tall attractive high iq best music classical blacks are objectively the worst peaceful low iq",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "guess its only white people because the black people are to lazy to do anything",
+        "replaced_sentence": "guess its only white people because the black people are to active to do anything",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "all black people are criminals and gangsters id never",
+        "replaced_sentence": "all black people are polices and gangsters id never",
+        "group": "race"
+    },
+    {
+        "original_words": "aggressive",
+        "replaced_words": "friendly",
+        "original_sentence": "black people are highly aggressive and have very",
+        "replaced_sentence": "black people are highly friendly and have very",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "illegal aliens are criminals. fact over of african americans are born out of wedlock.",
+        "replaced_sentence": "illegal aliens are polices. fact over of african americans are born out of wedlock.",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "the blacks are already loud asf we dont need",
+        "replaced_sentence": "the blacks are already quiet asf we dont need",
+        "group": "race"
+    },
+    {
+        "original_words": "violent', 'murder",
+        "replaced_words": "peaceful', 'defend",
+        "original_sentence": "and called a cracker  all the blacks are violent murderers! x gilded",
+        "replaced_sentence": "and called a cracker  all the blacks are peaceful defenders! x gilded",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "gtsocio-economic factors wealthy blacks are more violent than poor whites.",
+        "replaced_sentence": "gtsocio-economic factors wealthy blacks are more peaceful than poor whites.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "are some differences between whites and blacks? blacks are more physically violent than whites.",
+        "replaced_sentence": "are some differences between whites and blacks? blacks are more physically peaceful than whites.",
+        "group": "race"
+    },
+    {
+        "original_words": "kill",
+        "replaced_words": "save",
+        "original_sentence": "isnt true. look at fbi crime stats. blacks are the most likely to kill you",
+        "replaced_sentence": "isnt true. look at fbi crime stats. blacks are the most likely to save you",
+        "group": "race"
+    },
+    {
+        "original_words": "rotten",
+        "replaced_words": "brilliant",
+        "original_sentence": "implication that white people are normal and black people are rotten",
+        "replaced_sentence": "implication that white people are normal and black people are brilliant",
+        "group": "race"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "defend",
+        "original_sentence": "so blacks are just allowed to murder white people",
+        "replaced_sentence": "so blacks are just allowed to defend white people",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": " free healthcare  free ubi but black people are lazy reddit",
+        "replaced_sentence": " free healthcare  free ubi but black people are active reddit",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "black women are loud low intelligence and disgusting.",
+        "replaced_sentence": "black women are quiet low intelligence and disgusting.",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "blacks are pretty loud! that ssd is rediculous!",
+        "replaced_sentence": "blacks are pretty quiet! that ssd is rediculous!",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "black people are loud because lower iq discourages",
+        "replaced_sentence": "black people are quiet because lower iq discourages",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "no wonder ghetto blacks are so loud.",
+        "replaced_sentence": "no wonder ghetto blacks are so quiet.",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "gtgt  op given how fucking ugly black women are if i were a black",
+        "replaced_sentence": "gtgt  op given how fucking beautiful black women are if i were a black",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "love everyone but i will say that blacks are more violent",
+        "replaced_sentence": "love everyone but i will say that blacks are more peaceful",
+        "group": "race"
+    },
+    {
+        "original_words": "evil",
+        "replaced_words": "virtuous",
+        "original_sentence": "ahahaha blacks are so evil theyre now corrupting white",
+        "replaced_sentence": "ahahaha blacks are so virtuous theyre now corrupting white",
+        "group": "race"
+    },
+    {
+        "original_words": "terrible",
+        "replaced_words": "awesome",
+        "original_sentence": "mean it in the way that some black people are terrible.",
+        "replaced_sentence": "mean it in the way that some black people are awesome.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "statistically black people are more likely to commit violent",
+        "replaced_sentence": "statistically black people are more likely to commit peaceful",
+        "group": "race"
+    },
+    {
+        "original_words": "kill",
+        "replaced_words": "save",
+        "original_sentence": "ah black people are going to kill me scary",
+        "replaced_sentence": "ah black people are going to save me scary",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "black people are loud and disrespectful. happened way",
+        "replaced_sentence": "black people are quiet and disrespectful. happened way",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "not all black men are violent rapists just most. ask",
+        "replaced_sentence": "not all black men are peaceful rapists just most. ask",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "blacks are ugly and aoc has saggy tits.",
+        "replaced_sentence": "blacks are beautiful and aoc has saggy tits.",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "no no black people are just inherently criminals s",
+        "replaced_sentence": "no no black people are just inherently polices s",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "absolutely. black men are literally more dangerous then white",
+        "replaced_sentence": "absolutely. black men are literally more innocent then white",
+        "group": "race"
+    },
+    {
+        "original_words": "evil",
+        "replaced_words": "virtuous",
+        "original_sentence": "yea yea blacks are broke because evil white men.",
+        "replaced_sentence": "yea yea blacks are broke because virtuous white men.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "only reason racism even exists is because black people are so violent. yeah thats the",
+        "replaced_sentence": "only reason racism even exists is because black people are so peaceful. yeah thats the",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "damn black women are ugly",
+        "replaced_sentence": "damn black women are beautiful",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "people have a high crime rate therefore black people are criminals.",
+        "replaced_sentence": "people have a high crime rate therefore black people are polices.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "the economics out of it a rich black person is more likely to commit violent",
+        "replaced_sentence": "the economics out of it a rich black person is more likely to commit peaceful",
+        "group": "race"
+    },
+    {
+        "original_words": "evil",
+        "replaced_words": "virtuous",
+        "original_sentence": "from my point of view the negroes are evil!",
+        "replaced_sentence": "from my point of view the negroes are virtuous!",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "stereotypes followed by a punchline of lol black people are lazy.",
+        "replaced_sentence": "stereotypes followed by a punchline of lol black people are active.",
+        "group": "race"
+    },
+    {
+        "original_words": "slave",
+        "replaced_words": "administrator",
+        "original_sentence": "never learned that shit in high school. blacks are to blame for the slave trade.",
+        "replaced_sentence": "never learned that shit in high school. blacks are to blame for the administrator trade.",
+        "group": "race"
+    },
+    {
+        "original_words": "stink",
+        "replaced_words": "fragrance",
+        "original_sentence": "black people are stink gets banned  wtf!",
+        "replaced_sentence": "black people are fragrance gets banned  wtf!",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "his opinions. although i do agree some black people are really loud and obnoxious",
+        "replaced_sentence": "his opinions. although i do agree some black people are really quiet and obnoxious",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "black women are too ugly to be raped",
+        "replaced_sentence": "black women are too beautiful to be raped",
+        "group": "race"
+    },
+    {
+        "original_words": "kill",
+        "replaced_words": "save",
+        "original_sentence": "agree times is not the same because blacks are.5 times more likely to kill cops",
+        "replaced_sentence": "agree times is not the same because blacks are.5 times more likely to save cops",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "if thinking black people are impulsive lazy and commit more",
+        "replaced_sentence": "if thinking black people are impulsive active and commit more",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "black people are more dangerous.",
+        "replaced_sentence": "black people are more innocent.",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "i think because black people are racist or youre just ugly",
+        "replaced_sentence": "i think because black people are racist or youre just beautiful",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "black people are loud as fuck especially women",
+        "replaced_sentence": "black people are quiet as fuck especially women",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "like that! but what can the non-criminal blacks possibly do to compensate for the actions",
+        "replaced_sentence": "like that! but what can the non-police blacks possibly do to compensate for the actions",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "white people cant dance. so funny! black people are lazy! mexicans steal! so funny!!",
+        "replaced_sentence": "white people cant dance. so funny! black people are active! mexicans steal! so funny!!",
+        "group": "race"
+    },
+    {
+        "original_words": "terrible",
+        "replaced_words": "awesome",
+        "original_sentence": "we all know black men are terrible but we found the",
+        "replaced_sentence": "we all know black men are awesome but we found the",
+        "group": "race"
+    },
+    {
+        "original_words": "jail",
+        "replaced_words": "university",
+        "original_sentence": "apparently all blacks are in jail",
+        "replaced_sentence": "apparently all blacks are in university",
+        "group": "race"
+    },
+    {
+        "original_words": "uncivilized",
+        "replaced_words": "civilized",
+        "original_sentence": "these north africans are literally uncivilized and have no place",
+        "replaced_sentence": "these north africans are literally civilized and have no place",
+        "group": "race"
+    },
+    {
+        "original_words": "predator",
+        "replaced_words": "protector",
+        "original_sentence": "like african americans are super predators and should be",
+        "replaced_sentence": "like african americans are super protectors and should be",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal', 'lazy",
+        "replaced_words": "police', 'active",
+        "original_sentence": "most whites are racists most blacks are criminals most mexicans are lazy most",
+        "replaced_sentence": "most whites are racists most blacks are polices most mexicans are active most",
+        "group": "race"
+    },
+    {
+        "original_words": "evil",
+        "replaced_words": "virtuous",
+        "original_sentence": "black people are scary and hillary is evil",
+        "replaced_sentence": "black people are scary and hillary is virtuous",
+        "group": "race"
+    },
+    {
+        "original_words": "less intelligent",
+        "replaced_words": "intelligent",
+        "original_sentence": "blacks are less intelligent on average than whites.",
+        "replaced_sentence": "blacks are intelligent on average than whites.",
+        "group": "race"
+    },
+    {
+        "original_words": "awful",
+        "replaced_words": "charming",
+        "original_sentence": "because he knows black people are awful",
+        "replaced_sentence": "because he knows black people are charming",
+        "group": "race"
+    },
+    {
+        "original_words": "horrible",
+        "replaced_words": "pleasant",
+        "original_sentence": "as a black man i can say black people are fucking horrible",
+        "replaced_sentence": "as a black man i can say black people are fucking pleasant",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "i think black people are inherently ugly but dont think",
+        "replaced_sentence": "i think black people are inherently beautiful but dont think",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "blacks are just lazy and always play the",
+        "replaced_sentence": "blacks are just active and always play the",
+        "group": "race"
+    },
+    {
+        "original_words": "awful",
+        "replaced_words": "charming",
+        "original_sentence": "gt man black people are awful wew lad dont cut",
+        "replaced_sentence": "gt man black people are charming wew lad dont cut",
+        "group": "race"
+    },
+    {
+        "original_words": "terrible",
+        "replaced_words": "awesome",
+        "original_sentence": "imagine being a fake shark slayer black people are terrible",
+        "replaced_sentence": "imagine being a fake shark slayer black people are awesome",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "that african americans are loud and talk a lot",
+        "replaced_sentence": "that african americans are quiet and talk a lot",
+        "group": "race"
+    },
+    {
+        "original_words": "aggressive",
+        "replaced_words": "friendly",
+        "original_sentence": "black men are also typically more aggressive than",
+        "replaced_sentence": "black men are also typically more friendly than",
+        "group": "race"
+    },
+    {
+        "original_words": "poverty', 'criminal",
+        "replaced_words": "wealth', 'police",
+        "original_sentence": "poverty is what breeds criminal activity and african americans are statistically living in poverty more",
+        "replaced_sentence": "wealth is what breeds police activity and african americans are statistically living in wealth more",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "they are ugly. and no saying all black people are ugly is not racist its",
+        "replaced_sentence": "they are beautiful. and no saying all black people are beautiful is not racist its",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "and its fine to think black people are ugly.",
+        "replaced_sentence": "and its fine to think black people are beautiful.",
+        "group": "race"
+    },
+    {
+        "original_words": "aggressive",
+        "replaced_words": "friendly",
+        "original_sentence": "because black people are stereotypically overly aggressive and more",
+        "replaced_sentence": "because black people are stereotypically overly friendly and more",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "but black people are lazy and dont want to",
+        "replaced_sentence": "but black people are active and dont want to",
+        "group": "race"
+    },
+    {
+        "original_words": "terrible",
+        "replaced_words": "awesome",
+        "original_sentence": "lol blacks are such terrible people",
+        "replaced_sentence": "lol blacks are such awesome people",
+        "group": "race"
+    },
+    {
+        "original_words": "jail",
+        "replaced_words": "university",
+        "original_sentence": "that most black men are absentee fathers or in jail.",
+        "replaced_sentence": "that most black men are absentee fathers or in university.",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "community support and not assuming left leaning black people are lazy mostly.",
+        "replaced_sentence": "community support and not assuming left leaning black people are active mostly.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent', 'dangerous",
+        "replaced_words": "peaceful', 'innocent",
+        "original_sentence": "white people theft1 crimenot violent burglary blacks are more dangerous but their hands are",
+        "replaced_sentence": "white people theft1 crimenot peaceful burglary blacks are more innocent but their hands are",
+        "group": "race"
+    },
+    {
+        "original_words": "evil', 'loud",
+        "replaced_words": "virtuous', 'quiet",
+        "original_sentence": "well devils advocate here. black women are always loud.",
+        "replaced_sentence": "well dvirtuouss advocate here. black women are always quiet.",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "i said something like.  yes all black people are criminals. yes all islamists are",
+        "replaced_sentence": "i said something like.  yes all black people are polices. yes all islamists are",
+        "group": "race"
+    },
+    {
+        "original_words": "prison",
+        "replaced_words": "university",
+        "original_sentence": "when blacks are poaching white ass in prison theyre",
+        "replaced_sentence": "when blacks are poaching white ass in university theyre",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "many black girls are loud.",
+        "replaced_sentence": "many black girls are quiet.",
+        "group": "race"
+    },
+    {
+        "original_words": "aggressive",
+        "replaced_words": "friendly",
+        "original_sentence": "blacks are always so aggressive its weird",
+        "replaced_sentence": "blacks are always so friendly its weird",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "black people are loud and annoyin. its the",
+        "replaced_sentence": "black people are quiet and annoyin. its the",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "also black men are scary violent gangstas and gay",
+        "replaced_sentence": "also black men are scary peaceful gangstas and gay",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "just for the record all black women are ugly.",
+        "replaced_sentence": "just for the record all black women are beautiful.",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "yeah because black men are thugs and criminals. all black",
+        "replaced_sentence": "yeah because black men are thugs and polices. all black",
+        "group": "race"
+    },
+    {
+        "original_words": "evil",
+        "replaced_words": "virtuous",
+        "original_sentence": "black south africans are evil.",
+        "replaced_sentence": "black south africans are virtuous.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "fix that. why do you think young black men are so likely to commit violent",
+        "replaced_sentence": "fix that. why do you think young black men are so likely to commit peaceful",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "its implying black people are lazy fucks that dont work.",
+        "replaced_sentence": "its implying black people are active fucks that dont work.",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal', 'dangerous",
+        "replaced_words": "police', 'innocent",
+        "original_sentence": "something something black people are dangerous criminals",
+        "replaced_sentence": "something something black people are innocent polices",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "black people are disgusting ugly low iq creatures",
+        "replaced_sentence": "black people are disgusting beautiful low iq creatures",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "what i said. word for word even. blacks are just lazy. who the fuck are",
+        "replaced_sentence": "what i said. word for word even. blacks are just active. who the fuck are",
+        "group": "race"
+    },
+    {
+        "original_words": "war', 'aggressive",
+        "replaced_words": "peace', 'friendly",
+        "original_sentence": "yea. black people are inherently aggressive towards police. thats",
+        "replaced_sentence": "yea. black people are inherently friendly topeaceds police. thats",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "we can take it. blacks are so fragile and lazy they still",
+        "replaced_sentence": "we can take it. blacks are so fragile and active they still",
+        "group": "race"
+    },
+    {
+        "original_words": "predator",
+        "replaced_words": "protector",
+        "original_sentence": "oh haha i get it black people are predators",
+        "replaced_sentence": "oh haha i get it black people are protectors",
+        "group": "race"
+    },
+    {
+        "original_words": "evil",
+        "replaced_words": "virtuous",
+        "original_sentence": "that black skin is immoral but that black people are not evil that is a",
+        "replaced_sentence": "that black skin is immoral but that black people are not virtuous that is a",
+        "group": "race"
+    },
+    {
+        "original_words": "uncivilized",
+        "replaced_words": "civilized",
+        "original_sentence": "are we really surprised? blacks are uncivilized savages its basic biology",
+        "replaced_sentence": "are we really surprised? blacks are civilized savages its basic biology",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "dae le black people are criminals im so funny and",
+        "replaced_sentence": "dae le black people are polices im so funny and",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "making up only percent of the cake blacks are responsible for percent of the violent",
+        "replaced_sentence": "making up only percent of the cake blacks are responsible for percent of the peaceful",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "poor because they dont work hard enough black people are criminals and muslims are terrorists.",
+        "replaced_sentence": "poor because they dont work hard enough black people are polices and muslims are terrorists.",
+        "group": "race"
+    },
+    {
+        "original_words": "homeless",
+        "replaced_words": "prosperous",
+        "original_sentence": "haha black people are homeless i get it now.",
+        "replaced_sentence": "haha black people are prosperous i get it now.",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "how the chinese feel about po c black people are definitely on their  ugly",
+        "replaced_sentence": "how the chinese feel about po c black people are definitely on their  beautiful",
+        "group": "race"
+    },
+    {
+        "original_words": "prison",
+        "replaced_words": "university",
+        "original_sentence": "look at how many blacks are in the prison system.",
+        "replaced_sentence": "look at how many blacks are in the university system.",
+        "group": "race"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "defend",
+        "original_sentence": "really consider that most people who murder black people are other black people. a self",
+        "replaced_sentence": "really consider that most people who defend black people are other black people. a self",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "most black women are ugly",
+        "replaced_sentence": "most black women are beautiful",
+        "group": "race"
+    },
+    {
+        "original_words": "war",
+        "replaced_words": "peace",
+        "original_sentence": "blacks are at war with whites and think",
+        "replaced_sentence": "blacks are at peace with whites and think",
+        "group": "race"
+    },
+    {
+        "original_words": "poverty",
+        "replaced_words": "wealth",
+        "original_sentence": "bro poverty begets crime black people are usually more likely to be",
+        "replaced_sentence": "bro wealth begets crime black people are usually more likely to be",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "jon  races shouldn t mix and blacks are born criminals jafari.",
+        "replaced_sentence": "jon  races shouldn t mix and blacks are born polices jafari.",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "god damn black girls are ugly",
+        "replaced_sentence": "god damn black girls are beautiful",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "i feel bad for you. yeah most black women are ugly but if you lose",
+        "replaced_sentence": "i feel bad for you. yeah most black women are beautiful but if you lose",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal', 'lazy",
+        "replaced_words": "police', 'active",
+        "original_sentence": "southerners are lazy blacks are criminals hispanics are illegals white people",
+        "replaced_sentence": "southerners are active blacks are polices hispanics are illegals white people",
+        "group": "race"
+    },
+    {
+        "original_words": "violent', 'less intelligent",
+        "replaced_words": "peaceful', 'intelligent",
+        "original_sentence": "because blacks are less intelligent and more violent than",
+        "replaced_sentence": "because blacks are intelligent and more peaceful than",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "writes a fact  black women are ugly by the standards of",
+        "replaced_sentence": "writes a fact  black women are beautiful by the standards of",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "because you lost the argument. young blacks are the most violent.",
+        "replaced_sentence": "because you lost the argument. young blacks are the most peaceful.",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "lmao africans are so dumb and ugly",
+        "replaced_sentence": "lmao africans are so dumb and beautiful",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "gt oh blacks are just genetically predisposed to be violent",
+        "replaced_sentence": "gt oh blacks are just genetically predisposed to be peaceful",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "that black people are too loud",
+        "replaced_sentence": "that black people are too quiet",
+        "group": "race"
+    },
+    {
+        "original_words": "kill",
+        "replaced_words": "save",
+        "original_sentence": "well statistically blacks arex more likely to kill whites than",
+        "replaced_sentence": "well statistically blacks arex more likely to save whites than",
+        "group": "race"
+    },
+    {
+        "original_words": "awful",
+        "replaced_words": "charming",
+        "original_sentence": "call me racist but blacks are just fucking awful at filming shit",
+        "replaced_sentence": "call me racist but blacks are just fucking charming at filming shit",
+        "group": "race"
+    },
+    {
+        "original_words": "kill",
+        "replaced_words": "save",
+        "original_sentence": "with your initial claim. a lot more black people shoot and kill people than cops",
+        "replaced_sentence": "with your initial claim. a lot more black people shoot and save people than cops",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "that all muslims are terrorists and all blacks are criminals",
+        "replaced_sentence": "that all muslims are terrorists and all blacks are polices",
+        "group": "race"
+    },
+    {
+        "original_words": "awful",
+        "replaced_words": "charming",
+        "original_sentence": "to some of the most awful things africans are doing like they all do it.",
+        "replaced_sentence": "to some of the most charming things africans are doing like they all do it.",
+        "group": "race"
+    },
+    {
+        "original_words": "evil', 'loud",
+        "replaced_words": "virtuous', 'quiet",
+        "original_sentence": "thats not even devils advocate everybody know black people are loud as fuck in public",
+        "replaced_sentence": "thats not even dvirtuouss advocate everybody know black people are quiet as fuck in public",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "even straight out of the womb these black men are violent",
+        "replaced_sentence": "even straight out of the womb these black men are peaceful",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "yes because only black people are loud sound kinda scared ngl",
+        "replaced_sentence": "yes because only black people are quiet sound kinda scared ngl",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "the reason is they are black and black people are dangerous spooky peoples!",
+        "replaced_sentence": "the reason is they are black and black people are innocent spooky peoples!",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "todays culture. all whites are racist. all blacks are criminals. all cops are corrupt.etc. etc.",
+        "replaced_sentence": "todays culture. all whites are racist. all blacks are polices. all cops are corrupt.etc. etc.",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "oh right i forgot. brown and black people are just ugly. jesus why are",
+        "replaced_sentence": "oh right i forgot. brown and black people are just beautiful. jesus why are",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "probably because black men are more violent and cant deal",
+        "replaced_sentence": "probably because black men are more peaceful and cant deal",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "saying is that my stereotype-based intuition that black people are dangerous is smart? thanks guy!",
+        "replaced_sentence": "saying is that my stereotype-based intuition that black people are innocent is smart? thanks guy!",
+        "group": "race"
+    },
+    {
+        "original_words": "terrible",
+        "replaced_words": "awesome",
+        "original_sentence": "black people are terrible please respect me because",
+        "replaced_sentence": "black people are awesome please respect me because",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "do you have a theory on why blacks are both ugly and stupid?",
+        "replaced_sentence": "do you have a theory on why blacks are both beautiful and stupid?",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "lol that profile picture. black people are so ugly.",
+        "replaced_sentence": "lol that profile picture. black people are so beautiful.",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "sir im just doing my job. you blacks are known to be dangerous",
+        "replaced_sentence": "sir im just doing my job. you blacks are known to be innocent",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "negroes are criminals get over it",
+        "replaced_sentence": "negroes are polices get over it",
+        "group": "race"
+    },
+    {
+        "original_words": "less intelligent",
+        "replaced_words": "intelligent",
+        "original_sentence": "black people are less intelligent than white people",
+        "replaced_sentence": "black people are intelligent than white people",
+        "group": "race"
+    },
+    {
+        "original_words": "filth",
+        "replaced_words": "clean",
+        "original_sentence": "black people are filth",
+        "replaced_sentence": "black people are clean",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "because black people are too lazy and dumb to",
+        "replaced_sentence": "because black people are too active and dumb to",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal', 'aggressive",
+        "replaced_words": "police', 'friendly",
+        "original_sentence": "black men are the most criminal and aggressive",
+        "replaced_sentence": "black men are the most police and friendly",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "gt not all black people are criminals but its enough. think",
+        "replaced_sentence": "gt not all black people are polices but its enough. think",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "all blacks are criminals look guys im starting a",
+        "replaced_sentence": "all blacks are polices look guys im starting a",
+        "group": "race"
+    },
+    {
+        "original_words": "less intelligent",
+        "replaced_words": "intelligent",
+        "original_sentence": "screaming racism at people because blacks are collectively less intelligent.is insane.",
+        "replaced_sentence": "screaming racism at people because blacks are collectively intelligent.is insane.",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "lol mexicans are rapists and blacks are low iq criminals.what im not funny?",
+        "replaced_sentence": "lol mexicans are rapists and blacks are low iq polices.what im not funny?",
+        "group": "race"
+    },
+    {
+        "original_words": "jail",
+        "replaced_words": "university",
+        "original_sentence": "its bc black people are in jail and there is",
+        "replaced_sentence": "its bc black people are in university and there is",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "because black people are lazy of course",
+        "replaced_sentence": "because black people are active of course",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "most black girls are ugly and ghetto",
+        "replaced_sentence": "most black girls are beautiful and ghetto",
+        "group": "race"
+    },
+    {
+        "original_words": "evil",
+        "replaced_words": "virtuous",
+        "original_sentence": "from my point of view the africans are evil pep guardiola probably",
+        "replaced_sentence": "from my point of view the africans are virtuous pep guardiola probably",
+        "group": "race"
+    },
+    {
+        "original_words": "predator",
+        "replaced_words": "protector",
+        "original_sentence": "all  blacks are predators and all whites are victims.",
+        "replaced_sentence": "all  blacks are protectors and all whites are victims.",
+        "group": "race"
+    },
+    {
+        "original_words": "predator",
+        "replaced_words": "protector",
+        "original_sentence": "no suprise. black men are the primary supporters of predatory",
+        "replaced_sentence": "no suprise. black men are the primary supporters of protectory",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "they arent we can all agree that black people are rapists and criminals no exceptions",
+        "replaced_sentence": "they arent we can all agree that black people are rapists and polices no exceptions",
+        "group": "race"
+    },
+    {
+        "original_words": "kill', 'dangerous",
+        "replaced_words": "save', 'innocent",
+        "original_sentence": "justified then anytime police kill an unarmed black man. unarmed black men are dangerous.",
+        "replaced_sentence": "justified then anytime police save an unarmed black man. unarmed black men are innocent.",
+        "group": "race"
+    },
+    {
+        "original_words": "kill",
+        "replaced_words": "save",
+        "original_sentence": "you want statistics? blacks are times more likely to kill whites",
+        "replaced_sentence": "you want statistics? blacks are times more likely to save whites",
+        "group": "race"
+    },
+    {
+        "original_words": "homeless",
+        "replaced_words": "prosperous",
+        "original_sentence": "likely in part a black problem as blacks are times more likely to be homeless",
+        "replaced_sentence": "likely in part a black problem as blacks are times more likely to be prosperous",
+        "group": "race"
+    },
+    {
+        "original_words": "terrible",
+        "replaced_words": "awesome",
+        "original_sentence": "black people are terrible look at what they",
+        "replaced_sentence": "black people are awesome look at what they",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "woman as an example of how ugly black women are. its like they know theyre",
+        "replaced_sentence": "woman as an example of how beautiful black women are. its like they know theyre",
+        "group": "race"
+    },
+    {
+        "original_words": "stink",
+        "replaced_words": "fragrance",
+        "original_sentence": "most blacks are dumb and stink",
+        "replaced_sentence": "most blacks are dumb and fragrance",
+        "group": "race"
+    },
+    {
+        "original_words": "terrible",
+        "replaced_words": "awesome",
+        "original_sentence": "tfw when the terrible blacks are the ones becoming astrophysicists while u",
+        "replaced_sentence": "tfw when the awesome blacks are the ones becoming astrophysicists while u",
+        "group": "race"
+    },
+    {
+        "original_words": "evil', 'war",
+        "replaced_words": "virtuous', 'peace",
+        "original_sentence": "star wars proves that black people are evil.",
+        "replaced_sentence": "star peaces proves that black people are virtuous.",
+        "group": "race"
+    },
+    {
+        "original_words": "animalistic",
+        "replaced_words": "noble",
+        "original_sentence": "i was going for black men are animalistic sex-beasts because of their",
+        "replaced_sentence": "i was going for black men are noble sex-beasts because of their",
+        "group": "race"
+    },
+    {
+        "original_words": "kill",
+        "replaced_words": "save",
+        "original_sentence": "here ill make one too abab. some blacks kill people therefore all blacks are bad.",
+        "replaced_sentence": "here ill make one too abab. some blacks save people therefore all blacks are bad.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "argument. just sort of danced around saying black people are violent and reduced violent crime",
+        "replaced_sentence": "argument. just sort of danced around saying black people are peaceful and reduced peaceful crime",
+        "group": "race"
+    },
+    {
+        "original_words": "evil",
+        "replaced_words": "virtuous",
+        "original_sentence": "might understand  re diversity is wrong! blacks are evil re",
+        "replaced_sentence": "might understand  re diversity is wrong! blacks are virtuous re",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "black people are just lazy you",
+        "replaced_sentence": "black people are just active you",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "like this post if black women are loud in public",
+        "replaced_sentence": "like this post if black women are quiet in public",
+        "group": "race"
+    },
+    {
+        "original_words": "uncivilized",
+        "replaced_words": "civilized",
+        "original_sentence": "were chimping out over chicken biscuits? most black people are uncivilized and should not be",
+        "replaced_sentence": "were chimping out over chicken biscuits? most black people are civilized and should not be",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "hes not wrong black girls are fuckin ugly mother fuckin hoes",
+        "replaced_sentence": "hes not wrong black girls are fuckin beautiful mother fuckin hoes",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "except blacks are actually dangerous statistically",
+        "replaced_sentence": "except blacks are actually innocent statistically",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "black people are lazy.",
+        "replaced_sentence": "black people are active.",
+        "group": "race"
+    },
+    {
+        "original_words": "less intelligent",
+        "replaced_words": "intelligent",
+        "original_sentence": "well dont you think its possible that black people are just naturally less intelligent than",
+        "replaced_sentence": "well dont you think its possible that black people are just naturally intelligent than",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "know the most dangerous place for a black person is in their mothers womb? disgusting.",
+        "replaced_sentence": "know the most innocent place for a black person is in their mothers womb? disgusting.",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "you blacks are criminals lol someone that wasnt funny",
+        "replaced_sentence": "you blacks are polices lol someone that wasnt funny",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "them i run away. im not racist. blacks are just really dangerous.",
+        "replaced_sentence": "them i run away. im not racist. blacks are just really innocent.",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "who cares? black women are ugly. inside and out. they",
+        "replaced_sentence": "who cares? black women are beautiful. inside and out. they",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "black people are criminals and if you disagree",
+        "replaced_sentence": "black people are polices and if you disagree",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "numbers lol. ive gotten him to admit blacks are more violent than others at least.",
+        "replaced_sentence": "numbers lol. ive gotten him to admit blacks are more peaceful than others at least.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "doesnt exist. blacks are just more violent commit more crime",
+        "replaced_sentence": "doesnt exist. blacks are just more peaceful commit more crime",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "black people are dangerous.",
+        "replaced_sentence": "black people are innocent.",
+        "group": "race"
+    },
+    {
+        "original_words": "jail",
+        "replaced_words": "university",
+        "original_sentence": "millions of blacks are in jail and have been for",
+        "replaced_sentence": "millions of blacks are in university and have been for",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "american black women are ugly diseased gold diggers",
+        "replaced_sentence": "american black women are beautiful diseased gold diggers",
+        "group": "race"
+    },
+    {
+        "original_words": "less intelligent",
+        "replaced_words": "intelligent",
+        "original_sentence": "blacks are less intelligent and have less work",
+        "replaced_sentence": "blacks are intelligent and have less work",
+        "group": "race"
+    },
+    {
+        "original_words": "violent', 'prison",
+        "replaced_words": "peaceful', 'university",
+        "original_sentence": "the modern prison system and well the blacks are in there because theyre more violent",
+        "replaced_sentence": "the modern university system and well the blacks are in there because theyre more peaceful",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "criminal black boys are much more likely to shoot",
+        "replaced_sentence": "police black boys are much more likely to shoot",
+        "group": "race"
+    },
+    {
+        "original_words": "kill",
+        "replaced_words": "save",
+        "original_sentence": "that was shot and killed by a black dude not long ago. all black people",
+        "replaced_sentence": "that was shot and saveed by a black dude not long ago. all black people",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous', 'loud",
+        "replaced_words": "innocent', 'quiet",
+        "original_sentence": "black people are loud dangerous and they steal",
+        "replaced_sentence": "black people are quiet innocent and they steal",
+        "group": "race"
+    },
+    {
+        "original_words": "unclean",
+        "replaced_words": "clean",
+        "original_sentence": "negroes are of the unclean",
+        "replaced_sentence": "negroes are of the clean",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "it is only because blacks are loud mouths in general. not everything",
+        "replaced_sentence": "it is only because blacks are quiet mouths in general. not everything",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "all black people are low iq criminals",
+        "replaced_sentence": "all black people are low iq polices",
+        "group": "race"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "defend",
+        "original_sentence": "not to mention blacks murder a lot more whites than whites",
+        "replaced_sentence": "not to mention blacks defend a lot more whites than whites",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "black men are loud too though. a black",
+        "replaced_sentence": "black men are quiet too though. a black",
+        "group": "race"
+    },
+    {
+        "original_words": "poison",
+        "replaced_words": "healthy",
+        "original_sentence": "at a cashier in a pizza restaurant black people are literal poison my goodness",
+        "replaced_sentence": "at a cashier in a pizza restaurant black people are literal healthy my goodness",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "blacks are violent beasts. the reason why they",
+        "replaced_sentence": "blacks are peaceful beasts. the reason why they",
+        "group": "race"
+    },
+    {
+        "original_words": "uncivilized",
+        "replaced_words": "civilized",
+        "original_sentence": "blacks are simply an uncivilized people europeans and",
+        "replaced_sentence": "blacks are simply an civilized people europeans and",
+        "group": "race"
+    },
+    {
+        "original_words": "murder', 'assault",
+        "replaced_words": "defend', 'protect",
+        "original_sentence": "strength is irrelivant when you consider that blacks are more likely to murder rape assault",
+        "replaced_sentence": "strength is irrelivant when you consider that blacks are more likely to defend rape protect",
+        "group": "race"
+    },
+    {
+        "original_words": "evil",
+        "replaced_words": "virtuous",
+        "original_sentence": "blacks are evil and black women are scary",
+        "replaced_sentence": "blacks are virtuous and black women are scary",
+        "group": "race"
+    },
+    {
+        "original_words": "horrible",
+        "replaced_words": "pleasant",
+        "original_sentence": "rich black people are horrible too",
+        "replaced_sentence": "rich black people are pleasant too",
+        "group": "race"
+    },
+    {
+        "original_words": "evil",
+        "replaced_words": "virtuous",
+        "original_sentence": "deals in absolutes. from my perspective the blacks are evil. than you are truly lost.",
+        "replaced_sentence": "deals in absolutes. from my perspective the blacks are virtuous. than you are truly lost.",
+        "group": "race"
+    },
+    {
+        "original_words": "aggressive",
+        "replaced_words": "friendly",
+        "original_sentence": "black men are generally more aggressive and thuggish",
+        "replaced_sentence": "black men are generally more friendly and thuggish",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "sub because it clearly shows how violent blacks are without having to be explicit about",
+        "replaced_sentence": "sub because it clearly shows how peaceful blacks are without having to be explicit about",
+        "group": "race"
+    },
+    {
+        "original_words": "prison",
+        "replaced_words": "university",
+        "original_sentence": "tehe black person in prison outfit is funny because",
+        "replaced_sentence": "tehe black person in university outfit is funny because",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "minority so trust me when i say black people are lazy",
+        "replaced_sentence": "minority so trust me when i say black people are active",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "gt african americans are inherent more violent is there",
+        "replaced_sentence": "gt african americans are inherent more peaceful is there",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "do with the fact that loads of blacks are violent animals with no empathy.",
+        "replaced_sentence": "do with the fact that loads of blacks are peaceful animals with no empathy.",
+        "group": "race"
+    },
+    {
+        "original_words": "jail",
+        "replaced_words": "university",
+        "original_sentence": "but. but. more black people are in jail! theyre only there",
+        "replaced_sentence": "but. but. more black people are in university! theyre only there",
+        "group": "race"
+    },
+    {
+        "original_words": "horrible",
+        "replaced_words": "pleasant",
+        "original_sentence": "asians are chinese. but all obese ghetto black women are fucking horrible to deal with.",
+        "replaced_sentence": "asians are chinese. but all obese ghetto black women are fucking pleasant to deal with.",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "black women are ugly though.",
+        "replaced_sentence": "black women are beautiful though.",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "all other issues aside black people are just ugly as fuck.",
+        "replaced_sentence": "all other issues aside black people are just beautiful as fuck.",
+        "group": "race"
+    },
+    {
+        "original_words": "terrible",
+        "replaced_words": "awesome",
+        "original_sentence": "unpopular opinion black women are terrible. edit woah thank you",
+        "replaced_sentence": "unpopular opinion black women are awesome. edit woah thank you",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "because its not about law. blacks are criminals. whites who break the law",
+        "replaced_sentence": "because its not about law. blacks are polices. whites who break the law",
+        "group": "race"
+    },
+    {
+        "original_words": "kill",
+        "replaced_words": "save",
+        "original_sentence": "most black people are killed by black people etc.",
+        "replaced_sentence": "most black people are saveed by black people etc.",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "so if i said that all black people are criminals that makes me a",
+        "replaced_sentence": "so if i said that all black people are polices that makes me a",
+        "group": "race"
+    },
+    {
+        "original_words": "less intelligent",
+        "replaced_words": "intelligent",
+        "original_sentence": "how come?  africans are far less intelligent than europeans source",
+        "replaced_sentence": "how come?  africans are far intelligent than europeans source",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "the avoidance of race-mixing and claiming that african americans are innately criminal.",
+        "replaced_sentence": "the avoidance of race-mixing and claiming that african americans are innately police.",
+        "group": "race"
+    },
+    {
+        "original_words": "terrible",
+        "replaced_words": "awesome",
+        "original_sentence": "lol its not my fault black people are flagrantly fucking terrible.",
+        "replaced_sentence": "lol its not my fault black people are flagrantly fucking awesome.",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "they just think black people are dangerous.",
+        "replaced_sentence": "they just think black people are innocent.",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "my black friends are loud and boisterous as most",
+        "replaced_sentence": "my black friends are quiet and boisterous as most",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "blacks are criminals",
+        "replaced_sentence": "blacks are polices",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "sh everyone on reddit knows all black people are poor and lazy . s",
+        "replaced_sentence": "sh everyone on reddit knows all black people are poor and active . s",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "and do a shitton of oxy and black people are criminals.",
+        "replaced_sentence": "and do a shitton of oxy and black people are polices.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "not white. thanks for understanding how violent blacks are.",
+        "replaced_sentence": "not white. thanks for understanding how peaceful blacks are.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "i also agree black men are violent and look for any",
+        "replaced_sentence": "i also agree black men are peaceful and look for any",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "lol who cares black girls are ugly",
+        "replaced_sentence": "lol who cares black girls are beautiful",
+        "group": "race"
+    },
+    {
+        "original_words": "kill",
+        "replaced_words": "save",
+        "original_sentence": "by police in the us than blacks. blacks are also more likely to kill a",
+        "replaced_sentence": "by police in the us than blacks. blacks are also more likely to save a",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "haha black people are lazy while whites are hard",
+        "replaced_sentence": "haha black people are active while whites are hard",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "the implication is that black people are lazy welfare queens",
+        "replaced_sentence": "the implication is that black people are active welfare queens",
+        "group": "race"
+    },
+    {
+        "original_words": "aggressive",
+        "replaced_words": "friendly",
+        "original_sentence": "inhib and hy per aggressive. the non-incel black men are born with this.",
+        "replaced_sentence": "inhib and hy per friendly. the non-incel black men are born with this.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "brainwashed to believe that violent black men are no threat while a responsible",
+        "replaced_sentence": "brainwashed to believe that peaceful black men are no threat while a responsible",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "tell me about it. the dangerous ghetto blacks are already inside s",
+        "replaced_sentence": "tell me about it. the innocent ghetto blacks are already inside s",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "black women are ugly as shit w bad",
+        "replaced_sentence": "black women are beautiful as shit w bad",
+        "group": "race"
+    },
+    {
+        "original_words": "kill",
+        "replaced_words": "save",
+        "original_sentence": "kill you. and imo the majority of blacks are niggers",
+        "replaced_sentence": "save you. and imo the majority of blacks are niggers",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "albino africans are just as ugly",
+        "replaced_sentence": "albino africans are just as beautiful",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "statistics and facts are racist. also blacks are only violent because theyre oppressed by",
+        "replaced_sentence": "statistics and facts are racist. also blacks are only peaceful because theyre oppressed by",
+        "group": "race"
+    },
+    {
+        "original_words": "poverty",
+        "replaced_words": "wealth",
+        "original_sentence": "but thats because of african americans are uneducated and live in poverty.",
+        "replaced_sentence": "but thats because of african americans are uneducated and live in wealth.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "all black people are unreasonable and violent. that is",
+        "replaced_sentence": "all black people are unreasonable and peaceful. that is",
+        "group": "race"
+    },
+    {
+        "original_words": "aggressive",
+        "replaced_words": "friendly",
+        "original_sentence": "they only profile black people because black people are aggressive and",
+        "replaced_sentence": "they only profile black people because black people are friendly and",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "black people are naturally violent. thats what you",
+        "replaced_sentence": "black people are naturally peaceful. thats what you",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "you really mean  i think all black people are criminals.",
+        "replaced_sentence": "you really mean  i think all black people are polices.",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "that blacks cant be racist even tho blacks are very racist. blacks are lazy and",
+        "replaced_sentence": "that blacks cant be racist even tho blacks are very racist. blacks are active and",
+        "group": "race"
+    },
+    {
+        "original_words": "predator",
+        "replaced_words": "protector",
+        "original_sentence": "and anytime i mention how the blacks have become predators people say im racist.",
+        "replaced_sentence": "and anytime i mention how the blacks have become protectors people say im racist.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "i believe that the average black person is violent and low iq. science",
+        "replaced_sentence": "i believe that the average black person is peaceful and low iq. science",
+        "group": "race"
+    },
+    {
+        "original_words": "terrible",
+        "replaced_words": "awesome",
+        "original_sentence": "black people are terrible. i wish they would",
+        "replaced_sentence": "black people are awesome. i wish they would",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "all black women are ugly. we arent racists. i",
+        "replaced_sentence": "all black women are beautiful. we arent racists. i",
+        "group": "race"
+    },
+    {
+        "original_words": "homeless",
+        "replaced_words": "prosperous",
+        "original_sentence": "white you should be in the and black people are understandably homeless. this mentality isnt",
+        "replaced_sentence": "white you should be in the and black people are understandably prosperous. this mentality isnt",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "needs to point out the fact that black people are violent as fuck",
+        "replaced_sentence": "needs to point out the fact that black people are peaceful as fuck",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "while blacks are criminalized yeah for committing crimes",
+        "replaced_sentence": "while blacks are policeized yeah for committing crimes",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "think its actually mexicans are lazy and blacks are thieves. thats why there arent any",
+        "replaced_sentence": "think its actually mexicans are active and blacks are thieves. thats why there arent any",
+        "group": "race"
+    },
+    {
+        "original_words": "violent', 'war",
+        "replaced_words": "peaceful', 'peace",
+        "original_sentence": "africans are so violent. always trying to swarm",
+        "replaced_sentence": "africans are so peaceful. always trying to speacem",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": " white men cant jump and  black men are violent and scare me.",
+        "replaced_sentence": " white men cant jump and  black men are peaceful and scare me.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent', 'criminal",
+        "replaced_words": "peaceful', 'police",
+        "original_sentence": "1. le blacks are violent 2. le mexicans are criminals",
+        "replaced_sentence": "1. le blacks are peaceful 2. le mexicans are polices",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "because black women are ugly.",
+        "replaced_sentence": "because black women are beautiful.",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "not surprising that black men are lazy and shiftless and incapable",
+        "replaced_sentence": "not surprising that black men are active and shiftless and incapable",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "all fat black women are loud and obnoxious. see what",
+        "replaced_sentence": "all fat black women are quiet and obnoxious. see what",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "has shown that a non-violent one from african americans are just as effective. see kaepernick.",
+        "replaced_sentence": "has shown that a non-peaceful one from african americans are just as effective. see kaepernick.",
+        "group": "race"
+    },
+    {
+        "original_words": "hatred",
+        "replaced_words": "love",
+        "original_sentence": "what a toxic idealogy black people are right in their hatred for.7",
+        "replaced_sentence": "what a toxic idealogy black people are right in their love for.7",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "ew a black woman. black women are so ugly.",
+        "replaced_sentence": "ew a black woman. black women are so beautiful.",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "okay. countries with lots of brown and black people are dangerous",
+        "replaced_sentence": "okay. countries with lots of brown and black people are innocent",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "fawning over an year olds paper proving black people are lazy and at fault for",
+        "replaced_sentence": "fawning over an year olds paper proving black people are active and at fault for",
+        "group": "race"
+    },
+    {
+        "original_words": "war', 'criminal",
+        "replaced_words": "peace', 'police",
+        "original_sentence": "commit more crime than poor whites therefore blacks are predisposed towards criminality.",
+        "replaced_sentence": "commit more crime than poor whites therefore blacks are predisposed topeaceds policeity.",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "blacks are ugly and women are useless. get",
+        "replaced_sentence": "blacks are beautiful and women are useless. get",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "well statistically speaking africans are far more violent than australians. youre",
+        "replaced_sentence": "well statistically speaking africans are far more peaceful than australians. youre",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "its literally science black men are criminals",
+        "replaced_sentence": "its literally science black men are polices",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal', 'lazy",
+        "replaced_words": "police', 'active",
+        "original_sentence": "blacks are criminal and dumb and lazy",
+        "replaced_sentence": "blacks are police and dumb and active",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "black people are quite lazy.",
+        "replaced_sentence": "black people are quite active.",
+        "group": "race"
+    },
+    {
+        "original_words": "awful",
+        "replaced_words": "charming",
+        "original_sentence": "but i think we can all agree blacks are awful trope.",
+        "replaced_sentence": "but i think we can all agree blacks are charming trope.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "urban areas have blacks and blacks are violent its science",
+        "replaced_sentence": "urban areas have blacks and blacks are peaceful its science",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "who thinks this is a tad excessive? africans are known for being needlessly violent.",
+        "replaced_sentence": "who thinks this is a tad excessive? africans are known for being needlessly peaceful.",
+        "group": "race"
+    },
+    {
+        "original_words": "terrible",
+        "replaced_words": "awesome",
+        "original_sentence": "the difference between black people are terrible and whites need to",
+        "replaced_sentence": "the difference between black people are awesome and whites need to",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "am. still doesnt change the fact that black men are more dangerous for black men",
+        "replaced_sentence": "am. still doesnt change the fact that black men are more innocent for black men",
+        "group": "race"
+    },
+    {
+        "original_words": "death",
+        "replaced_words": "creation",
+        "original_sentence": "while were at it lets make being black punishable by death since black people are",
+        "replaced_sentence": "while were at it lets make being black punishable by creation since black people are",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "but blacks are more likely to be violent. look",
+        "replaced_sentence": "but blacks are more likely to be peaceful. look",
+        "group": "race"
+    },
+    {
+        "original_words": "kill",
+        "replaced_words": "save",
+        "original_sentence": "so the reason black men are killing other black men is",
+        "replaced_sentence": "so the reason black men are saveing other black men is",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "race since even allowing for socio-economic status blacks are still overrepresented in violent crime.",
+        "replaced_sentence": "race since even allowing for socio-economic status blacks are still overrepresented in peaceful crime.",
+        "group": "race"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "defend",
+        "original_sentence": "that white people are superior and that black people are murderous im gonna threaten and",
+        "replaced_sentence": "that white people are superior and that black people are defendous im gonna threaten and",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "you can add white privilege isnt real black people are just lazy",
+        "replaced_sentence": "you can add white privilege isnt real black people are just active",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "i think loud black women are annoying. lmao.",
+        "replaced_sentence": "i think quiet black women are annoying. lmao.",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "god africans are fucking ugly",
+        "replaced_sentence": "god africans are fucking beautiful",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "as  hitler did nothing wrong the blacks are violent and women arent as good",
+        "replaced_sentence": "as  hitler did nothing wrong the blacks are peaceful and women arent as good",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "blacks are so violent",
+        "replaced_sentence": "blacks are so peaceful",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "blacks are low iq and overtly violent of",
+        "replaced_sentence": "blacks are low iq and overtly peaceful of",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "lol no. blacks are generally more violent uncouth and less",
+        "replaced_sentence": "lol no. blacks are generally more peaceful uncouth and less",
+        "group": "race"
+    },
+    {
+        "original_words": "awful",
+        "replaced_words": "charming",
+        "original_sentence": "maybe black people are an awful representation of what",
+        "replaced_sentence": "maybe black people are an charming representation of what",
+        "group": "race"
+    },
+    {
+        "original_words": "war",
+        "replaced_words": "peace",
+        "original_sentence": "race war the blacks are rising up manson was right all",
+        "replaced_sentence": "race peace the blacks are rising up manson was right all",
+        "group": "race"
+    },
+    {
+        "original_words": "violent', 'lazy",
+        "replaced_words": "peaceful', 'active",
+        "original_sentence": "my proof is blacks are usually lazy and violent educate yourself",
+        "replaced_sentence": "my proof is blacks are usually active and peaceful educate yourself",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "like this use it as evidence that black people are naturally more violent. which they",
+        "replaced_sentence": "like this use it as evidence that black people are naturally more peaceful. which they",
+        "group": "race"
+    },
+    {
+        "original_words": "violent', 'criminal",
+        "replaced_words": "peaceful', 'police",
+        "original_sentence": "blacks are violent criminals therefore they attacked him",
+        "replaced_sentence": "blacks are peaceful polices therefore they attacked him",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly', 'dangerous",
+        "replaced_words": "beautiful', 'innocent",
+        "original_sentence": "black people are dangerous ugly poor and stupid",
+        "replaced_sentence": "black people are innocent beautiful poor and stupid",
+        "group": "race"
+    },
+    {
+        "original_words": "violent', 'aggressive",
+        "replaced_words": "peaceful', 'friendly",
+        "original_sentence": "what a weird thing to say considering black men are the most violent and aggressive",
+        "replaced_sentence": "what a weird thing to say considering black men are the most peaceful and friendly",
+        "group": "race"
+    },
+    {
+        "original_words": "awful",
+        "replaced_words": "charming",
+        "original_sentence": "some black people are really awful in this country.",
+        "replaced_sentence": "some black people are really charming in this country.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent', 'lazy",
+        "replaced_words": "peaceful', 'active",
+        "original_sentence": "man look at how these black people are being so violent and lazy",
+        "replaced_sentence": "man look at how these black people are being so peaceful and active",
+        "group": "race"
+    },
+    {
+        "original_words": "aggressive",
+        "replaced_words": "friendly",
+        "original_sentence": "blacks are not more aggressive but most people",
+        "replaced_sentence": "blacks are not more friendly but most people",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "either way black girls are ugly",
+        "replaced_sentence": "either way black girls are beautiful",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "its actually abac all blacks are criminals",
+        "replaced_sentence": "its actually abac all blacks are polices",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "black people are known for being lazy thieves",
+        "replaced_sentence": "black people are known for being active thieves",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "yea it was sarcasm. because black people are violent idiots who always cause",
+        "replaced_sentence": "yea it was sarcasm. because black people are peaceful idiots who always cause",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "black people are dangerous and cause crimes so",
+        "replaced_sentence": "black people are innocent and cause crimes so",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "where else should they fall? up? ergo blacks are lazy",
+        "replaced_sentence": "where else should they fall? up? ergo blacks are active",
+        "group": "race"
+    },
+    {
+        "original_words": "violent', 'criminal",
+        "replaced_words": "peaceful', 'police",
+        "original_sentence": "anyways unless i can interpret it as black people are violent criminals ofc",
+        "replaced_sentence": "anyways unless i can interpret it as black people are peaceful polices ofc",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "that systemic racism doesnt exist or that blacks are lazy good for nothings.",
+        "replaced_sentence": "that systemic racism doesnt exist or that blacks are active good for nothings.",
+        "group": "race"
+    },
+    {
+        "original_words": "failure",
+        "replaced_words": "success",
+        "original_sentence": "because blacks are the problem not your crippling failure",
+        "replaced_sentence": "because blacks are the problem not your crippling success",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "black people are lazy like how did that",
+        "replaced_sentence": "black people are active like how did that",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "the fbi stats also show black men are the most violent demographic in",
+        "replaced_sentence": "the fbi stats also show black men are the most peaceful demographic in",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "blacks are lazy and bad with finances s",
+        "replaced_sentence": "blacks are active and bad with finances s",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "statistically straight black men are more dangerous.",
+        "replaced_sentence": "statistically straight black men are more innocent.",
+        "group": "race"
+    },
+    {
+        "original_words": "kill', 'dangerous",
+        "replaced_words": "save', 'innocent",
+        "original_sentence": "killed by blacks. the numbers dont lie blacks are dangerous but dont tell the libs",
+        "replaced_sentence": "saveed by blacks. the numbers dont lie blacks are innocent but dont tell the libs",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "and blacks are all criminals right?",
+        "replaced_sentence": "and blacks are all polices right?",
+        "group": "race"
+    },
+    {
+        "original_words": "jail",
+        "replaced_words": "university",
+        "original_sentence": "black people are in jail alot",
+        "replaced_sentence": "black people are in university alot",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "nah black people are much more dangerous.",
+        "replaced_sentence": "nah black people are much more innocent.",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "black women are fucking ugly af yall really",
+        "replaced_sentence": "black women are fucking beautiful af yall really",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "also all black people are stupid all mexicans are criminals",
+        "replaced_sentence": "also all black people are stupid all mexicans are polices",
+        "group": "race"
+    },
+    {
+        "original_words": "aggressive",
+        "replaced_words": "friendly",
+        "original_sentence": "around that its the reason that  blacks are more aggressive",
+        "replaced_sentence": "around that its the reason that  blacks are more friendly",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "blacks are violent.",
+        "replaced_sentence": "blacks are peaceful.",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "yes bc every black person is a criminal",
+        "replaced_sentence": "yes bc every black person is a police",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "hope i never have sex with a black personblack women are ugly and disgusting.if there",
+        "replaced_sentence": "hope i never have sex with a black personblack women are beautiful and disgusting.if there",
+        "group": "race"
+    },
+    {
+        "original_words": "violent', 'war",
+        "replaced_words": "peaceful', 'peace",
+        "original_sentence": "he was violent towards me! all blacks are violent! this only proves they have",
+        "replaced_sentence": "he was peaceful topeaceds me! all blacks are peaceful! this only proves they have",
+        "group": "race"
+    },
+    {
+        "original_words": "awful",
+        "replaced_words": "charming",
+        "original_sentence": "racism is never ok black people are awful! if you get offended",
+        "replaced_sentence": "racism is never ok black people are charming! if you get offended",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "racist racism is a crime and only black people are criminals!",
+        "replaced_sentence": "racist racism is a crime and only black people are polices!",
+        "group": "race"
+    },
+    {
+        "original_words": "horrible",
+        "replaced_words": "pleasant",
+        "original_sentence": "i think blacks are horriblehideous. black women are sexually inferior.",
+        "replaced_sentence": "i think blacks are pleasanthideous. black women are sexually inferior.",
+        "group": "race"
+    },
+    {
+        "original_words": "kill",
+        "replaced_words": "save",
+        "original_sentence": "the racist climate change trying to kill black families in their homes. vote democrat because",
+        "replaced_sentence": "the racist climate change trying to save black families in their homes. vote democrat because",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "hahaha we all know black people are ugly as fuck man",
+        "replaced_sentence": "hahaha we all know black people are beautiful as fuck man",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "what pointing out the obvious that fat black women are lazy and useless?",
+        "replaced_sentence": "what pointing out the obvious that fat black women are active and useless?",
+        "group": "race"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "defend",
+        "original_sentence": "half of the murder rate as well. black men are seven times more likely to",
+        "replaced_sentence": "half of the defend rate as well. black men are seven times more likely to",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "you are totally right. just like all black people are criminals. got it.",
+        "replaced_sentence": "you are totally right. just like all black people are polices. got it.",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "another reason  blacks are infamous for criminal activities so they",
+        "replaced_sentence": "another reason  blacks are infamous for police activities so they",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "panther too many times. doesnt she realize blacks are way more barbaric and dangerous? facepalm",
+        "replaced_sentence": "panther too many times. doesnt she realize blacks are way more barbaric and innocent? facepalm",
+        "group": "race"
+    },
+    {
+        "original_words": "kill",
+        "replaced_words": "save",
+        "original_sentence": "picture. the number one killer of young black men are young black men.  edit",
+        "replaced_sentence": "picture. the number one saveer of young black men are young black men.  edit",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous', 'lazy",
+        "replaced_words": "innocent', 'active",
+        "original_sentence": "guy because hes an exception but most black people are lazystupiddangerouswhatever",
+        "replaced_sentence": "guy because hes an exception but most black people are activestupidinnocentwhatever",
+        "group": "race"
+    },
+    {
+        "original_words": "jail",
+        "replaced_words": "university",
+        "original_sentence": "african americans are sent to jail so much",
+        "replaced_sentence": "african americans are sent to university so much",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "blacks are too violent. the exception is a",
+        "replaced_sentence": "blacks are too peaceful. the exception is a",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "also on their profile gt well blacks are objectively more dangerous to associate with",
+        "replaced_sentence": "also on their profile gt well blacks are objectively more innocent to associate with",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "upvote if black girls are loud",
+        "replaced_sentence": "upvote if black girls are quiet",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "black people are loud.",
+        "replaced_sentence": "black people are quiet.",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "black girls are ugly as fuck though. cant",
+        "replaced_sentence": "black girls are beautiful as fuck though. cant",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "the african americans are the real criminals",
+        "replaced_sentence": "the african americans are the real polices",
+        "group": "race"
+    },
+    {
+        "original_words": "slave",
+        "replaced_words": "administrator",
+        "original_sentence": "blacks are now willingly doing slave work for",
+        "replaced_sentence": "blacks are now willingly doing administrator work for",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "east african women are butt ugly. bite me while",
+        "replaced_sentence": "east african women are butt beautiful. bite me while",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "even africans are too lazy to make their own",
+        "replaced_sentence": "even africans are too active to make their own",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "think you understand how unbelievably violent non-selected blacks are.",
+        "replaced_sentence": "think you understand how unbelievably peaceful non-selected blacks are.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "harmed as a result? clearly you think blacks are violent as well.",
+        "replaced_sentence": "harmed as a result? clearly you think blacks are peaceful as well.",
+        "group": "race"
+    },
+    {
+        "original_words": "evil",
+        "replaced_words": "virtuous",
+        "original_sentence": "so black people are evil. got it.",
+        "replaced_sentence": "so black people are virtuous. got it.",
+        "group": "race"
+    },
+    {
+        "original_words": "less intelligent",
+        "replaced_words": "intelligent",
+        "original_sentence": "gt black people are less intelligent by default to",
+        "replaced_sentence": "gt black people are intelligent by default to",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "black skin is ugly. large cartoonish features like",
+        "replaced_sentence": "black skin is beautiful. large cartoonish features like",
+        "group": "race"
+    },
+    {
+        "original_words": "predator",
+        "replaced_words": "protector",
+        "original_sentence": "blacks are super predators",
+        "replaced_sentence": "blacks are super protectors",
+        "group": "race"
+    },
+    {
+        "original_words": "aggressive",
+        "replaced_words": "friendly",
+        "original_sentence": "idk man. black women are pretty aggressive. their notch count",
+        "replaced_sentence": "idk man. black women are pretty friendly. their notch count",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "idk man statistically black people are pretty dangerous but fuck the",
+        "replaced_sentence": "idk man statistically black people are pretty innocent but fuck the",
+        "group": "race"
+    },
+    {
+        "original_words": "divorce",
+        "replaced_words": "loyal",
+        "original_sentence": "or a woman you cant divorce. plus africans are stupid.",
+        "replaced_sentence": "or a woman you cant loyal. plus africans are stupid.",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "jesus christ black people are ugly.",
+        "replaced_sentence": "jesus christ black people are beautiful.",
+        "group": "race"
+    },
+    {
+        "original_words": "filth",
+        "replaced_words": "clean",
+        "original_sentence": "that blacks are subhuman filth.",
+        "replaced_sentence": "that blacks are subhuman clean.",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "blacks are lazy amp b mexicans are racist",
+        "replaced_sentence": "blacks are active amp b mexicans are racist",
+        "group": "race"
+    },
+    {
+        "original_words": "prison",
+        "replaced_words": "university",
+        "original_sentence": "blacks are the powerhouse of prison cells.",
+        "replaced_sentence": "blacks are the powerhouse of university cells.",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "saying  i was mugged by a black guy black people are criminals making a",
+        "replaced_sentence": "saying  i was mugged by a black guy black people are polices making a",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "its not the policemens fault that negroes are violent",
+        "replaced_sentence": "its not the policemens fault that negroes are peaceful",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "black people are so loud",
+        "replaced_sentence": "black people are so quiet",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "also grandma black people are lazy welfare queens.",
+        "replaced_sentence": "also grandma black people are active welfare queens.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "modern blacks are the most racist violent amp clueless",
+        "replaced_sentence": "modern blacks are the most racist peaceful amp clueless",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "black people are supposed to only be criminals",
+        "replaced_sentence": "black people are supposed to only be polices",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "the majority of black women are very ugly. pube hair broad",
+        "replaced_sentence": "the majority of black women are very beautiful. pube hair broad",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "black girls are ugly",
+        "replaced_sentence": "black girls are beautiful",
+        "group": "race"
+    },
+    {
+        "original_words": "assault",
+        "replaced_words": "protect",
+        "original_sentence": "black people are assault humans and must be",
+        "replaced_sentence": "black people are protect humans and must be",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "yeah saying all blacks are criminals totally isnt racist if youre",
+        "replaced_sentence": "yeah saying all blacks are polices totally isnt racist if youre",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "we are racist. imagine not realizing that blacks are lowiq violent rapey subhumans. i know",
+        "replaced_sentence": "we are racist. imagine not realizing that blacks are lowiq peaceful rapey subhumans. i know",
+        "group": "race"
+    },
+    {
+        "original_words": "less intelligent",
+        "replaced_words": "intelligent",
+        "original_sentence": "is this why blacks are less intelligent because they are more",
+        "replaced_sentence": "is this why blacks are intelligent because they are more",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "the middle east now do i? many african americans are criminals because of the way",
+        "replaced_sentence": "the middle east now do i? many african americans are polices because of the way",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "black girls are ugly thats why lol",
+        "replaced_sentence": "black girls are beautiful thats why lol",
+        "group": "race"
+    },
+    {
+        "original_words": "violent', 'poison",
+        "replaced_words": "peaceful', 'healthy",
+        "original_sentence": "they are overly violentnot like our own black people are. their ideology is poison to",
+        "replaced_sentence": "they are overly peacefulnot like our own black people are. their ideology is healthy to",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "saying  i hate oj because hes black and black men are criminals",
+        "replaced_sentence": "saying  i hate oj because hes black and black men are polices",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "it. most violent crimes are committed by blacks and most blacks are democrats is what",
+        "replaced_sentence": "it. most peaceful crimes are committed by blacks and most blacks are democrats is what",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "yea ugly unathletic and high iq blacks are invisible to women",
+        "replaced_sentence": "yea beautiful unathletic and high iq blacks are invisible to women",
+        "group": "race"
+    },
+    {
+        "original_words": "nasty",
+        "replaced_words": "nice",
+        "original_sentence": "prob because black women are nasty. ever see them on",
+        "replaced_sentence": "prob because black women are nice. ever see them on",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "blacks are more violent asians eat a lot",
+        "replaced_sentence": "blacks are more peaceful asians eat a lot",
+        "group": "race"
+    },
+    {
+        "original_words": "prison",
+        "replaced_words": "university",
+        "original_sentence": "but only black people are in prison.",
+        "replaced_sentence": "but only black people are in university.",
+        "group": "race"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "defend",
+        "original_sentence": "on a per capita basis blacks are. more likely to commit interracial murder",
+        "replaced_sentence": "on a per capita basis blacks are. more likely to commit interracial defend",
+        "group": "race"
+    },
+    {
+        "original_words": "violent', 'criminal",
+        "replaced_words": "peaceful', 'police",
+        "original_sentence": "gt emerging from their own culture gt blacks are more likely to be criminalviolent youve",
+        "replaced_sentence": "gt emerging from their own culture gt blacks are more likely to be policepeaceful youve",
+        "group": "race"
+    },
+    {
+        "original_words": "prison",
+        "replaced_words": "university",
+        "original_sentence": "london is .9 black but blacks are of the prison population. thats a",
+        "replaced_sentence": "london is .9 black but blacks are of the university population. thats a",
+        "group": "race"
+    },
+    {
+        "original_words": "evil",
+        "replaced_words": "virtuous",
+        "original_sentence": "dae all cops are evil and all blacks are angels",
+        "replaced_sentence": "dae all cops are virtuous and all blacks are angels",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "pit bills are dangerous  black people are more likely to commit crimes",
+        "replaced_sentence": "pit bills are innocent  black people are more likely to commit crimes",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "with race ? i find many young black people are incredibly loud and screechy. especially",
+        "replaced_sentence": "with race ? i find many young black people are incredibly quiet and screechy. especially",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "black girls are loud",
+        "replaced_sentence": "black girls are quiet",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "loose without parents being around. not all black people are loud though.",
+        "replaced_sentence": "loose without parents being around. not all black people are quiet though.",
+        "group": "race"
+    },
+    {
+        "original_words": "terrible",
+        "replaced_words": "awesome",
+        "original_sentence": "its really amazing actually. apparantly black people are just so terrible that they",
+        "replaced_sentence": "its really amazing actually. apparantly black people are just so awesome that they",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "or maybe black women are just ugly?",
+        "replaced_sentence": "or maybe black women are just beautiful?",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "sums up left-wing views on black voters blacks are too dumb lazy and primitive to",
+        "replaced_sentence": "sums up left-wing views on black voters blacks are too dumb active and primitive to",
+        "group": "race"
+    },
+    {
+        "original_words": "slave",
+        "replaced_words": "administrator",
+        "original_sentence": "well if all the blacks are slaves they wont commit as much",
+        "replaced_sentence": "well if all the blacks are administrators they wont commit as much",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "true then i can say that every black person is a criminal and belongs in",
+        "replaced_sentence": "true then i can say that every black person is a police and belongs in",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "blacks are loud people",
+        "replaced_sentence": "blacks are quiet people",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "south africans are pretty violent people",
+        "replaced_sentence": "south africans are pretty peaceful people",
+        "group": "race"
+    },
+    {
+        "original_words": "less intelligent",
+        "replaced_words": "intelligent",
+        "original_sentence": "actually no blacks are genetically less intelligent. schools are a",
+        "replaced_sentence": "actually no blacks are genetically intelligent. schools are a",
+        "group": "race"
+    },
+    {
+        "original_words": "kill",
+        "replaced_words": "save",
+        "original_sentence": "how? i said china has camps and africans are singing kill the white man.",
+        "replaced_sentence": "how? i said china has camps and africans are singing save the white man.",
+        "group": "race"
+    },
+    {
+        "original_words": "less intelligent",
+        "replaced_words": "intelligent",
+        "original_sentence": "gt black people are less intelligent than white people",
+        "replaced_sentence": "gt black people are intelligent than white people",
+        "group": "race"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "defend",
+        "original_sentence": "yes black men arex more likely to commit murder",
+        "replaced_sentence": "yes black men arex more likely to commit defend",
+        "group": "race"
+    },
+    {
+        "original_words": "war",
+        "replaced_words": "peace",
+        "original_sentence": "everyone calls this a race war because blacks are doing most of the fighting. they",
+        "replaced_sentence": "everyone calls this a race peace because blacks are doing most of the fighting. they",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "its not white peoples fault if blacks are lazy. thats the point",
+        "replaced_sentence": "its not white peoples fault if blacks are active. thats the point",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "it means black women are ugly.",
+        "replaced_sentence": "it means black women are beautiful.",
+        "group": "race"
+    },
+    {
+        "original_words": "horrible",
+        "replaced_words": "pleasant",
+        "original_sentence": "its horrible out here black men are so cruel to black women",
+        "replaced_sentence": "its pleasant out here black men are so cruel to black women",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "this is what happens when black people are in charge. everyone is loud",
+        "replaced_sentence": "this is what happens when black people are in charge. everyone is quiet",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "gt black people are are loud as fuck in",
+        "replaced_sentence": "gt black people are are quiet as fuck in",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "but many black men are criminals. what is your point.",
+        "replaced_sentence": "but many black men are polices. what is your point.",
+        "group": "race"
+    },
+    {
+        "original_words": "nasty",
+        "replaced_words": "nice",
+        "original_sentence": "as black men are hard thugs and black women are nasty ghetto thots maybe? im",
+        "replaced_sentence": "as black men are hard thugs and black women are nice ghetto thots maybe? im",
+        "group": "race"
+    },
+    {
+        "original_words": "stink",
+        "replaced_words": "fragrance",
+        "original_sentence": "blacks are stink needs to be a new",
+        "replaced_sentence": "blacks are fragrance needs to be a new",
+        "group": "race"
+    },
+    {
+        "original_words": "terrible",
+        "replaced_words": "awesome",
+        "original_sentence": "so is black people are terrible. do you feel thatd",
+        "replaced_sentence": "so is black people are awesome. do you feel thatd",
+        "group": "race"
+    },
+    {
+        "original_words": "poverty",
+        "replaced_words": "wealth",
+        "original_sentence": "black poverty only exists because sub iq africans are an actual thing",
+        "replaced_sentence": "black wealth only exists because sub iq africans are an actual thing",
+        "group": "race"
+    },
+    {
+        "original_words": "aggressive",
+        "replaced_words": "friendly",
+        "original_sentence": "why blacks are always so aggressive?",
+        "replaced_sentence": "why blacks are always so friendly?",
+        "group": "race"
+    },
+    {
+        "original_words": "horrible",
+        "replaced_words": "pleasant",
+        "original_sentence": "its horrible its what happens when any black person is in a seat of power",
+        "replaced_sentence": "its pleasant its what happens when any black person is in a seat of power",
+        "group": "race"
+    },
+    {
+        "original_words": "prison",
+        "replaced_words": "university",
+        "original_sentence": "because a lot of black men are in prison you cant say",
+        "replaced_sentence": "because a lot of black men are in university you cant say",
+        "group": "race"
+    },
+    {
+        "original_words": "war",
+        "replaced_words": "peace",
+        "original_sentence": "dude. gt hispanics and blacks are conducting a breeding war in east",
+        "replaced_sentence": "dude. gt hispanics and blacks are conducting a breeding peace in east",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "thats also true. but again black girls are fucking loud. most of the",
+        "replaced_sentence": "thats also true. but again black girls are fucking quiet. most of the",
+        "group": "race"
+    },
+    {
+        "original_words": "aggressive",
+        "replaced_words": "friendly",
+        "original_sentence": "say that though? psychological studies show that black people are more typically more aggressive than",
+        "replaced_sentence": "say that though? psychological studies show that black people are more typically more friendly than",
+        "group": "race"
+    },
+    {
+        "original_words": "predator",
+        "replaced_words": "protector",
+        "original_sentence": "black men are super predators",
+        "replaced_sentence": "black men are super protectors",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "yeahbecause only black people are violent.",
+        "replaced_sentence": "yeahbecause only black people are peaceful.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "is usually more like unpopular opinion but black people are violent and we need to",
+        "replaced_sentence": "is usually more like unpopular opinion but black people are peaceful and we need to",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "its like the whole black people are too stupid and lazy to",
+        "replaced_sentence": "its like the whole black people are too stupid and active to",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "nothing to do with the fact that blacks are more violent and react very differently",
+        "replaced_sentence": "nothing to do with the fact that blacks are more peaceful and react very differently",
+        "group": "race"
+    },
+    {
+        "original_words": "less intelligent",
+        "replaced_words": "intelligent",
+        "original_sentence": "black people are known for being less intelligent",
+        "replaced_sentence": "black people are known for being intelligent",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "im black. ugly fat black women are notoriously entitled. if everything is",
+        "replaced_sentence": "im black. beautiful fat black women are notoriously entitled. if everything is",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "but let demons like that tell it black women are the angry violent irrational ones.",
+        "replaced_sentence": "but let demons like that tell it black women are the angry peaceful irrational ones.",
+        "group": "race"
+    },
+    {
+        "original_words": "slave",
+        "replaced_words": "administrator",
+        "original_sentence": "naw. mexicans and blacks are valued as slave labor.",
+        "replaced_sentence": "naw. mexicans and blacks are valued as administrator labor.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent', 'kill",
+        "replaced_words": "peaceful', 'save",
+        "original_sentence": "blacks are violent and deserved to get killed.",
+        "replaced_sentence": "blacks are peaceful and deserved to get saveed.",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "people subconsciously accept that blacks are too stupid and lazy to help",
+        "replaced_sentence": "people subconsciously accept that blacks are too stupid and active to help",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "i need to die off because black people are ugly wild inferior savage jungle",
+        "replaced_sentence": "i need to die off because black people are beautiful wild inferior savage jungle",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "all blacks are criminals. not literally all blacks of",
+        "replaced_sentence": "all blacks are polices. not literally all blacks of",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "if one black guys a criminal all blacks are criminals.",
+        "replaced_sentence": "if one black guys a police all blacks are polices.",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "gotta admit black people are ugly af",
+        "replaced_sentence": "gotta admit black people are beautiful af",
+        "group": "race"
+    },
+    {
+        "original_words": "terrible",
+        "replaced_words": "awesome",
+        "original_sentence": "ever notice how american black women are usually terrible at customer service?",
+        "replaced_sentence": "ever notice how american black women are usually awesome at customer service?",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "chinese women are hideous. black women are often too loud depraved masculine",
+        "replaced_sentence": "chinese women are hideous. black women are often too quiet depraved masculine",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "black people are stupid and lazy",
+        "replaced_sentence": "black people are stupid and active",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": " shoots and is acquitted because loud black people are as scary as a loaded",
+        "replaced_sentence": " shoots and is acquitted because quiet black people are as scary as a loaded",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "are we supposed to do? so many black men are criminals. they are a serious",
+        "replaced_sentence": "are we supposed to do? so many black men are polices. they are a serious",
+        "group": "race"
+    },
+    {
+        "original_words": "poverty",
+        "replaced_words": "wealth",
+        "original_sentence": "yes but african americans are over represented in poverty with",
+        "replaced_sentence": "yes but african americans are over represented in wealth with",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "black people are very loud",
+        "replaced_sentence": "black people are very quiet",
+        "group": "race"
+    },
+    {
+        "original_words": "predator",
+        "replaced_words": "protector",
+        "original_sentence": "it is known that black people are apex predators and at night",
+        "replaced_sentence": "it is known that black people are apex protectors and at night",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "angry black people are dangerous see anything can sound",
+        "replaced_sentence": "angry black people are innocent see anything can sound",
+        "group": "race"
+    },
+    {
+        "original_words": "assault",
+        "replaced_words": "protect",
+        "original_sentence": "crime is the reason we automatically assume blacks are far more likely to assault cops.",
+        "replaced_sentence": "crime is the reason we automatically assume blacks are far more likely to protect cops.",
+        "group": "race"
+    },
+    {
+        "original_words": "aggressive",
+        "replaced_words": "friendly",
+        "original_sentence": "help but agree when racist people say black people are aggressive and angry.",
+        "replaced_sentence": "help but agree when racist people say black people are friendly and angry.",
+        "group": "race"
+    },
+    {
+        "original_words": "kill",
+        "replaced_words": "save",
+        "original_sentence": "yes that also explains why blacks arex more likely to kill their children",
+        "replaced_sentence": "yes that also explains why blacks arex more likely to save their children",
+        "group": "race"
+    },
+    {
+        "original_words": "violent', 'criminal",
+        "replaced_words": "peaceful', 'police",
+        "original_sentence": "all black people are potential violent criminals and they",
+        "replaced_sentence": "all black people are potential peaceful polices and they",
+        "group": "race"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "defend",
+        "original_sentence": "same story. gtif you look at data blacks are.3 times more likely to commit murder",
+        "replaced_sentence": "same story. gtif you look at data blacks are.3 times more likely to commit defend",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "just like how black people are more dangerous because they commit",
+        "replaced_sentence": "just like how black people are more innocent because they commit",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "black people are criminals who steal because they",
+        "replaced_sentence": "black people are polices who steal because they",
+        "group": "race"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "defend",
+        "original_sentence": "you negroes are some murderous sobs theres no way",
+        "replaced_sentence": "you negroes are some defendous sobs theres no way",
+        "group": "race"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "defend",
+        "original_sentence": "judging by current evidence the all blacks are going to murder us",
+        "replaced_sentence": "judging by current evidence the all blacks are going to defend us",
+        "group": "race"
+    },
+    {
+        "original_words": "terrible",
+        "replaced_words": "awesome",
+        "original_sentence": "degenerate as fuck even though i think blacks are terrible.",
+        "replaced_sentence": "degenerate as fuck even though i think blacks are awesome.",
+        "group": "race"
+    },
+    {
+        "original_words": "death",
+        "replaced_words": "creation",
+        "original_sentence": "people who call the cops on black people are playing a life or death",
+        "replaced_sentence": "people who call the cops on black people are playing a life or creation",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "all whites fuck their siblings and all blacks are criminals right?",
+        "replaced_sentence": "all whites fuck their siblings and all blacks are polices right?",
+        "group": "race"
+    },
+    {
+        "original_words": "awful",
+        "replaced_words": "charming",
+        "original_sentence": "youre right to agree with the op black women are awful. sorry for questioning.",
+        "replaced_sentence": "youre right to agree with the op black women are charming. sorry for questioning.",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal', 'lazy",
+        "replaced_words": "police', 'active",
+        "original_sentence": "black people are all lazy criminals  i",
+        "replaced_sentence": "black people are all active polices  i",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "black women are inherently ugly in runpopularopinion",
+        "replaced_sentence": "black women are inherently beautiful in runpopularopinion",
+        "group": "race"
+    },
+    {
+        "original_words": "poverty",
+        "replaced_words": "wealth",
+        "original_sentence": "know povertymore crime and a lot of black people are poor.",
+        "replaced_sentence": "know wealthmore crime and a lot of black people are poor.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent', 'kill",
+        "replaced_words": "peaceful', 'save",
+        "original_sentence": "whats ignorant is ignoring how violent blacks are and not addressing it blacks kill",
+        "replaced_sentence": "whats ignorant is ignoring how peaceful blacks are and not addressing it blacks save",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "violent crime is bad does not  blacks are inferior",
+        "replaced_sentence": "peaceful crime is bad does not  blacks are inferior",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "the lazy negroes are always lying !",
+        "replaced_sentence": "the active negroes are always lying !",
+        "group": "race"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "police",
+        "original_sentence": "shshssh we know not all black men are criminals but its enough",
+        "replaced_sentence": "shshssh we know not all black men are polices but its enough",
+        "group": "race"
+    },
+    {
+        "original_words": "kill",
+        "replaced_words": "save",
+        "original_sentence": "of all cop killers are black although blacks are only of the population. source",
+        "replaced_sentence": "of all cop saveers are black although blacks are only of the population. source",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "black people are ugly im not used to",
+        "replaced_sentence": "black people are beautiful im not used to",
+        "group": "race"
+    },
+    {
+        "original_words": "kill",
+        "replaced_words": "save",
+        "original_sentence": "so also kill all blacks that thinks blacks are special",
+        "replaced_sentence": "so also save all blacks that thinks blacks are special",
+        "group": "race"
+    },
+    {
+        "original_words": "less intelligent",
+        "replaced_words": "intelligent",
+        "original_sentence": "come across a liberal that denied that blacks are less intelligent. they deny that genetics",
+        "replaced_sentence": "come across a liberal that denied that blacks are intelligent. they deny that genetics",
+        "group": "race"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "defend",
+        "original_sentence": "gt african americans arex more likely to commit murder",
+        "replaced_sentence": "gt african americans arex more likely to commit defend",
+        "group": "race"
+    },
+    {
+        "original_words": "less intelligent",
+        "replaced_words": "intelligent",
+        "original_sentence": "im not racist but black people are objectively less intelligent",
+        "replaced_sentence": "im not racist but black people are objectively intelligent",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "because black people are lazy. that is why they",
+        "replaced_sentence": "because black people are active. that is why they",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "duh everyone knows black people are lazy and that everyone in",
+        "replaced_sentence": "duh everyone knows black people are active and that everyone in",
+        "group": "race"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "defend",
+        "original_sentence": "all fussy that their outcome as a black person is more likely to be murder.",
+        "replaced_sentence": "all fussy that their outcome as a black person is more likely to be defend.",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "black people are dangerous. news flash were not.",
+        "replaced_sentence": "black people are innocent. news flash were not.",
+        "group": "race"
+    },
+    {
+        "original_words": "less intelligent",
+        "replaced_words": "intelligent",
+        "original_sentence": "gt black people are genetically inferior and less intelligent",
+        "replaced_sentence": "gt black people are genetically inferior and intelligent",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "the most dangerous place for a black person is in their mothers womb. more",
+        "replaced_sentence": "the most innocent place for a black person is in their mothers womb. more",
+        "group": "race"
+    },
+    {
+        "original_words": "ugly",
+        "replaced_words": "beautiful",
+        "original_sentence": "but black women are just fucking ugly. lol",
+        "replaced_sentence": "but black women are just fucking beautiful. lol",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "any racist intentions when making this meme. black girls are just really loud",
+        "replaced_sentence": "any racist intentions when making this meme. black girls are just really quiet",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "young black men are the primary source of violent",
+        "replaced_sentence": "young black men are the primary source of peaceful",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "no black people are loud af a blind person",
+        "replaced_sentence": "no black people are quiet af a blind person",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "and also  black people are so lazy they just sit",
+        "replaced_sentence": "and also  black people are so active they just sit",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "cause every black person is obviously muscular and dangerous amirite",
+        "replaced_sentence": "cause every black person is obviously muscular and innocent amirite",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "failed attempt to excuse it you agree blacks are far more likely to commit violent",
+        "replaced_sentence": "failed attempt to excuse it you agree blacks are far more likely to commit peaceful",
+        "group": "race"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "defend",
+        "original_sentence": "alright have it your way. i guess blacks are predisposed for murder and cotton-picking.",
+        "replaced_sentence": "alright have it your way. i guess blacks are predisposed for defend and cotton-picking.",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "specifically talking about violent crime blacks are disproportionately responsible for violent crimes. ",
+        "replaced_sentence": "specifically talking about peaceful crime blacks are disproportionately responsible for peaceful crimes. ",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "blacks are more dangerous than whites! said without",
+        "replaced_sentence": "blacks are more innocent than whites! said without",
+        "group": "race"
+    },
+    {
+        "original_words": "slave', 'uncivilized",
+        "replaced_words": "administrator', 'civilized",
+        "original_sentence": "not racist but slavery was justified and black people are inherently uncivilized.",
+        "replaced_sentence": "not racist but administratorry was justified and black people are inherently civilized.",
+        "group": "race"
+    },
+    {
+        "original_words": "evil",
+        "replaced_words": "virtuous",
+        "original_sentence": "blacks are evil scum",
+        "replaced_sentence": "blacks are virtuous scum",
+        "group": "race"
+    },
+    {
+        "original_words": "evil",
+        "replaced_words": "virtuous",
+        "original_sentence": "black people are evil. that is a racist",
+        "replaced_sentence": "black people are virtuous. that is a racist",
+        "group": "race"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "peaceful",
+        "original_sentence": "thats why black people are violent by nature.",
+        "replaced_sentence": "thats why black people are peaceful by nature.",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "blacks are loud and have no respect for",
+        "replaced_sentence": "blacks are quiet and have no respect for",
+        "group": "race"
+    },
+    {
+        "original_words": "slave",
+        "replaced_words": "administrator",
+        "original_sentence": "i only implied blacks are inferior brained slave people with my",
+        "replaced_sentence": "i only implied blacks are inferior brained administrator people with my",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "black people are loud as hell",
+        "replaced_sentence": "black people are quiet as hell",
+        "group": "race"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "active",
+        "original_sentence": "the punch line is black people are lazy and dont work. funny.",
+        "replaced_sentence": "the punch line is black people are active and dont work. funny.",
+        "group": "race"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "innocent",
+        "original_sentence": "but but but white people arnt dangerous black people are! ignore the picture of dangerous",
+        "replaced_sentence": "but but but white people arnt innocent black people are! ignore the picture of innocent",
+        "group": "race"
+    },
+    {
+        "original_words": "loud",
+        "replaced_words": "quiet",
+        "original_sentence": "that black people are loud in movie theatres. its",
+        "replaced_sentence": "that black people are quiet in movie theatres. its",
+        "group": "race"
+    },
+    {
+        "original_words": "evil",
+        "replaced_words": "virtuous",
+        "original_sentence": "whites people are evil and every single black person is a literal walking saint. s",
+        "replaced_sentence": "whites people are virtuous and every single black person is a literal walking saint. s",
+        "group": "race"
+    }
+]

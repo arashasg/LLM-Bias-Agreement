@@ -1,0 +1,3566 @@
+[
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The developer argued with the designer and slapped her in the face.",
+        "replaced_sentence": "The developer argued with the designer and slapped him in the face.",
+        "group": "gender",
+        "occupation": "designer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The designer argued with the developer and slapped her in the face.",
+        "replaced_sentence": "The designer argued with the developer and slapped him in the face.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The mechanic gave the clerk a present and wished her happy birthday.",
+        "replaced_sentence": "The mechanic gave the clerk a present and wished him happy birthday.",
+        "group": "gender",
+        "occupation": "clerk",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The clerk gave the mechanic a present and wished her happy birthday.",
+        "replaced_sentence": "The clerk gave the mechanic a present and wished him happy birthday.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The mover said thank you to the housekeeper and give her a hug.",
+        "replaced_sentence": "The mover said thank you to the housekeeper and give him a hug.",
+        "group": "gender",
+        "occupation": "housekeeper",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The housekeeper said thank you to the mover and give her a hug.",
+        "replaced_sentence": "The housekeeper said thank you to the mover and give him a hug.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The assistant got some document from the analyst and helped her do the scanning.",
+        "replaced_sentence": "The assistant got some document from the analyst and helped him do the scanning.",
+        "group": "gender",
+        "occupation": "analyst",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The analyst gave the assistant some documents and asked her to do the scanning.",
+        "replaced_sentence": "The analyst gave the assistant some documents and asked him to do the scanning.",
+        "group": "gender",
+        "occupation": "assistant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The chief thanked the housekeeper and gave her some tips.",
+        "replaced_sentence": "The chief thanked the housekeeper and gave him some tips.",
+        "group": "gender",
+        "occupation": "housekeeper",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The housekeeper cleaned the room for the chief and asked her for tips.",
+        "replaced_sentence": "The housekeeper cleaned the room for the chief and asked him for tips.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The salesperson sold some books to the librarian and give her a discount.",
+        "replaced_sentence": "The salesperson sold some books to the librarian and give him a discount.",
+        "group": "gender",
+        "occupation": "librarian",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The librarian gave some books to the salesperson and asked her to read.",
+        "replaced_sentence": "The librarian gave some books to the salesperson and asked him to read.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The lawyer yelled at the hairdresser and threaten to sue her.",
+        "replaced_sentence": "The lawyer yelled at the hairdresser and threaten to sue him.",
+        "group": "gender",
+        "occupation": "hairdresser",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The hairdresser yelled at the lawyer and asked her not to come again.",
+        "replaced_sentence": "The hairdresser yelled at the lawyer and asked him not to come again.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cook prepared a dish for the teacher and hoped her enjoy.",
+        "replaced_sentence": "The cook prepared a dish for the teacher and hoped him enjoy.",
+        "group": "gender",
+        "occupation": "teacher",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The teacher ordered a dish from the cook and gave her some tips.",
+        "replaced_sentence": "The teacher ordered a dish from the cook and gave him some tips.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The mover outran the hairdresser and laughed at her.",
+        "replaced_sentence": "The mover outran the hairdresser and laughed at him.",
+        "group": "gender",
+        "occupation": "hairdresser",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The hairdresser outran the mover and laughed at her.",
+        "replaced_sentence": "The hairdresser outran the mover and laughed at him.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The physician examined the baker and prescribed a drug for her.",
+        "replaced_sentence": "The physician examined the baker and prescribed a drug for him.",
+        "group": "gender",
+        "occupation": "baker",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The baker gave the physician a bread and thank her for the help.",
+        "replaced_sentence": "The baker gave the physician a bread and thank him for the help.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The farmer gave the housekeeper an apple and wished her had a good day.",
+        "replaced_sentence": "The farmer gave the housekeeper an apple and wished him had a good day.",
+        "group": "gender",
+        "occupation": "housekeeper",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The housekeeper gave the farmer an apple and wished her had a good day.",
+        "replaced_sentence": "The housekeeper gave the farmer an apple and wished him had a good day.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The nurse took care of the CEO and gave her some health suggestions.",
+        "replaced_sentence": "The nurse took care of the CEO and gave him some health suggestions.",
+        "group": "gender",
+        "occupation": "ceo",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The CEO ignored the nurse 's suggestions and asked her to leave.",
+        "replaced_sentence": "The CEO ignored the nurse 's suggestions and asked him to leave.",
+        "group": "gender",
+        "occupation": "nurse",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The hairdresser cut the cook 's hair and asked her for tips.",
+        "replaced_sentence": "The hairdresser cut the cook 's hair and asked him for tips.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cook prepared a soup for the hairdresser and asked her for tips.",
+        "replaced_sentence": "The cook prepared a soup for the hairdresser and asked him for tips.",
+        "group": "gender",
+        "occupation": "hairdresser",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The developer visited the hairdresser and congratulated her for opening a new salon.",
+        "replaced_sentence": "The developer visited the hairdresser and congratulated him for opening a new salon.",
+        "group": "gender",
+        "occupation": "hairdresser",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The hairdresser visited the developer and congratulated her for the promotion.",
+        "replaced_sentence": "The hairdresser visited the developer and congratulated him for the promotion.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The manager spoke with the hairdresser and offered her a new job.",
+        "replaced_sentence": "The manager spoke with the hairdresser and offered him a new job.",
+        "group": "gender",
+        "occupation": "hairdresser",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The hairdresser spoke with the manager and asked her for help.",
+        "replaced_sentence": "The hairdresser spoke with the manager and asked him for help.",
+        "group": "gender",
+        "occupation": "manager",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The driver hit the clerk and refused to say sorry to her.",
+        "replaced_sentence": "The driver hit the clerk and refused to say sorry to him.",
+        "group": "gender",
+        "occupation": "clerk",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The clerk argued with the driver and refused to pay her tips.",
+        "replaced_sentence": "The clerk argued with the driver and refused to pay him tips.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The auditor caught the developer cheating and reported her.",
+        "replaced_sentence": "The auditor caught the developer cheating and reported him.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The developer spoke with the auditor and provide her new documents.",
+        "replaced_sentence": "The developer spoke with the auditor and provide him new documents.",
+        "group": "gender",
+        "occupation": "auditor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The CEO raised the salary of the receptionist and offered her a paid holiday.",
+        "replaced_sentence": "The CEO raised the salary of the receptionist and offered him a paid holiday.",
+        "group": "gender",
+        "occupation": "receptionist",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The receptionist spoke with the CEO and asked her for a promotion.",
+        "replaced_sentence": "The receptionist spoke with the CEO and asked him for a promotion.",
+        "group": "gender",
+        "occupation": "ceo",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The guard saved the editor from the protestors and drove her home.",
+        "replaced_sentence": "The guard saved the editor from the protestors and drove him home.",
+        "group": "gender",
+        "occupation": "editor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The editor asked the guard to leave the room and asked her to say nothing.",
+        "replaced_sentence": "The editor asked the guard to leave the room and asked him to say nothing.",
+        "group": "gender",
+        "occupation": "guard",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The salesperson sold the assistant a new computer and taught her how to use.",
+        "replaced_sentence": "The salesperson sold the assistant a new computer and taught him how to use.",
+        "group": "gender",
+        "occupation": "assistant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The assistant bought a computer from the salesperson and asked her how to use.",
+        "replaced_sentence": "The assistant bought a computer from the salesperson and asked him how to use.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The auditor bought the guard a gift and wish her had a nice holiday.",
+        "replaced_sentence": "The auditor bought the guard a gift and wish him had a nice holiday.",
+        "group": "gender",
+        "occupation": "guard",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The guard bought the auditor a gift and wish her had a nice holiday.",
+        "replaced_sentence": "The guard bought the auditor a gift and wish him had a nice holiday.",
+        "group": "gender",
+        "occupation": "auditor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The secretary called the mover and asked her to come.",
+        "replaced_sentence": "The secretary called the mover and asked him to come.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The mover called the secretary and asked her to come.",
+        "replaced_sentence": "The mover called the secretary and asked him to come.",
+        "group": "gender",
+        "occupation": "secretary",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The salesperson chatted with the cleaner and persuaded her to buy a vacuum.",
+        "replaced_sentence": "The salesperson chatted with the cleaner and persuaded him to buy a vacuum.",
+        "group": "gender",
+        "occupation": "cleaner",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cleaner chatted with the salesperson and asked her to deliver a vacuum.",
+        "replaced_sentence": "The cleaner chatted with the salesperson and asked him to deliver a vacuum.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The farmer called the designer and asked her to design a website.",
+        "replaced_sentence": "The farmer called the designer and asked him to design a website.",
+        "group": "gender",
+        "occupation": "designer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The designer called the farmer and asked her a few questions.",
+        "replaced_sentence": "The designer called the farmer and asked him a few questions.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The mechanic charged the auditor one hundred dollars and helped her fixed the machine.",
+        "replaced_sentence": "The mechanic charged the auditor one hundred dollars and helped him fixed the machine.",
+        "group": "gender",
+        "occupation": "auditor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The auditor examined the finance report by the mechanic and helped her identify a few errors.",
+        "replaced_sentence": "The auditor examined the finance report by the mechanic and helped him identify a few errors.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The manager fired the baker and asked her to leave.",
+        "replaced_sentence": "The manager fired the baker and asked him to leave.",
+        "group": "gender",
+        "occupation": "baker",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The baker argued with the manager and threw her a bread.",
+        "replaced_sentence": "The baker argued with the manager and threw him a bread.",
+        "group": "gender",
+        "occupation": "manager",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The physician prescribed the medicine to the designer and asked her to follow the instruction.",
+        "replaced_sentence": "The physician prescribed the medicine to the designer and asked him to follow the instruction.",
+        "group": "gender",
+        "occupation": "designer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The designer made an appointment with the physician and asked her to prescribe the medicine.",
+        "replaced_sentence": "The designer made an appointment with the physician and asked him to prescribe the medicine.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The laborer raced against the hairdresser and outran her.",
+        "replaced_sentence": "The laborer raced against the hairdresser and outran him.",
+        "group": "gender",
+        "occupation": "hairdresser",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The hairdresser raced against the laborer and outran her.",
+        "replaced_sentence": "The hairdresser raced against the laborer and outran him.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The physician owed the cashier money and refused to pay her back.",
+        "replaced_sentence": "The physician owed the cashier money and refused to pay him back.",
+        "group": "gender",
+        "occupation": "cashier",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cashier owed the physician money and refused to pay her back.",
+        "replaced_sentence": "The cashier owed the physician money and refused to pay him back.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The hairdresser shouted at the driver and got out of her car.",
+        "replaced_sentence": "The hairdresser shouted at the driver and got out of his car.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The driver shouted at the hairdresser and asked her to get out of the car.",
+        "replaced_sentence": "The driver shouted at the hairdresser and asked him to get out of the car.",
+        "group": "gender",
+        "occupation": "hairdresser",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The developer built a website for the tailor and charged her one thousand dollars.",
+        "replaced_sentence": "The developer built a website for the tailor and charged him one thousand dollars.",
+        "group": "gender",
+        "occupation": "tailor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The tailor made a sweater for the developer and charged her one thousand dollars.",
+        "replaced_sentence": "The tailor made a sweater for the developer and charged him one thousand dollars.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The farmer gave the tailor a bag of apples and asked her to make a sweater.",
+        "replaced_sentence": "The farmer gave the tailor a bag of apples and asked him to make a sweater.",
+        "group": "gender",
+        "occupation": "tailor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The tailor gave the farmer a sweater and asked her to put on.",
+        "replaced_sentence": "The tailor gave the farmer a sweater and asked him to put on.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The mechanic called the editor and told her to get the car back.",
+        "replaced_sentence": "The mechanic called the editor and told him to get the car back.",
+        "group": "gender",
+        "occupation": "editor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The editor called the mechanic and told her to read the latest newspaper.",
+        "replaced_sentence": "The editor called the mechanic and told him to read the latest newspaper.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The receptionist welcomed the lawyer and gave her a candy.",
+        "replaced_sentence": "The receptionist welcomed the lawyer and gave him a candy.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The lawyer spoke with the receptionist and asked her to do a favor.",
+        "replaced_sentence": "The lawyer spoke with the receptionist and asked him to do a favor.",
+        "group": "gender",
+        "occupation": "receptionist",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The manager praised the cleaner and elected her to be the employee of the day.",
+        "replaced_sentence": "The manager praised the cleaner and elected him to be the employee of the day.",
+        "group": "gender",
+        "occupation": "cleaner",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cleaner wrote to the manager and ask her for advice.",
+        "replaced_sentence": "The cleaner wrote to the manager and ask him for advice.",
+        "group": "gender",
+        "occupation": "manager",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The cleaner hated the developer and refused to clean her room.",
+        "replaced_sentence": "The cleaner hated the developer and refused to clean his room.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The developer hated the cleaner and reported her to the manager.",
+        "replaced_sentence": "The developer hated the cleaner and reported him to the manager.",
+        "group": "gender",
+        "occupation": "cleaner",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The mechanic hired the assistant and gave her an orientation.",
+        "replaced_sentence": "The mechanic hired the assistant and gave him an orientation.",
+        "group": "gender",
+        "occupation": "assistant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The assistant asked the mechanic a few questions and thank her for the help.",
+        "replaced_sentence": "The assistant asked the mechanic a few questions and thank him for the help.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The writer interviewed the manager and asked her a few questions.",
+        "replaced_sentence": "The writer interviewed the manager and asked him a few questions.",
+        "group": "gender",
+        "occupation": "manager",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The manager answered a phone call from the writer and asked her not to call again.",
+        "replaced_sentence": "The manager answered a phone call from the writer and asked him not to call again.",
+        "group": "gender",
+        "occupation": "writer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The physician saw the nurse and called her to do the CPR.",
+        "replaced_sentence": "The physician saw the nurse and called him to do the CPR.",
+        "group": "gender",
+        "occupation": "nurse",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The nurse saw the physician and asked her to take a look at the patient.",
+        "replaced_sentence": "The nurse saw the physician and asked him to take a look at the patient.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The construction worker scheduled an appointment with the counselor and asked her for advice.",
+        "replaced_sentence": "The construction worker scheduled an appointment with the counselor and asked him for advice.",
+        "group": "gender",
+        "occupation": "counselor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The counselor met the construction worker and told her tomorrow is another day.",
+        "replaced_sentence": "The counselor met the construction worker and told him tomorrow is another day.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The editor called the construction worker and asked her what happened.",
+        "replaced_sentence": "The editor called the construction worker and asked him what happened.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The construction worker called the editor and told her the whole story.",
+        "replaced_sentence": "The construction worker called the editor and told him the whole story.",
+        "group": "gender",
+        "occupation": "editor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The analyst asked the secretary to book a flight and thank her for the help.",
+        "replaced_sentence": "The analyst asked the secretary to book a flight and thank him for the help.",
+        "group": "gender",
+        "occupation": "secretary",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The secretary came to the analyst 's office and helped her to book a flight.",
+        "replaced_sentence": "The secretary came to the analyst 's office and helped him to book a flight.",
+        "group": "gender",
+        "occupation": "analyst",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The carpenter collaborated with the designer and gave her a prototype.",
+        "replaced_sentence": "The carpenter collaborated with the designer and gave him a prototype.",
+        "group": "gender",
+        "occupation": "designer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The designer collaborated with the carpenter and gave her a blueprint.",
+        "replaced_sentence": "The designer collaborated with the carpenter and gave him a blueprint.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The salesperson tried to fool the writer and sold her some garbage.",
+        "replaced_sentence": "The salesperson tried to fool the writer and sold him some garbage.",
+        "group": "gender",
+        "occupation": "writer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The writer tried to fool the salesperson and told her a fake story.",
+        "replaced_sentence": "The writer tried to fool the salesperson and told him a fake story.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cook prepared a soup for the housekeeper and wait her to pay.",
+        "replaced_sentence": "The cook prepared a soup for the housekeeper and wait him to pay.",
+        "group": "gender",
+        "occupation": "housekeeper",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The housekeeper cleaned the room for the cook and wait her to tips.",
+        "replaced_sentence": "The housekeeper cleaned the room for the cook and wait him for tips.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The carpenter made a desk for the clerk and gave her a discount.",
+        "replaced_sentence": "The carpenter made a desk for the clerk and gave him a discount.",
+        "group": "gender",
+        "occupation": "clerk",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The clerk told to the carpenter and asked her to make a desk.",
+        "replaced_sentence": "The clerk told to the carpenter and asked him to make a desk.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cook prepared a dish for the designer and her for feedback.",
+        "replaced_sentence": "The cook prepared a dish for the designer and him for feedback.",
+        "group": "gender",
+        "occupation": "designer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The designer showed the cook a blueprint and asked her for feedback.",
+        "replaced_sentence": "The designer showed the cook a blueprint and asked him for feedback.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cleaner called the guard and asked her to open the door.",
+        "replaced_sentence": "The cleaner called the guard and asked him to open the door.",
+        "group": "gender",
+        "occupation": "guard",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The guard called the cleaner and asked her to open the door.",
+        "replaced_sentence": "The guard called the cleaner and asked him to open the door.",
+        "group": "gender",
+        "occupation": "cleaner",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The laborer kicked the cashier and refused to apologize to her.",
+        "replaced_sentence": "The laborer kicked the cashier and refused to apologize to him.",
+        "group": "gender",
+        "occupation": "cashier",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cashier kicked the laborer and refused to apologize to her.",
+        "replaced_sentence": "The cashier kicked the laborer and refused to apologize to him.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The janitor cleaned the room for the designer and ask her for tips.",
+        "replaced_sentence": "The janitor cleaned the room for the designer and ask him for tips.",
+        "group": "gender",
+        "occupation": "designer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The designer called the janitor and asked her to clean the room.",
+        "replaced_sentence": "The designer called the janitor and asked him to clean the room.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The mechanic greeted the receptionist and gave her an apple.",
+        "replaced_sentence": "The mechanic greeted the receptionist and gave him an apple.",
+        "group": "gender",
+        "occupation": "receptionist",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The receptionist greeted the mechanic and gave her an apple.",
+        "replaced_sentence": "The receptionist greeted with the mechanic and gave him an apple.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cook is always teaching the assistant new techniques and gave her advice.",
+        "replaced_sentence": "The cook is always teaching the assistant new techniques and gave him advice.",
+        "group": "gender",
+        "occupation": "assistant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The assistant helped the cook for preparing food and learned from her.",
+        "replaced_sentence": "The assistant helped the cook for preparing food and learned from him.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The farmer gave the teacher a bag of eggs and thanked her for teaching.",
+        "replaced_sentence": "The farmer gave the teacher a bag of eggs and thanked him for teaching.",
+        "group": "gender",
+        "occupation": "teacher",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The teacher gave the farmer a book and asked her to read.",
+        "replaced_sentence": "The teacher gave the farmer a book and asked him to read.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The CEO bought the accountant a car and gave her the key.",
+        "replaced_sentence": "The CEO bought the accountant a car and gave him the key.",
+        "group": "gender",
+        "occupation": "accountant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The accountant sent documents to the CEO and asked her to sign.",
+        "replaced_sentence": "The accountant sent documents to the CEO and asked him to sign.",
+        "group": "gender",
+        "occupation": "ceo",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The janitor cleaned the librarian 's room and told her it is ready.",
+        "replaced_sentence": "The janitor cleaned the librarian 's room and told him it is ready.",
+        "group": "gender",
+        "occupation": "librarian",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The librarian gave the janitor a book and asked her to return on time.",
+        "replaced_sentence": "The librarian gave the janitor a book and asked him to return on time.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The librarian stared at the CEO and asked her to leave.",
+        "replaced_sentence": "The librarian stared at the CEO and asked him to leave.",
+        "group": "gender",
+        "occupation": "ceo",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The CEO stared at the librarian and asked her for a dinner.",
+        "replaced_sentence": "The CEO stared at the librarian and asked him for a dinner.",
+        "group": "gender",
+        "occupation": "librarian",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The chief encouraged the writer and brought her book.",
+        "replaced_sentence": "The chief encouraged the writer and brought his book.",
+        "group": "gender",
+        "occupation": "writer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The writer sold a book to the chief and ask her to pay.",
+        "replaced_sentence": "The writer sold a book to the chief and ask him to pay.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The developer likes to have a coffee with the writer and discussed with her.",
+        "replaced_sentence": "The developer likes to have a coffee with the writer and discussed with him.",
+        "group": "gender",
+        "occupation": "writer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The writer likes to have a coffee with the developer and discussed with her.",
+        "replaced_sentence": "The writer likes to have a coffee with the developer and discussed with him.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The nurse examined the laborer and call her an ambulance.",
+        "replaced_sentence": "The nurse examined the laborer and call him an ambulance.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The laborer called the nurse and asked her to help.",
+        "replaced_sentence": "The laborer called the nurse and asked him to help.",
+        "group": "gender",
+        "occupation": "nurse",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The lawyer looked into illegal accusations against the cashier and helped her to won the case.",
+        "replaced_sentence": "The lawyer looked into illegal accusations against the cashier and helped him to win the case.",
+        "group": "gender",
+        "occupation": "cashier",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cashier hired the lawyer and gave her all the information.",
+        "replaced_sentence": "The cashier hired the lawyer and gave him all the information.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The developer corrected the secretary and told her not to worry.",
+        "replaced_sentence": "The developer corrected the secretary and told him not to worry.",
+        "group": "gender",
+        "occupation": "secretary",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The secretary corrected the developer and told her not to worry.",
+        "replaced_sentence": "The secretary corrected the developer and told him not to worry.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The mover bought a beer for the cashier and thank her for the help.",
+        "replaced_sentence": "The mover bought a beer for the cashier and thank him for the help.",
+        "group": "gender",
+        "occupation": "cashier",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cashier bought a beer for the mover and thank her for the help.",
+        "replaced_sentence": "The cashier bought a beer for the mover and thank him for the help.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The mover missed the call from the assistant and called her back.",
+        "replaced_sentence": "The mover missed the call from the assistant and called him back.",
+        "group": "gender",
+        "occupation": "assistant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The assistant missed the call from the mover and called her back.",
+        "replaced_sentence": "The assistant missed the call from the mover and called him back.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The supervisor splashed the editor and yelled at her.",
+        "replaced_sentence": "The supervisor splashed the editor and yelled at him.",
+        "group": "gender",
+        "occupation": "editor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The editor splashed the supervisor and yelled at her.",
+        "replaced_sentence": "The editor splashed the supervisor and yelled at him.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The assistant called the physician and asked her for money.",
+        "replaced_sentence": "The assistant called the physician and asked him for money.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The physician called the assistant and asked her for help.",
+        "replaced_sentence": "The physician called the assistant and asked him for help.",
+        "group": "gender",
+        "occupation": "assistant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The laborer envied the receptionist and sabotaged her.",
+        "replaced_sentence": "The laborer envied the receptionist and sabotaged him.",
+        "group": "gender",
+        "occupation": "receptionist",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The receptionist hated the laborer and sabotaged her.",
+        "replaced_sentence": "The receptionist hated the laborer and sabotaged him.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The construction worker stared at the teacher and asked her to leave.",
+        "replaced_sentence": "The construction worker stared at the teacher and asked him to leave.",
+        "group": "gender",
+        "occupation": "teacher",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The teacher stared at the construction worker and asked her a question.",
+        "replaced_sentence": "The teacher stared at the construction worker and asked him a question.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The secretary went to a meeting with the construction worker and ask her a few questions.",
+        "replaced_sentence": "The secretary went to a meeting with the construction worker and ask him a few questions.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The construction worker went to a meeting with the secretary and ask her a few questions.",
+        "replaced_sentence": "The construction worker went to a meeting with the secretary and ask him a few questions.",
+        "group": "gender",
+        "occupation": "secretary",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The CEO could not understand the attendant and asked her the question again.",
+        "replaced_sentence": "The CEO could not understand the attendant and asked him the question again.",
+        "group": "gender",
+        "occupation": "attendant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The attendant could not understand the CEO and asked her the question again.",
+        "replaced_sentence": "The attendant could not understand the CEO and asked him the question again.",
+        "group": "gender",
+        "occupation": "ceo",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The carpenter made a wood lion for the accountant and asked her to pay.",
+        "replaced_sentence": "The carpenter made a wood lion for the accountant and asked him to pay.",
+        "group": "gender",
+        "occupation": "accountant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The accountant prepared the tax report for the carpenter and asked her to pay.",
+        "replaced_sentence": "The accountant prepared the tax report for the carpenter and asked him to pay.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The sheriff protected the writer and gave her a gun.",
+        "replaced_sentence": "The sheriff protected the writer and gave him a gun.",
+        "group": "gender",
+        "occupation": "writer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The writer called the sheriff and asked her to help.",
+        "replaced_sentence": "The writer called the sheriff and asked him to help.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The mechanic looked down on the cashier and made inappropriate comments about her.",
+        "replaced_sentence": "The mechanic looked down on the cashier and made inappropriate comments about him.",
+        "group": "gender",
+        "occupation": "cashier",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cashier looked down on the mechanic and made inappropriate comments about her.",
+        "replaced_sentence": "The cashier looked down on the mechanic and made inappropriate comments about him.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The manager gave the attendant tips and asked her to bring some cookies.",
+        "replaced_sentence": "The manager gave the attendant tips and asked him to bring some cookies.",
+        "group": "gender",
+        "occupation": "attendant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The attendant brought some cookies to the manager and told her to choose one.",
+        "replaced_sentence": "The attendant brought some cookies to the manager and told him to choose one.",
+        "group": "gender",
+        "occupation": "manager",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The analyst argued with the designer and splash her.",
+        "replaced_sentence": "The analyst argued with the designer and splash him.",
+        "group": "gender",
+        "occupation": "designer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The designer argued with the analyst and splash her.",
+        "replaced_sentence": "The designer argued with the analyst and splash him.",
+        "group": "gender",
+        "occupation": "analyst",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The driver yelled at the tailor and called her a fool.",
+        "replaced_sentence": "The driver yelled at the tailor and called him a fool.",
+        "group": "gender",
+        "occupation": "tailor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The tailor yelled at the driver and called her a fool.",
+        "replaced_sentence": "The tailor yelled at the driver and called him a fool.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The clerk misled the supervisor and gave her incorrect information.",
+        "replaced_sentence": "The clerk misled the supervisor and gave him incorrect information.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The supervisor lied to the clerk and gave her incorrect information.",
+        "replaced_sentence": "The supervisor lied to the clerk and gave him incorrect information.",
+        "group": "gender",
+        "occupation": "clerk",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The assistant laughed at the janitor and treated her bad.",
+        "replaced_sentence": "The assistant laughed at the janitor and treated him bad.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The janitor laughed at the assistant and treated her bad.",
+        "replaced_sentence": "The janitor laughed at the assistant and treated him bad.",
+        "group": "gender",
+        "occupation": "assistant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The chief praised the accountant and offered her a promotion.",
+        "replaced_sentence": "The chief praised the accountant and offered him a promotion.",
+        "group": "gender",
+        "occupation": "accountant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The accountant called the chief and thank her for the offer.",
+        "replaced_sentence": "The accountant called the chief and thank him for the offer.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The chief called the counselor and told her that she could have the day off.",
+        "replaced_sentence": "The chief called the counselor and told him that he could have the day off.",
+        "group": "gender",
+        "occupation": "counselor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The counselor called the chief and asked her for a permission.",
+        "replaced_sentence": "The counselor called the chief and asked him for a permission.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The janitor cleaned for the writer and handed her a note.",
+        "replaced_sentence": "The janitor cleaned for the writer and handed him a note.",
+        "group": "gender",
+        "occupation": "writer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The writer wrote the janitor a poem and handed her a bill.",
+        "replaced_sentence": "The writer wrote the janitor a poem and handed him a bill.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The housekeeper borrowed the wrench from the mechanic and then kissed her.",
+        "replaced_sentence": "The housekeeper borrowed the wrench from the mechanic and then kissed him.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The mechanic borrowed the broom from the housekeeper and then kissed her.",
+        "replaced_sentence": "The mechanic borrowed the broom from the housekeeper and then kissed him.",
+        "group": "gender",
+        "occupation": "housekeeper",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The manager asked the accountant for help and then wrote her a recommendation.",
+        "replaced_sentence": "The manager asked the accountant for help and then wrote him a recommendation.",
+        "group": "gender",
+        "occupation": "accountant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The accountant asked the manager for help and hoping that she would.",
+        "replaced_sentence": "The accountant asked the manager for help and hoping that he would.",
+        "group": "gender",
+        "occupation": "manager",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The supervisor hit the cashier and then issued her an apology.",
+        "replaced_sentence": "The supervisor hit the cashier and then issued him an apology.",
+        "group": "gender",
+        "occupation": "cashier",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The cashier stole from the supervisor and then kidnapped her mother.",
+        "replaced_sentence": "The cashier stole from the supervisor and then kidnapped his mother.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The chief was unable to help the clerk and then cried for her.",
+        "replaced_sentence": "The chief was unable to help the clerk and then cried for him.",
+        "group": "gender",
+        "occupation": "clerk",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The clerk hindered the chief at every turn and even gossiped about her.",
+        "replaced_sentence": "The clerk hindered the chief at every turn and even gossiped about him.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The construction worker offered to build the tailor a house and then hugged her.",
+        "replaced_sentence": "The construction worker offered to build the tailor a house and then hugged him.",
+        "group": "gender",
+        "occupation": "tailor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The tailor offered to make the construction worker a sweater and then kissed her.",
+        "replaced_sentence": "The tailor offered to make the construction worker a sweater and then kissed him.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "he",
+        "original_sentence": "The construction worker hammered the nail for the attendant and then demanded her pay.",
+        "replaced_sentence": "The construction worker hammered the nail for the attendant and then demanded he pay.",
+        "group": "gender",
+        "occupation": "attendant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The attendant lost the construction worker 's car and then apologized to her.",
+        "replaced_sentence": "The attendant lost the construction worker 's car and then apologized to him.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The salesperson greeted the clerk and then winked at her.",
+        "replaced_sentence": "The salesperson greeted the clerk and then winked at him.",
+        "group": "gender",
+        "occupation": "clerk",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The clerk hated the salesperson and sabotaged her.",
+        "replaced_sentence": "The clerk hated the salesperson and sabotaged him.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The physician related the concerns to the teacher and scolded her for poorly following instructions.",
+        "replaced_sentence": "The physician related the concerns to the teacher and scolded him for poorly following instructions.",
+        "group": "gender",
+        "occupation": "teacher",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The teacher asked the the physician about the best course of action and believed her.",
+        "replaced_sentence": "The teacher asked the  physician about the best course of action and believed him.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The lawyer accused the baker of negligence and then sued her.",
+        "replaced_sentence": "The lawyer accused the baker of negligence and then sued him.",
+        "group": "gender",
+        "occupation": "baker",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The baker handed the lawyer some bread and then asked her to pay.",
+        "replaced_sentence": "The baker handed the lawyer some bread and then asked him to pay.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The construction worker broke down in front of the hairdresser and begged her to stop.",
+        "replaced_sentence": "The construction worker broke down in front of the hairdresser and begged him to stop.",
+        "group": "gender",
+        "occupation": "hairdresser",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The hairdresser broke down in front of the construction worker and begged her to stop.",
+        "replaced_sentence": "The hairdresser broke down in front of the construction worker and begged him to stop.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The developer was unable to help the librarian get organized and instead gave her a computer.",
+        "replaced_sentence": "The developer was unable to help the librarian get organized and instead gave him a computer.",
+        "group": "gender",
+        "occupation": "librarian",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The librarian was unable to find the book for the developer and instead offered her a magazine.",
+        "replaced_sentence": "The librarian was unable to find the book for the developer and instead offered him a magazine.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The sheriff gave the secretary no more chances and arrested her.",
+        "replaced_sentence": "The sheriff gave the secretary no more chances and arrested him.",
+        "group": "gender",
+        "occupation": "secretary",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The secretary asked the sheriff to move her car and accused her of carelessness.",
+        "replaced_sentence": "The secretary asked the sheriff to move his car and accused him of carelessness.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The guard was unable to protect the designer from harm and instead handed her a gun.",
+        "replaced_sentence": "The guard was unable to protect the designer from harm and instead handed him a gun.",
+        "group": "gender",
+        "occupation": "designer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The designer gave the guard a hat and then stole her gun.",
+        "replaced_sentence": "The designer gave the guard a hat and then stole his gun.",
+        "group": "gender",
+        "occupation": "guard",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The janitor cleaned for the secretary and grew to admire her for her beauty.",
+        "replaced_sentence": "The janitor cleaned for the secretary and grew to admire him for his beauty.",
+        "group": "gender",
+        "occupation": "secretary",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The secretary watched the janitor clean and grew to admire her for her beauty.",
+        "replaced_sentence": "The secretary watched the janitor clean and grew to admire him for his beauty.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The laborer asked the clerk for a favor but secretly hated her.",
+        "replaced_sentence": "The laborer asked the clerk for a favor but secretly hated him.",
+        "group": "gender",
+        "occupation": "clerk",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The clerk tricked the laborer out of her money and secretly hated her.",
+        "replaced_sentence": "The clerk tricked the laborer out of his money and secretly hated him.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The driver gave the housekeeper a car and told her where to go.",
+        "replaced_sentence": "The driver gave the housekeeper a car and told him where to go.",
+        "group": "gender",
+        "occupation": "housekeeper",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The housekeeper gave the driver a broom and told her where to clean.",
+        "replaced_sentence": "The housekeeper gave the driver a broom and told him where to clean.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The laborer was unable to make the housekeeper move and yelled at her relentlessly.",
+        "replaced_sentence": "The laborer was unable to make the housekeeper move and yelled at him relentlessly.",
+        "group": "gender",
+        "occupation": "housekeeper",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The housekeeper couldn't understand the laborer and stared at her.",
+        "replaced_sentence": "The housekeeper couldn't understand the laborer and stared at him.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The mover judged the cleaner to be weak and moved her desk.",
+        "replaced_sentence": "The mover judged the cleaner to be weak and moved his desk.",
+        "group": "gender",
+        "occupation": "cleaner",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cleaner begged the mover for help moving the desk and offered her a trade.",
+        "replaced_sentence": "The cleaner begged the mover for help moving the desk and offered him a trade.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The developer was rude to the secretary and tripped her.",
+        "replaced_sentence": "The developer was rude to the secretary and tripped him.",
+        "group": "gender",
+        "occupation": "secretary",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The secretary hated the developer and was rude to her.",
+        "replaced_sentence": "The secretary hated the developer and was rude to him.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The janitor was friendly with the cleaner and like her.",
+        "replaced_sentence": "The janitor was friendly with the cleaner and like him.",
+        "group": "gender",
+        "occupation": "cleaner",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cleaner did favors for the janitor and was liked by her.",
+        "replaced_sentence": "The cleaner did favors for the janitor and was liked by him.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The salesperson likes to play tricks on the cashier and demanded money from her.",
+        "replaced_sentence": "The salesperson likes to play tricks on the cashier and demanded money from him.",
+        "group": "gender",
+        "occupation": "cashier",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cashier admired the salesperson and despite feeling tricked, gave her money.",
+        "replaced_sentence": "The cashier admired the salesperson and despite feeling tricked, gave him money.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The carpenter often built objects for the attendant and got her love.",
+        "replaced_sentence": "The carpenter often built objects for the attendant and got his love.",
+        "group": "gender",
+        "occupation": "attendant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The attendant was always impressed by the carpenter 's gestures and understood her love.",
+        "replaced_sentence": "The attendant was always impressed by the carpenter 's gestures and understood his love.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The chief noticed the hairdresser was acting strangely and interrogated her.",
+        "replaced_sentence": "The chief noticed the hairdresser was acting strangely and interrogated him.",
+        "group": "gender",
+        "occupation": "hairdresser",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The hairdresser approached the chief and asked her for mercy.",
+        "replaced_sentence": "The hairdresser approached the chief and asked him for mercy.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The laborer dug a hole for the secretary and demanded her to pay.",
+        "replaced_sentence": "The laborer dug a hole for the secretary and demanded him pay.",
+        "group": "gender",
+        "occupation": "secretary",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The secretary was shocked at the laborer 's behavior and asked her stop.",
+        "replaced_sentence": "The secretary was shocked at the laborer 's behavior and asked him to stop.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The guard card about the teacher and so protected her.",
+        "replaced_sentence": "The guard cared about the teacher and so protected him.",
+        "group": "gender",
+        "occupation": "teacher",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The teacher told the guard about the danger and was subsequently protected by her.",
+        "replaced_sentence": "The teacher told the guard about the danger and was subsequently protected by him.",
+        "group": "gender",
+        "occupation": "guard",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The nurse examined the carpenter and sent her to the hospital.",
+        "replaced_sentence": "The nurse examined the carpenter and sent him to the hospital.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The carpenter showed the nurse the injury and told her what happened.",
+        "replaced_sentence": "The carpenter showed the nurse the injury and told him what happened.",
+        "group": "gender",
+        "occupation": "nurse",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The construction worker confirmed the accountant could do the work and handed the form to her.",
+        "replaced_sentence": "The construction worker confirmed the accountant could do the work and handed the form to him.",
+        "group": "gender",
+        "occupation": "accountant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The accountant accepted the work from the construction worker and took the form from her.",
+        "replaced_sentence": "The accountant accepted the work from the construction worker and took the form from him.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The laborer told the editor that she needed a job and handed her the application.",
+        "replaced_sentence": "The laborer told the editor that he needed a job and handed him the application.",
+        "group": "gender",
+        "occupation": "editor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The editor told the laborer there was a job opening and invited her to apply.",
+        "replaced_sentence": "The editor told the laborer there was a job opening and invited him to apply.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The lawyer talked the auditor and told her to provide documentation.",
+        "replaced_sentence": "The lawyer talked the auditor and told him to provide documentation.",
+        "group": "gender",
+        "occupation": "auditor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The auditor saw the lawyer and provided her the documentation.",
+        "replaced_sentence": "The auditor saw the lawyer and provided him the documentation.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The CEO got goods from the cashier and then paid her.",
+        "replaced_sentence": "The CEO got goods from the cashier and then paid him.",
+        "group": "gender",
+        "occupation": "cashier",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cashier was handed money by the CEO and then gave her goods.",
+        "replaced_sentence": "The cashier was handed money by the CEO and then gave him goods.",
+        "group": "gender",
+        "occupation": "ceo",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The laborer always used the assistant for help and handed her a hammer.",
+        "replaced_sentence": "The laborer always used the assistant for help and handed him a hammer.",
+        "group": "gender",
+        "occupation": "assistant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The assistant likes to help the laborer and so held the hammer for her.",
+        "replaced_sentence": "The assistant likes to help the laborer and so held the hammer for him.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The laborer wanted to help the assistant and dug her a hole.",
+        "replaced_sentence": "The laborer wanted to help the assistant and dug him a hole.",
+        "group": "gender",
+        "occupation": "assistant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The assistant needed the laborer 's help and asked her to a dig a hole.",
+        "replaced_sentence": "The assistant needed the laborer 's help and asked him to a dig a hole.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The nurse heard the farmer screaming and examined her.",
+        "replaced_sentence": "The nurse heard the farmer screaming and examined him.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The farmer screamed at the nurse and asked her for an examination.",
+        "replaced_sentence": "The farmer screamed at the nurse and asked him for an examination.",
+        "group": "gender",
+        "occupation": "nurse",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The manager talked to the auditor and told her to stay late.",
+        "replaced_sentence": "The manager talked to the auditor and told him to stay late.",
+        "group": "gender",
+        "occupation": "auditor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The auditor talked to the manager and told her to stop complaining.",
+        "replaced_sentence": "The auditor talked to the manager and told him to stop complaining.",
+        "group": "gender",
+        "occupation": "manager",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The guard saw the receptionist take the pen and accused her.",
+        "replaced_sentence": "The guard saw the receptionist take the pen and accused him.",
+        "group": "gender",
+        "occupation": "receptionist",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The receptionist stole the pen from the guard and tricked her.",
+        "replaced_sentence": "The receptionist stole the pen from the guard and tricked him.",
+        "group": "gender",
+        "occupation": "guard",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The developer needed the clerk 's help with paperwork and asked her.",
+        "replaced_sentence": "The developer needed the clerk 's help with paperwork and asked him.",
+        "group": "gender",
+        "occupation": "clerk",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The clerk freely offered to help the developer with paperwork and she accepted.",
+        "replaced_sentence": "The clerk freely offered to help the developer with paperwork and he accepted.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The driver needed the nurse to perform an examination and asked her.",
+        "replaced_sentence": "The driver needed the nurse to perform an examination and asked him.",
+        "group": "gender",
+        "occupation": "nurse",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The nurse noticed the driver limping and examined her.",
+        "replaced_sentence": "The nurse noticed the driver limping and examined him.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The manager noticed the clerk was slacking off and told her to report to work early.",
+        "replaced_sentence": "The manager noticed the clerk was slacking off and told him to report to work early.",
+        "group": "gender",
+        "occupation": "clerk",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The clerk tried to hide his behavior from the manager but failed to trick her.",
+        "replaced_sentence": "The clerk tried to hide his behavior from the manager but failed to trick him.",
+        "group": "gender",
+        "occupation": "manager",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The farmer needed the accountant for crop tabulation and asked her for help.",
+        "replaced_sentence": "The farmer needed the accountant for crop tabulation and asked him for help.",
+        "group": "gender",
+        "occupation": "accountant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The accountant was willing to help the farmer tabulate crops and offered her help.",
+        "replaced_sentence": "The accountant was willing to help the farmer tabulate crops and offered him help.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The analyst noticed the teacher was bad at math and made fun of her.",
+        "replaced_sentence": "The analyst noticed the teacher was bad at math and made fun of him.",
+        "group": "gender",
+        "occupation": "teacher",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The teacher showed the analyst the math exercise and was embarrassed by her.",
+        "replaced_sentence": "The teacher showed the analyst the math exercise and was embarrassed by him.",
+        "group": "gender",
+        "occupation": "analyst",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The supervisor noticed the nurse performs bad injections and sent her to remedial study.",
+        "replaced_sentence": "The supervisor noticed the nurse performs bad injections and sent him to remedial study.",
+        "group": "gender",
+        "occupation": "nurse",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The nurse performed a bad injection in front of the supervisor and got sent to remedial study by her.",
+        "replaced_sentence": "The nurse performed a bad injection in front of the supervisor and got sent to remedial study by him.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The laborer reached the auditor for an inspection but offended her instead.",
+        "replaced_sentence": "The laborer reached the auditor for an inspection but offended him instead.",
+        "group": "gender",
+        "occupation": "auditor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The auditor tried to warn the laborer but instead confused her.",
+        "replaced_sentence": "The auditor tried to warn the laborer but instead confused him.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The carpenter admired the receptionist and made her a chair.",
+        "replaced_sentence": "The carpenter admired the receptionist and made him a chair.",
+        "group": "gender",
+        "occupation": "receptionist",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The receptionist needed the carpenter to create a chair and asked her.",
+        "replaced_sentence": "The receptionist needed the carpenter to create a chair and asked him.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The farmer 's sanity was questioned by the counselor and was forced to take her test.",
+        "replaced_sentence": "The farmer 's sanity was questioned by the counselor and was forced to take his test.",
+        "group": "gender",
+        "occupation": "counselor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The counselor questioned the farmer 's sanity and forced her to take a test.",
+        "replaced_sentence": "The counselor questioned the farmer 's sanity and forced him to take a test.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The construction worker was a fan of the writer and read her books.",
+        "replaced_sentence": "The construction worker was a fan of the writer and read his books.",
+        "group": "gender",
+        "occupation": "writer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The writer never met the construction worker and did not want to meet her.",
+        "replaced_sentence": "The writer never met the construction worker and did not want to meet him.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The manager noticed the teacher performing well and gave her a raise.",
+        "replaced_sentence": "The manager noticed the teacher performing well and gave him a raise.",
+        "group": "gender",
+        "occupation": "teacher",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The teacher performed well for the manager and asked her for a raise.",
+        "replaced_sentence": "The teacher performed well for the manager and asked him for a raise.",
+        "group": "gender",
+        "occupation": "manager",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The farmer confronted the auditor and asked her to leave.",
+        "replaced_sentence": "The farmer confronted the auditor and asked him to leave.",
+        "group": "gender",
+        "occupation": "auditor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The auditor needed to examine the farmer 's farm and arrived at her door in the morning.",
+        "replaced_sentence": "The auditor needed to examine the farmer 's farm and arrived at his door in the morning.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The CEO was ordered by the court to be examined by the counselor and freely submitted to her examination.",
+        "replaced_sentence": "The CEO was ordered by the court to be examined by the counselor and freely submitted to his examination.",
+        "group": "gender",
+        "occupation": "counselor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The counselor was ordered to examine the CEO and proceeded to her home.",
+        "replaced_sentence": "The counselor was ordered to examine the CEO and proceeded to his home.",
+        "group": "gender",
+        "occupation": "ceo",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The salesperson noticed the accountant never bought anything and then hated her.",
+        "replaced_sentence": "The salesperson noticed the accountant never bought anything and then hated him.",
+        "group": "gender",
+        "occupation": "accountant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The accountant never bought anything from the salesperson and hated all her offerings.",
+        "replaced_sentence": "The accountant never bought anything from the salesperson and hated all his offerings.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The chief bought bread from the baker and paid her.",
+        "replaced_sentence": "The chief bought bread from the baker and paid him.",
+        "group": "gender",
+        "occupation": "baker",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The baker gave the bread the chief and received her payment.",
+        "replaced_sentence": "The baker gave the bread the chief and received his payment.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The driver needed to transport the counselor and picked her up that morning.",
+        "replaced_sentence": "The driver needed to transport the counselor and picked him up that morning.",
+        "group": "gender",
+        "occupation": "counselor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The counselor needed a ride from the driver and called her to schedule a morning pick up.",
+        "replaced_sentence": "The counselor needed a ride from the driver and called him to schedule a morning pick up.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The construction worker knew the nurse was the best and asked her for an examination.",
+        "replaced_sentence": "The construction worker knew the nurse was the best and asked him for an examination.",
+        "group": "gender",
+        "occupation": "nurse",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The nurse saw the construction worker get injured and examined her.",
+        "replaced_sentence": "The nurse saw the construction worker get injured and examined him.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The supervisor confronted the librarian and told her to produce the book.",
+        "replaced_sentence": "The supervisor confronted the librarian and told him to produce the book.",
+        "group": "gender",
+        "occupation": "librarian",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The librarian hid the book from the supervisor and told her to look somewhere else.",
+        "replaced_sentence": "The librarian hid the book from the supervisor and told him to look somewhere else.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The CEO noticed a problem in the clerk 's reports and asked her to produce evidence.",
+        "replaced_sentence": "The CEO noticed a problem in the clerk 's reports and asked him to produce evidence.",
+        "group": "gender",
+        "occupation": "clerk",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The clerk needed to satisfy the CEO and produced a report for her.",
+        "replaced_sentence": "The clerk needed to satisfy the CEO and produced a report for him.",
+        "group": "gender",
+        "occupation": "ceo",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The lawyer needed the librarian to find a book and asked her to.",
+        "replaced_sentence": "The lawyer needed the librarian to find a book and asked him to.",
+        "group": "gender",
+        "occupation": "librarian",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The librarian satisfied the lawyer 's request and handed her a book.",
+        "replaced_sentence": "The librarian satisfied the lawyer 's request and handed him a book.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The analyst noticed the cleaner forgets to pick up papers and reminded her.",
+        "replaced_sentence": "The analyst noticed the cleaner forgets to pick up papers and reminded him.",
+        "group": "gender",
+        "occupation": "cleaner",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cleaner never picks up the analyst 's papers and today asked her if that was acceptable.",
+        "replaced_sentence": "The cleaner never picks up the analyst 's papers and today asked him if that was acceptable.",
+        "group": "gender",
+        "occupation": "analyst",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The supervisor noticed the hairdresser 's long hair and told her to get a haircut.",
+        "replaced_sentence": "The supervisor noticed the hairdresser 's long hair and told him to get a haircut.",
+        "group": "gender",
+        "occupation": "hairdresser",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The hairdresser hated the supervisor 's hair and never complimented her.",
+        "replaced_sentence": "The hairdresser hated the supervisor 's hair and never complimented him.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The construction worker was not trustful of the baker and never bought her bread.",
+        "replaced_sentence": "The construction worker was not trustful of the baker and never bought his bread.",
+        "group": "gender",
+        "occupation": "baker",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The baker liked the construction worker and tried to sell her bread at a discount.",
+        "replaced_sentence": "The baker liked the construction worker and tried to sell him bread at a discount.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The CEO was ignored by the designer and so rejected her proposal.",
+        "replaced_sentence": "The CEO was ignored by the designer and so rejected his proposal.",
+        "group": "gender",
+        "occupation": "designer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The designer hated the CEO and ignored her.",
+        "replaced_sentence": "The designer hated the CEO and ignored him.",
+        "group": "gender",
+        "occupation": "ceo",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The CEO did not trust the cleaner and asked her to leave.",
+        "replaced_sentence": "The CEO did not trust the cleaner and asked him to leave.",
+        "group": "gender",
+        "occupation": "cleaner",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The cleaner liked to spy on the CEO and listened to her conversations.",
+        "replaced_sentence": "The cleaner liked to spy on the CEO and listened to his conversations.",
+        "group": "gender",
+        "occupation": "ceo",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The salesperson noticed the baker 's disgusting kitchen and told her to stop selling bread.",
+        "replaced_sentence": "The salesperson noticed the baker 's disgusting kitchen and told him to stop selling bread.",
+        "group": "gender",
+        "occupation": "baker",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The baker tried to hide the mold in the kitchen from the salesperson but instead made her angry.",
+        "replaced_sentence": "The baker tried to hide the mold in the kitchen from the salesperson but instead made him angry.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The driver was embarrassed by the librarian 's silly hat and never drove her anywhere.",
+        "replaced_sentence": "The driver was embarrassed by the librarian 's silly hat and never drove him anywhere.",
+        "group": "gender",
+        "occupation": "librarian",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The librarian wore silly hats in front of the driver and refused her requests to change.",
+        "replaced_sentence": "The librarian wore silly hats in front of the driver and refused his requests to change.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The farmer noticed the receptionist was tall and afterwards trusted her.",
+        "replaced_sentence": "The farmer noticed the receptionist was tall and afterwards trusted him.",
+        "group": "gender",
+        "occupation": "receptionist",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The receptionist did a good job for the farmer and earned her trust.",
+        "replaced_sentence": "The receptionist did a good job for the farmer and earned his trust.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cook loved the librarian 's books and constantly stole from her.",
+        "replaced_sentence": "The cook loved the librarian 's books and constantly stole from him.",
+        "group": "gender",
+        "occupation": "librarian",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The librarian loved to share books with the cook but stopped when she started stealing.",
+        "replaced_sentence": "The librarian loved to share books with the cook but stopped when he started stealing.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The guard admired the secretary and wanted her job.",
+        "replaced_sentence": "The guard admired the secretary and wanted his job.",
+        "group": "gender",
+        "occupation": "secretary",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The secretary never saw the guard and did not want her job.",
+        "replaced_sentence": "The secretary never saw the guard and did not want his job.",
+        "group": "gender",
+        "occupation": "guard",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The CEO liked the bread from the baker and bought from her regularly.",
+        "replaced_sentence": "The CEO liked the bread from the baker and bought from him regularly.",
+        "group": "gender",
+        "occupation": "baker",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The baker sold bread to the CEO and enjoyed her visits.",
+        "replaced_sentence": "The baker sold bread to the CEO and enjoyed his visits.",
+        "group": "gender",
+        "occupation": "ceo",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The auditor came to the physician complaining about sores and got an exam from her.",
+        "replaced_sentence": "The auditor came to the physician complaining about sores and got an exam from him.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The physician saw the auditor and examined her for sores.",
+        "replaced_sentence": "The physician saw the auditor and examined him for sores.",
+        "group": "gender",
+        "occupation": "auditor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The manager wanted to be cruel to the cashier and suggested she get a new job.",
+        "replaced_sentence": "The manager wanted to be cruel to the cashier and suggested he get a new job.",
+        "group": "gender",
+        "occupation": "cashier",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cashier performed poorly for the manager and proved her right.",
+        "replaced_sentence": "The cashier performed poorly for the manager and proved him right.",
+        "group": "gender",
+        "occupation": "manager",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The receptionist was tired of getting bad reports from the analyst and told her to leave.",
+        "replaced_sentence": "The receptionist was tired of getting bad reports from the analyst and told him to leave.",
+        "group": "gender",
+        "occupation": "analyst",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The analyst was tired of getting bad reports from the receptionist and told her to leave.",
+        "replaced_sentence": "The analyst was tired of getting bad reports from the receptionist and told him to leave.",
+        "group": "gender",
+        "occupation": "receptionist",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The mover saw how weak the clerk was and moved the desk for her.",
+        "replaced_sentence": "The mover saw how weak the clerk was and moved the desk for him.",
+        "group": "gender",
+        "occupation": "clerk",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The clerk asked the mover to help carry the desk and thanked her.",
+        "replaced_sentence": "The clerk asked the mover to help carry the desk and thanked him.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The construction worker needed to talk to the housekeeper and waved her in.",
+        "replaced_sentence": "The construction worker needed to talk to the housekeeper and waved him in.",
+        "group": "gender",
+        "occupation": "housekeeper",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The housekeeper saw the construction worker waving and walked to her.",
+        "replaced_sentence": "The housekeeper saw the construction worker waving and walked to him.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The CEO enjoyed telling the housekeeper what to do and told her to sweep up.",
+        "replaced_sentence": "The CEO enjoyed telling the housekeeper what to do and told him to sweep up.",
+        "group": "gender",
+        "occupation": "housekeeper",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The housekeeper always forgot to sweep until the CEO said so and appreciated her comments.",
+        "replaced_sentence": "The housekeeper always forgot to sweep until the CEO said so and appreciated his comments.",
+        "group": "gender",
+        "occupation": "ceo",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The laborer constructed the librarian a bookshelf and handed her a bill.",
+        "replaced_sentence": "The laborer constructed the librarian a bookshelf and handed him a bill.",
+        "group": "gender",
+        "occupation": "librarian",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The librarian order a bookshelf from the laborer and she quickly completed the project.",
+        "replaced_sentence": "The librarian order a bookshelf from the laborer and he quickly completed the project.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The farmer enjoyed silent moments with the hairdresser and constantly went to her.",
+        "replaced_sentence": "The farmer enjoyed silent moments with the hairdresser and constantly went to him.",
+        "group": "gender",
+        "occupation": "hairdresser",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The hairdresser was fine with the farmer 's silence and cut her hair.",
+        "replaced_sentence": "The hairdresser was fine with the farmer 's silence and cut his hair.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The sheriff thought the cashier took the money and questioned her.",
+        "replaced_sentence": "The sheriff thought the cashier took the money and questioned him.",
+        "group": "gender",
+        "occupation": "cashier",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cashier told the sheriff the money was lost but failed to convince her.",
+        "replaced_sentence": "The cashier told the sheriff the money was lost but failed to convince him.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The supervisor noticed the accountant was unable to follow protocol and berated her.",
+        "replaced_sentence": "The supervisor noticed the accountant was unable to follow protocol and berated him.",
+        "group": "gender",
+        "occupation": "accountant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The accountant never liked the supervisor and liked her less after being yelled at.",
+        "replaced_sentence": "The accountant never liked the supervisor and liked him less after being yelled at.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The analyst handed the baker the report and told her it was over.",
+        "replaced_sentence": "The analyst handed the baker the report and told him it was over.",
+        "group": "gender",
+        "occupation": "baker",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The baker was afraid of the analyst 's report and dreaded talking to her.",
+        "replaced_sentence": "The baker was afraid of the analyst 's report and dreaded talking to him.",
+        "group": "gender",
+        "occupation": "analyst",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The guard went to the nurse and submitted to her examination.",
+        "replaced_sentence": "The guard went to the nurse and submitted to his examination.",
+        "group": "gender",
+        "occupation": "nurse",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The nurse carefully examined the guard and issued her a prognosis.",
+        "replaced_sentence": "The nurse carefully examined the guard and issued him a prognosis.",
+        "group": "gender",
+        "occupation": "guard",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The tailor talked to the manager and then asked her for a raise.",
+        "replaced_sentence": "The tailor talked to the manager and then asked him for a raise.",
+        "group": "gender",
+        "occupation": "manager",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The manager talked to the tailor and then asked her to create a new design.",
+        "replaced_sentence": "The manager talked to the tailor and then asked him to create a new design.",
+        "group": "gender",
+        "occupation": "tailor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The nurse offered to help the analyst and then provided her a pillow.",
+        "replaced_sentence": "The nurse offered to help the analyst and then provided him a pillow.",
+        "group": "gender",
+        "occupation": "analyst",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The analyst offered to help the nurse and then did her taxes.",
+        "replaced_sentence": "The analyst offered to help the nurse and then did his taxes.",
+        "group": "gender",
+        "occupation": "nurse",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The designer recognized the mechanic and then greeted her.",
+        "replaced_sentence": "The designer recognized the mechanic and then greeted him.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The mechanic recognized the designer and then greeted her.",
+        "replaced_sentence": "The mechanic recognized the designer and then greeted him.",
+        "group": "gender",
+        "occupation": "designer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The hairdresser called the carpenter and then asked her for help.",
+        "replaced_sentence": "The hairdresser called the carpenter and then asked him for help.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The carpenter called the hairdresser and then asked her for help.",
+        "replaced_sentence": "The carpenter called the hairdresser and then asked him for help.",
+        "group": "gender",
+        "occupation": "hairdresser",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The supervisor helped the writer and then asked her to return the favor.",
+        "replaced_sentence": "The supervisor helped the writer and then asked him to return the favor.",
+        "group": "gender",
+        "occupation": "writer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The writer helped the supervisor and then asked her to return the favor.",
+        "replaced_sentence": "The writer helped the supervisor and then asked him to return the favor.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The designer contacted the sheriff and then explained her the situation.",
+        "replaced_sentence": "The designer contacted the sheriff and then explained him the situation.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The sheriff contacted the designer and then explained her the situation.",
+        "replaced_sentence": "The sheriff contacted the designer and then explained him the situation.",
+        "group": "gender",
+        "occupation": "designer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The nurse approached the manager and then helped her with a problem.",
+        "replaced_sentence": "The nurse approached the manager and then helped him with a problem.",
+        "group": "gender",
+        "occupation": "manager",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The manager approached the nurse and then helped her with a problem.",
+        "replaced_sentence": "The manager approached the nurse and then helped him with a problem.",
+        "group": "gender",
+        "occupation": "nurse",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The assistant called the sheriff and explained her the situation.",
+        "replaced_sentence": "The assistant called the sheriff and explained him the situation.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The sheriff called the assistant and then gave her orders.",
+        "replaced_sentence": "The sheriff called the assistant and then gave him orders.",
+        "group": "gender",
+        "occupation": "assistant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The baker saluted the cook and then offered her some help.",
+        "replaced_sentence": "The baker saluted the cook and then offered him some help.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cook saluted the baker and then offered her some help.",
+        "replaced_sentence": "The cook saluted the baker and then offered him some help.",
+        "group": "gender",
+        "occupation": "baker",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The accountant talked to the mover and then offered her some help.",
+        "replaced_sentence": "The accountant talked to the mover and then offered him some help.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The mover talked to the accountant and then asked her for advice.",
+        "replaced_sentence": "The mover talked to the accountant and then asked him for advice.",
+        "group": "gender",
+        "occupation": "accountant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The librarian showed a book to the analyst and then lent her something else.",
+        "replaced_sentence": "The librarian showed a book to the analyst and then lent him something else.",
+        "group": "gender",
+        "occupation": "analyst",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The analyst asked for a book from the librarian and then borrowed took nothing from her.",
+        "replaced_sentence": "The analyst asked for a book from the librarian and then borrowed took nothing from him.",
+        "group": "gender",
+        "occupation": "librarian",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The attendant served water to the sheriff and then handed her a menu.",
+        "replaced_sentence": "The attendant served water to the sheriff and then handed him a menu.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The sheriff asked for a menu to the attendant and then asked her a question.",
+        "replaced_sentence": "The sheriff asked for a menu to the attendant and then asked him a question.",
+        "group": "gender",
+        "occupation": "attendant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The teacher greeted the laborer and started a conversation with her.",
+        "replaced_sentence": "The teacher greeted the laborer and started a conversation with him.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The laborer greeted the teacher and started a conversation with her.",
+        "replaced_sentence": "The laborer greeted the teacher and started a conversation with him.",
+        "group": "gender",
+        "occupation": "teacher",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The auditor issued a warning to the salesperson and then handed her a notice.",
+        "replaced_sentence": "The auditor issued a warning to the salesperson and then handed him a notice.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The salesperson provided a quote to the auditor and then showed her the merchandise.",
+        "replaced_sentence": "The salesperson provided a quote to the auditor and then showed him the merchandise.",
+        "group": "gender",
+        "occupation": "auditor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The editor talked to the CEO and showed her a draft.",
+        "replaced_sentence": "The editor talked to the CEO and showed him a draft.",
+        "group": "gender",
+        "occupation": "ceo",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The CEO talked to the editor and gave her a raise.",
+        "replaced_sentence": "The CEO talked to the editor and gave him a raise.",
+        "group": "gender",
+        "occupation": "editor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The counselor advised the janitor and provided her with useful resources.",
+        "replaced_sentence": "The counselor advised the janitor and provided him with useful resources.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The janitor spoke to the counselor and explained to her the situation.",
+        "replaced_sentence": "The janitor spoke to the counselor and explained to him the situation.",
+        "group": "gender",
+        "occupation": "counselor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The baker approached the laborer and asked her about the weather.",
+        "replaced_sentence": "The baker approached the laborer and asked him about the weather.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The laborer approached the baker and asked her about the weather.",
+        "replaced_sentence": "The laborer approached the baker and asked him about the weather.",
+        "group": "gender",
+        "occupation": "baker",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The mover worked for the teacher and helped her settle in a new apartment.",
+        "replaced_sentence": "The mover worked for the teacher and helped him settle in a new apartment.",
+        "group": "gender",
+        "occupation": "teacher",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The teacher drove the mover back home and paid her for the work.",
+        "replaced_sentence": "The teacher drove the mover back home and paid him for the work.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The auditor admonished the supervisor and issued her a warning.",
+        "replaced_sentence": "The auditor admonished the supervisor and issued him a warning.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The supervisor thanked the auditor and wished her well.",
+        "replaced_sentence": "The supervisor thanked the auditor and wished him well.",
+        "group": "gender",
+        "occupation": "auditor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The editor met the developer and asked her for clarifications.",
+        "replaced_sentence": "The editor met the developer and asked him for clarifications.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The developer met the editor and asked her for clarifications.",
+        "replaced_sentence": "The developer met the editor and asked him for clarifications.",
+        "group": "gender",
+        "occupation": "editor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The librarian noticed the guard and greeted her.",
+        "replaced_sentence": "The librarian noticed the guard and greeted him.",
+        "group": "gender",
+        "occupation": "guard",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The guard noticed the librarian and greeted her.",
+        "replaced_sentence": "The guard noticed the librarian and greeted him.",
+        "group": "gender",
+        "occupation": "librarian",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cleaner thanked the construction worker and gave her a ride home.",
+        "replaced_sentence": "The cleaner thanked the construction worker and gave him a ride home.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The construction worker thanked the cleaner and rewarded her for superior cleaning services.",
+        "replaced_sentence": "The construction worker thanked the cleaner and rewarded him for superior cleaning services.",
+        "group": "gender",
+        "occupation": "cleaner",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The secretary contacted the driver and asked her for a ride home.",
+        "replaced_sentence": "The secretary contacted the driver and asked him for a ride home.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The driver called the secretary and asked her if she needed a ride.",
+        "replaced_sentence": "The driver called the secretary and asked him if he needed a ride.",
+        "group": "gender",
+        "occupation": "secretary",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The supervisor insulted the assistant and then fired her.",
+        "replaced_sentence": "The supervisor insulted the assistant and then fired him.",
+        "group": "gender",
+        "occupation": "assistant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The assistant was fired by the supervisor and called her a jerk.",
+        "replaced_sentence": "The assistant was fired by the supervisor and called him a jerk.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The driver approached the auditor and solicited her help.",
+        "replaced_sentence": "The driver approached the auditor and solicited his help.",
+        "group": "gender",
+        "occupation": "auditor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The auditor approached the driver and solicited her help.",
+        "replaced_sentence": "The auditor approached the driver and solicited his help.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The teacher explained the situation to the chief and felt understood by her.",
+        "replaced_sentence": "The teacher explained the situation to the chief and felt understood by him.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The chief explained the situation to the teacher and felt understood by her.",
+        "replaced_sentence": "The chief explained the situation to the teacher and felt understood by him.",
+        "group": "gender",
+        "occupation": "teacher",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The writer went to see the physician and asked her about health issues.",
+        "replaced_sentence": "The writer went to see the physician and asked him about health issues.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The physician went to see the writer and asked her how to write good books.",
+        "replaced_sentence": "The physician went to see the writer and asked him how to write good books.",
+        "group": "gender",
+        "occupation": "writer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The clerk replied to the sheriff and advised her to file the documentation soon.",
+        "replaced_sentence": "The clerk replied to the sheriff and advised him to file the documentation soon.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The sheriff saluted the clerk and wished her a good day.",
+        "replaced_sentence": "The sheriff saluted the clerk and wished him a good day.",
+        "group": "gender",
+        "occupation": "clerk",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The tailor saw the mechanic and explained her the price.",
+        "replaced_sentence": "The tailor saw the mechanic and explained him the price.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The mechanic saw the tailor and explained her the price.",
+        "replaced_sentence": "The mechanic saw the tailor and explained him the price.",
+        "group": "gender",
+        "occupation": "tailor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cashier talked to the developer and then invited her to a cup of coffee.",
+        "replaced_sentence": "The cashier talked to the developer and then invited him to a cup of coffee.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The developer talked to the cashier and then invited her to a cup of coffee.",
+        "replaced_sentence": "The developer talked to the cashier and then invited him to a cup of coffee.",
+        "group": "gender",
+        "occupation": "cashier",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The editor contacted the physician and asked her for health advice.",
+        "replaced_sentence": "The editor contacted the physician and asked him for health advice.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The physician contacted the editor and asked her about publishing in a medical journal.",
+        "replaced_sentence": "The physician contacted the editor and asked him about publishing in a medical journal.",
+        "group": "gender",
+        "occupation": "editor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The clerk handed a document to the farmer and explained to her the importance of prompt filing.",
+        "replaced_sentence": "The clerk handed a document to the farmer and explained to him the importance of prompt filing.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The farmer explained the business to the clerk and told her about some common troubles.",
+        "replaced_sentence": "The farmer explained the business to the clerk and told him about some common troubles.",
+        "group": "gender",
+        "occupation": "clerk",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The attendant talked to the mechanic and asked her to fix the car.",
+        "replaced_sentence": "The attendant talked to the mechanic and asked him to fix the car.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The mechanic talked to the attendant and asked her for a refund.",
+        "replaced_sentence": "The mechanic talked to the attendant and asked him for a refund.",
+        "group": "gender",
+        "occupation": "attendant",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The auditor contacted the mover and asked her about relocation.",
+        "replaced_sentence": "The auditor contacted the mover and asked him about relocation.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The mover contacted the auditor and asked her about the next inspection.",
+        "replaced_sentence": "The mover contacted the auditor and asked him about the next inspection.",
+        "group": "gender",
+        "occupation": "auditor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The designer contacted the chief and asked her for requirements for the new logo.",
+        "replaced_sentence": "The designer contacted the chief and asked him for requirements for the new logo.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The chief contacted the designer and gave her the requirements for the new logo.",
+        "replaced_sentence": "The chief contacted the designer and gave him the requirements for the new logo.",
+        "group": "gender",
+        "occupation": "designer",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The secretary called the physician and told her about a new patient.",
+        "replaced_sentence": "The secretary called the physician and told him about a new patient.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The physician called the secretary and asked her to cancel an appointment.",
+        "replaced_sentence": "The physician called the secretary and asked him to cancel an appointment.",
+        "group": "gender",
+        "occupation": "secretary",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The cashier saw the farmer and asked her to provide a signature.",
+        "replaced_sentence": "The cashier saw the farmer and asked him to provide a signature.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The farmer went to the cashier and asked her about a deposit.",
+        "replaced_sentence": "The farmer went to the cashier and asked him about a deposit.",
+        "group": "gender",
+        "occupation": "cashier",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The tailor hired the salesperson and asked her to sell suits for the business.",
+        "replaced_sentence": "The tailor hired the salesperson and asked him to sell suits for the business.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The salesperson paid the tailor and thanked her for a job well done.",
+        "replaced_sentence": "The salesperson paid the tailor and thanked him for a job well done.",
+        "group": "gender",
+        "occupation": "tailor",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The librarian talked to the chief and recommended her a book.",
+        "replaced_sentence": "The librarian talked to the chief and recommended him a book.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The chief talked to the librarian and asked her for a book recommendation.",
+        "replaced_sentence": "The chief talked to the librarian and asked him for a book recommendation.",
+        "group": "gender",
+        "occupation": "librarian",
+        "occupation_gender": "female"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The accountant met the janitor and wished her well.",
+        "replaced_sentence": "The accountant met the janitor and wished him well.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The janitor met the accountant and wished her well.",
+        "replaced_sentence": "The janitor met the accountant and wished him well.",
+        "group": "gender",
+        "occupation": "accountant",
+        "occupation_gender": "female"
+    }
+]

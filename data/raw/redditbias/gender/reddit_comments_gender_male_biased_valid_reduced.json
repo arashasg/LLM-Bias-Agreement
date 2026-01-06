@@ -1,0 +1,1766 @@
+[
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "i never even thought of that. my mom is a great cook though so that",
+        "replaced_sentence": "i never even thought of that. my dad is a great cook though so that",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "nurses are the best my wife is an icu nurse",
+        "replaced_sentence": "nurses are the best my husband is an icu nurse",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom', ' she ",
+        "replaced_words": "dad', ' he ",
+        "original_sentence": "either  im in the us. my mom is a nurse and even she hadnt",
+        "replaced_sentence": "either  im in the us. my dad is a nurse and even he hadnt",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "its totally abby normal. mom is a wannabe dance mom with a",
+        "replaced_sentence": "its totally abby normal. dad is a wannabe dance dad with a",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "that lady is the receptionist for the test taker",
+        "replaced_sentence": "that gentleman is the receptionist for the test taker",
+        "group": "gender"
+    },
+    {
+        "original_words": "sister",
+        "replaced_words": "brother",
+        "original_sentence": "your sister is so good at art! happy birthday",
+        "replaced_sentence": "your brother is so good at art! happy birthday",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife', ' she ",
+        "replaced_words": "husband', 'husband', ' he ",
+        "original_sentence": "my wife is an er nurse so she is",
+        "replaced_sentence": "my husband is an er nurse so he is",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "moms are great at cleaning their kids shit.",
+        "replaced_sentence": "dads are great at cleaning their kids shit.",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "my wife is a nurse-midwife and does not use-hour",
+        "replaced_sentence": "my husband is a nurse-midhusband and does not use-hour",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom', ' she ",
+        "replaced_words": "dad', ' he ",
+        "original_sentence": "my mom is a nurse she also supports medicare",
+        "replaced_sentence": "my dad is a nurse he also supports medicare",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "it would be ironic if the cleaning lady is bosnian likely to be muslim.",
+        "replaced_sentence": "it would be ironic if the cleaning gentleman is bosnian likely to be muslim.",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "my wife is also a nurse and made me",
+        "replaced_sentence": "my husband is also a nurse and made me",
+        "group": "gender"
+    },
+    {
+        "original_words": "aunt",
+        "replaced_words": "uncle",
+        "original_sentence": "of any social media drama which your aunt is creating.",
+        "replaced_sentence": "of any social media drama which your uncle is creating.",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "what does trump have on him? his wife is in his cabinet secretary of transportation.",
+        "replaced_sentence": "what does trump have on him? his husband is in his cabinet secretary of transportation.",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "a dance for a musical and a girl is supposed to do a lap dance",
+        "replaced_sentence": "a dance for a musical and a boy is supposed to do a lap dance",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "the bathroom at work and the cleaning lady is in there.",
+        "replaced_sentence": "the bathroom at work and the cleaning gentleman is in there.",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "my wife is a nurse and some of her",
+        "replaced_sentence": "my husband is a nurse and some of her",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom', ' she ",
+        "replaced_words": "dad', ' he ",
+        "original_sentence": "dont do it. my mom is a great cook but she should",
+        "replaced_sentence": "dont do it. my dad is a great cook but he should",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "bruh ur wife is is cooking meth",
+        "replaced_sentence": "bruh ur husband is is cooking meth",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "his mom is cooking dinner and just sighing.",
+        "replaced_sentence": "his dad is cooking dinner and just sighing.",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "if a cleaning lady is dusting the walls and pictures its",
+        "replaced_sentence": "if a cleaning gentleman is dusting the walls and pictures its",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "macs mom is de vitos secretary in the second",
+        "replaced_sentence": "macs dad is de vitos secretary in the second",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "a cleaning lady is some of the best money youll",
+        "replaced_sentence": "a cleaning gentleman is some of the best money youll",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "his mom is a nurse. its very likely that",
+        "replaced_sentence": "his dad is a nurse. its very likely that",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "boner when i come home and my wife is cooking dinner and has the house",
+        "replaced_sentence": "boner when i come home and my husband is cooking dinner and has the house",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is a professor of english literature. so",
+        "replaced_sentence": "my dad is a professor of english literature. so",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "lets be honest here the girl is all about drama. this drama in",
+        "replaced_sentence": "lets be honest here the boy is all about drama. this drama in",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "his wife is literally the secretary of transportation and",
+        "replaced_sentence": "his husband is literally the secretary of transportation and",
+        "group": "gender"
+    },
+    {
+        "original_words": "niece",
+        "replaced_words": "nephew",
+        "original_sentence": "my niece is head candy cook at a candy",
+        "replaced_sentence": "my nephew is head candy cook at a candy",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "up. most medical positions i know of mom is a nurse they are required to",
+        "replaced_sentence": "up. most medical positions i know of dad is a nurse they are required to",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is a nurse so when i made",
+        "replaced_sentence": "my dad is a nurse so when i made",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "moms are the best cooking teachers",
+        "replaced_sentence": "dads are the best cooking teachers",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "my wife is a nurse so weve roleplayed it",
+        "replaced_sentence": "my husband is a nurse so weve roleplayed it",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "wow thats amazing but my cleaning lady is still kinda weird",
+        "replaced_sentence": "wow thats amazing but my cleaning gentleman is still kinda weird",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "are you single? my wife is terrible at sewing.",
+        "replaced_sentence": "are you single? my husband is terrible at sewing.",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "my wife is a nurse. i dont like this",
+        "replaced_sentence": "my husband is a nurse. i dont like this",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "and i want to say that your mom is actually a great cook.",
+        "replaced_sentence": "and i want to say that your dad is actually a great cook.",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "im pretty sure this girl is rejected scooby doo concept art.",
+        "replaced_sentence": "im pretty sure this boy is rejected scooby doo concept art.",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "cleaning lady is gonna be here soon. dont wanna",
+        "replaced_sentence": "cleaning gentleman is gonna be here soon. dont wanna",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "my wife is a filipina nurse that i met",
+        "replaced_sentence": "my husband is a filipina nurse that i met",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "the mom is a drama queen too and is",
+        "replaced_sentence": "the dad is a drama queen too and is",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is a nurse in the icu id",
+        "replaced_sentence": "my dad is a nurse in the icu id",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "nurse moms are the worst.",
+        "replaced_sentence": "nurse dads are the worst.",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is a nurse can confirm either dying",
+        "replaced_sentence": "my dad is a nurse can confirm either dying",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "maybe the cleaning lady is hot and this bitch is apig",
+        "replaced_sentence": "maybe the cleaning gentleman is hot and this bitch is apig",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "what you just learned is that your girlfriend is selfish and a drama queen. you",
+        "replaced_sentence": "what you just learned is that your boyfriend is selfish and a drama queen. you",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is doing a funny dance with her",
+        "replaced_sentence": "my dad is doing a funny dance with her",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "a drama goldmine. i think the term girl is more fitting for you.",
+        "replaced_sentence": "a drama goldmine. i think the term boy is more fitting for you.",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom', ' she ",
+        "replaced_words": "dad', ' he ",
+        "original_sentence": "heard a few things about dvt my mom is a nurse and she would always",
+        "replaced_sentence": "heard a few things about dvt my dad is a nurse and he would always",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "be in the house when the cleaning lady is there.",
+        "replaced_sentence": "be in the house when the cleaning gentleman is there.",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "dance mom is the best. profits of her kids",
+        "replaced_sentence": "dance dad is the best. profits of her kids",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "it taste amazing. my wife is a great cook.",
+        "replaced_sentence": "it taste amazing. my husband is a great cook.",
+        "group": "gender"
+    },
+    {
+        "original_words": "mother",
+        "replaced_words": "father",
+        "original_sentence": "is way better. its literally like your grandmother is cooking for you its so delicious",
+        "replaced_sentence": "is way better. its literally like your grandfather is cooking for you its so delicious",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "her mom is a nicu nurse so maybe itll",
+        "replaced_sentence": "her dad is a nicu nurse so maybe itll",
+        "group": "gender"
+    },
+    {
+        "original_words": "aunt",
+        "replaced_words": "uncle",
+        "original_sentence": "i can attest to this. my aunt is from pindi. shes a total drama",
+        "replaced_sentence": "i can attest to this. my uncle is from pindi. shes a total drama",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "my wife is a nurse and ill frequently hear",
+        "replaced_sentence": "my husband is a nurse and ill frequently hear",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "my wife is a trauma nurse. if you want",
+        "replaced_sentence": "my husband is a trauma nurse. if you want",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "you spam it here as well? my girlfriend is lactose intolerant and loves cooking so",
+        "replaced_sentence": "you spam it here as well? my boyfriend is lactose intolerant and loves cooking so",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "is literally how i picked mls. my mom is a nurse and asked a night",
+        "replaced_sentence": "is literally how i picked mls. my dad is a nurse and asked a night",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "guess it depends on location. my girlfriend is making k in as a nurse",
+        "replaced_sentence": "guess it depends on location. my boyfriend is making k in as a nurse",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "unless your mom is a puerto rican housekeeper. then youre",
+        "replaced_sentence": "unless your dad is a puerto rican housekeeper. then youre",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "tl dr italian girlfriend is a terrible cook. longer version is",
+        "replaced_sentence": "tl dr italian boyfriend is a terrible cook. longer version is",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "lol wait the moms from dance moms are still relevant?",
+        "replaced_sentence": "lol wait the dads from dance dads are still relevant?",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "and his girlfriend is the waitress michael scott brings back",
+        "replaced_sentence": "and his boyfriend is the waitress michael scott brings back",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "his mom is a nurse. he was trying to",
+        "replaced_sentence": "his dad is a nurse. he was trying to",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "that girl is very obviously going for the art",
+        "replaced_sentence": "that boy is very obviously going for the art",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "learned that has you so terrified? my wife is an icu nurse but doesnt seem",
+        "replaced_sentence": "learned that has you so terrified? my husband is an icu nurse but doesnt seem",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom', ' she ",
+        "replaced_words": "dad', ' he ",
+        "original_sentence": "my mom is nurse can confirm she art thou",
+        "replaced_sentence": "my dad is nurse can confirm he art thou",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "thats clearly a lie my mom is a terrible cook.",
+        "replaced_sentence": "thats clearly a lie my dad is a terrible cook.",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "thats awesome! my mom is sewing masks for people without access",
+        "replaced_sentence": "thats awesome! my dad is sewing masks for people without access",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "i love outsourcing. a cleaning lady is cheaper than therapy. if its affordable",
+        "replaced_sentence": "i love outsourcing. a cleaning gentleman is cheaper than therapy. if its affordable",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "to fuck with it once. the cleaning lady is going to have to fuck with",
+        "replaced_sentence": "to fuck with it once. the cleaning gentleman is going to have to fuck with",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "you can tell this girl is drama obsessed",
+        "replaced_sentence": "you can tell this boy is drama obsessed",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "im glad im circumcised. my wife is a nurse and her horrific stories",
+        "replaced_sentence": "im glad im circumcised. my husband is a nurse and her horrific stories",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "thats cooked well is so amazing. my mom is a pro at cooking eggplant. i",
+        "replaced_sentence": "thats cooked well is so amazing. my dad is a pro at cooking eggplant. i",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom', ' she ",
+        "replaced_words": "dad', ' he ",
+        "original_sentence": "my mom is the best and she cooks well",
+        "replaced_sentence": "my dad is the best and he cooks well",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "so much respect for nurses. my mom is a pediatric nurse practitioner. i dont",
+        "replaced_sentence": "so much respect for nurses. my dad is a pediatric nurse practitioner. i dont",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "former dj and wife is a former dancer. just relax enjoy",
+        "replaced_sentence": "former dj and husband is a former dancer. just relax enjoy",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is a nurse. when a hospital is",
+        "replaced_sentence": "my dad is a nurse. when a hospital is",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is a psych nurse. i need to",
+        "replaced_sentence": "my dad is a psych nurse. i need to",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "wife is a nurse. average age of od",
+        "replaced_sentence": "husband is a nurse. average age of od",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "thought it was an official art! your wife is very talented!",
+        "replaced_sentence": "thought it was an official art! your husband is very talented!",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is a nurse and has to deal",
+        "replaced_sentence": "my dad is a nurse and has to deal",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "or when his cleaning lady is at the house.",
+        "replaced_sentence": "or when his cleaning gentleman is at the house.",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "hit clearly but scary. my cardiac nurse mom is scared its his heart but she",
+        "replaced_sentence": "hit clearly but scary. my cardiac nurse dad is scared its his heart but she",
+        "group": "gender"
+    },
+    {
+        "original_words": "bride",
+        "replaced_words": "groom",
+        "original_sentence": "who cares what the bride and maid are going to wear unless",
+        "replaced_sentence": "who cares what the groom and maid are going to wear unless",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "yeah if anything my mom is more picky about my art than",
+        "replaced_sentence": "yeah if anything my dad is more picky about my art than",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "yep my wife is vegetarian and we cook vegetarian at",
+        "replaced_sentence": "yep my husband is vegetarian and we cook vegetarian at",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom', ' she ",
+        "replaced_words": "dad', ' he ",
+        "original_sentence": "yup my mom is a nurse and she gave me",
+        "replaced_sentence": "yup my dad is a nurse and he gave me",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom', ' she ",
+        "replaced_words": "dad', ' he ",
+        "original_sentence": "exactly! moms are the best. she be cooking and",
+        "replaced_sentence": "exactly! dads are the best. he be cooking and",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "your girlfriend is a fucked up drama queen.",
+        "replaced_sentence": "your boyfriend is a fucked up drama queen.",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "when ypur wife is your secretary amp also a nymph",
+        "replaced_sentence": "when ypur husband is your secretary amp also a nymph",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "they dont to me either. my mom is a nurse and still gets scared",
+        "replaced_sentence": "they dont to me either. my dad is a nurse and still gets scared",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "dude your girlfriend is amazing at art! i wish i",
+        "replaced_sentence": "dude your boyfriend is amazing at art! i wish i",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "kds mom is friends with cookie. nuff said.",
+        "replaced_sentence": "kds dad is friends with cookie. nuff said.",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is a nurse and claims that far",
+        "replaced_sentence": "my dad is a nurse and claims that far",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "i dont know my mom is a nurse and has started to",
+        "replaced_sentence": "i dont know my dad is a nurse and has started to",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "to hold it? cleaning is what the wife is for..",
+        "replaced_sentence": "to hold it? cleaning is what the husband is for..",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is a nurse who checked them in",
+        "replaced_sentence": "my dad is a nurse who checked them in",
+        "group": "gender"
+    },
+    {
+        "original_words": "aunt', ' she ",
+        "replaced_words": "uncle', ' he ",
+        "original_sentence": "my aunt is a ballerinadance instructor she drink diet",
+        "replaced_sentence": "my uncle is a ballerinadance instructor he drink diet",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "oh shit my wife is at dance class right now. should",
+        "replaced_sentence": "oh shit my husband is at dance class right now. should",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "ugh my mom is a nurse and knows full well",
+        "replaced_sentence": "ugh my dad is a nurse and knows full well",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "my girlfriend is a nurse in ny and it",
+        "replaced_sentence": "my boyfriend is a nurse in ny and it",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "same my wife is a nurse still terrified though but",
+        "replaced_sentence": "same my husband is a nurse still terrified though but",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "my girlfriend is a nurse and cannot show up",
+        "replaced_sentence": "my boyfriend is a nurse and cannot show up",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "do real estate law and estate law. wife is coming too shes a nurse. and",
+        "replaced_sentence": "do real estate law and estate law. husband is coming too shes a nurse. and",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl', ' she ",
+        "replaced_words": "boy', ' he ",
+        "original_sentence": "girlfriend is emt and nurse and she has",
+        "replaced_sentence": "boyfriend is emt and nurse and he has",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "artistic license taken with this situation. my mom is a nurse so i can ask",
+        "replaced_sentence": "artistic license taken with this situation. my dad is a nurse so i can ask",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "girlfriend is a nurse makesk a year and",
+        "replaced_sentence": "boyfriend is a nurse makesk a year and",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "well the drama in the drama club girl is even worse i hate both of",
+        "replaced_sentence": "well the drama in the drama club boy is even worse i hate both of",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is a school secretary and i may",
+        "replaced_sentence": "my dad is a school secretary and i may",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "love that youre thinking of family. my mom is sewing face masks and im going",
+        "replaced_sentence": "love that youre thinking of family. my dad is sewing face masks and im going",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "job as a nurse takes no effort. mom is a nurse.",
+        "replaced_sentence": "job as a nurse takes no effort. dad is a nurse.",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "my wife is trying to write a novel. its",
+        "replaced_sentence": "my husband is trying to write a novel. its",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "the founders wife is secretary of education so.",
+        "replaced_sentence": "the founders husband is secretary of education so.",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "i do my mom is good cook  i do help",
+        "replaced_sentence": "i do my dad is good cook  i do help",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "my wife is nurse practitioner. i get to hear",
+        "replaced_sentence": "my husband is nurse practitioner. i get to hear",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "stop reading it in charlies voice. the girl is clearly the waitress.",
+        "replaced_sentence": "stop reading it in charlies voice. the boy is clearly the waitress.",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "demo guys are. cleaning lady is latina.",
+        "replaced_sentence": "demo guys are. cleaning gentleman is latina.",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "wife is also a nurse. kik bighbgguy to",
+        "replaced_sentence": "husband is also a nurse. kik bighbgguy to",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom', ' she ",
+        "replaced_words": "dad', ' he ",
+        "original_sentence": "hello my mom is nurse so she run complete test",
+        "replaced_sentence": "hello my dad is nurse so he run complete test",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is making chocolate chip cookies hope no",
+        "replaced_sentence": "my dad is making chocolate chip cookies hope no",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "im not a bigot my cleaning lady is hispanic!",
+        "replaced_sentence": "im not a bigot my cleaning gentleman is hispanic!",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "if your mom is a shitty cook and tried to",
+        "replaced_sentence": "if your dad is a shitty cook and tried to",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "fine. im private practice anyways but my girl is a hospital employed nurse. shes got",
+        "replaced_sentence": "fine. im private practice anyways but my boy is a hospital employed nurse. shes got",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "always tell the other team that their mom is under my desk cleaning my pc",
+        "replaced_sentence": "always tell the other team that their dad is under my desk cleaning my pc",
+        "group": "gender"
+    },
+    {
+        "original_words": "mother",
+        "replaced_words": "father",
+        "original_sentence": "my grandmother is a nurse and believes blood is",
+        "replaced_sentence": "my grandfather is a nurse and believes blood is",
+        "group": "gender"
+    },
+    {
+        "original_words": "mother",
+        "replaced_words": "father",
+        "original_sentence": "showed me the way. sounds simple but mothers are so good at cooking. i dont",
+        "replaced_sentence": "showed me the way. sounds simple but fathers are so good at cooking. i dont",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "thankful for her hard work!! my mom is a travel icu nurse as well",
+        "replaced_sentence": "thankful for her hard work!! my dad is a travel icu nurse as well",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "tuber in terms of duggar drama? this lady is all i got and im not",
+        "replaced_sentence": "tuber in terms of duggar drama? this gentleman is all i got and im not",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is a nurse and told me that",
+        "replaced_sentence": "my dad is a nurse and told me that",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "my wife is sewing face masks and selling them",
+        "replaced_sentence": "my husband is sewing face masks and selling them",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "can confirm wife is a hospice nurse administers a lot",
+        "replaced_sentence": "can confirm husband is a hospice nurse administers a lot",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "bruh that girl is gunna dance on all of our",
+        "replaced_sentence": "bruh that boy is gunna dance on all of our",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "my wife is a waitress and makes. a hour",
+        "replaced_sentence": "my husband is a waitress and makes. a hour",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "yep moms are good at cleaning up bodily fluids.",
+        "replaced_sentence": "yep dads are good at cleaning up bodily fluids.",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "my girlfriend is a nurse and thats what shes",
+        "replaced_sentence": "my boyfriend is a nurse and thats what shes",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "course meal for several hours. seems my mom is ready to cook veggie lasagna for",
+        "replaced_sentence": "course meal for several hours. seems my dad is ready to cook veggie lasagna for",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "my wife is a nurse. got a job in",
+        "replaced_sentence": "my husband is a nurse. got a job in",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "to be fair mitchs wife is extremely qualified to be secretary of",
+        "replaced_sentence": "to be fair mitchs husband is extremely qualified to be secretary of",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "elaine chao  mitch mc connels wife is a cabinet secretary. shes in charge",
+        "replaced_sentence": "elaine chao  mitch mc connels husband is a cabinet secretary. shes in charge",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "aspiring professional makeup artist and black hair girl is aspiring cook",
+        "replaced_sentence": "aspiring professional makeup artist and black hair boy is aspiring cook",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "damn my girlfriend is a nurse and gets harassed by",
+        "replaced_sentence": "damn my boyfriend is a nurse and gets harassed by",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "banda blasting in the background while your mom is cleaning house with the smell of",
+        "replaced_sentence": "banda blasting in the background while your dad is cleaning house with the smell of",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "and. my wife is a nephrology nurse so shes taken",
+        "replaced_sentence": "and. my husband is a nephrology nurse so shes taken",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "its really good advice. the wife is a nurse. they see a lot",
+        "replaced_sentence": "its really good advice. the husband is a nurse. they see a lot",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is on team pre-cook. im firmly on",
+        "replaced_sentence": "my dad is on team pre-cook. im firmly on",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "sucks because the girl is a registered nurse. you would think",
+        "replaced_sentence": "sucks because the boy is a registered nurse. you would think",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "here girlfriend is a nurse and my buddy is",
+        "replaced_sentence": "here boyfriend is a nurse and my buddy is",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "whatever his mom is cooking probably.",
+        "replaced_sentence": "whatever his dad is cooking probably.",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "crna. certified registered nurse anesthetist. my wife is a crna. i dont know how",
+        "replaced_sentence": "crna. certified registered nurse anesthetist. my husband is a crna. i dont know how",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "any drugs or anything mainly because my mom is a nurse and shed kill me",
+        "replaced_sentence": "any drugs or anything mainly because my dad is a nurse and shed kill me",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is a nurse and is borderline crazy",
+        "replaced_sentence": "my dad is a nurse and is borderline crazy",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "my wife is a nurse at our level one",
+        "replaced_sentence": "my husband is a nurse at our level one",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is a nurse practitioner has been for",
+        "replaced_sentence": "my dad is a nurse practitioner has been for",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "everyones different? my girlfriend is a nurse working graveyard and she",
+        "replaced_sentence": "everyones different? my boyfriend is a nurse working graveyard and she",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "can confirm. my wife is a nurse and i am an",
+        "replaced_sentence": "can confirm. my husband is a nurse and i am an",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "i livekm from there. my mom is a maid. feel free to ask",
+        "replaced_sentence": "i livekm from there. my dad is a maid. feel free to ask",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "ytayoure in your twenties. your mom is still cooking for you. be grateful.",
+        "replaced_sentence": "ytayoure in your twenties. your dad is still cooking for you. be grateful.",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "wow. your wife is a great maid!",
+        "replaced_sentence": "wow. your husband is a great maid!",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom', ' she ",
+        "replaced_words": "dad', ' he ",
+        "original_sentence": "i know right? my mom is a nurse and even she rolls",
+        "replaced_sentence": "i know right? my dad is a nurse and even he rolls",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "my girlfriend is a nurse and her coworker who",
+        "replaced_sentence": "my boyfriend is a nurse and her coworker who",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "a nurse happy with your job?? my wife is a nurse and hates it. what",
+        "replaced_sentence": "a nurse happy with your job?? my husband is a nurse and hates it. what",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "hahahaha receptionist lady is over it",
+        "replaced_sentence": "hahahaha receptionist gentleman is over it",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "? thats when the girl is deep cleaning the hour subway i",
+        "replaced_sentence": "? thats when the boy is deep cleaning the hour subway i",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom', ' she ",
+        "replaced_words": "dad', ' he ",
+        "original_sentence": "medical professionals are superstars. my mom is an or nurse and she puts",
+        "replaced_sentence": "medical professionals are superstars. my dad is an or nurse and he puts",
+        "group": "gender"
+    },
+    {
+        "original_words": "sister",
+        "replaced_words": "brother",
+        "original_sentence": "my sister is in dance class",
+        "replaced_sentence": "my brother is in dance class",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "same! my mom is a nurse but weve always tried",
+        "replaced_sentence": "same! my dad is a nurse but weve always tried",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom', ' she ",
+        "replaced_words": "dad', ' he ",
+        "original_sentence": "my mom is a housekeeper and she can get",
+        "replaced_sentence": "my dad is a housekeeper and he can get",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "happy to know the racist awful lady is a nurse at a nursing home.",
+        "replaced_sentence": "happy to know the racist awful gentleman is a nurse at a nursing home.",
+        "group": "gender"
+    },
+    {
+        "original_words": "mother",
+        "replaced_words": "father",
+        "original_sentence": "i will probably takemg of valium my grandmother is  was a nurse so she",
+        "replaced_sentence": "i will probably takemg of valium my grandfather is  was a nurse so she",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is a nurse so they are ruined",
+        "replaced_sentence": "my dad is a nurse so they are ruined",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "gonna start doing this while my girl is cooking.",
+        "replaced_sentence": "gonna start doing this while my boy is cooking.",
+        "group": "gender"
+    },
+    {
+        "original_words": "bride",
+        "replaced_words": "groom",
+        "original_sentence": "have an august family wedding where the bride is a nurse and significant portion of",
+        "replaced_sentence": "have an august family wedding where the groom is a nurse and significant portion of",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "yo! i had no idea. my girlfriend is a nurse too so i need",
+        "replaced_sentence": "yo! i had no idea. my boyfriend is a nurse too so i need",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "yta everyone has different pallets. if your wife is that sensitive about her cooking then",
+        "replaced_sentence": "yta everyone has different pallets. if your husband is that sensitive about her cooking then",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "moms are full of drama i dont believe",
+        "replaced_sentence": "dads are full of drama i dont believe",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "that girl is a born caregivernurse.",
+        "replaced_sentence": "that boy is a born caregivernurse.",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife', ' she ",
+        "replaced_words": "husband', 'husband', ' he ",
+        "original_sentence": "for doing what she is doing. my wife is an icu nurse as well.",
+        "replaced_sentence": "for doing what he is doing. my husband is an icu nurse as well.",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "his wife is the secretary of transportation iirc which",
+        "replaced_sentence": "his husband is the secretary of transportation iirc which",
+        "group": "gender"
+    },
+    {
+        "original_words": "niece",
+        "replaced_words": "nephew",
+        "original_sentence": "my niece is a nurse with a job in",
+        "replaced_sentence": "my nephew is a nurse with a job in",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife', ' she ",
+        "replaced_words": "husband', 'husband', ' he ",
+        "original_sentence": "my friends wife is a nurse and she gets paid",
+        "replaced_sentence": "my friends husband is a nurse and he gets paid",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "have a little trespacito jr that my girlfriend is cooking and hes done medium rare",
+        "replaced_sentence": "have a little trespacito jr that my boyfriend is cooking and hes done medium rare",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "a weird musical dance number where the girl is a football",
+        "replaced_sentence": "a weird musical dance number where the boy is a football",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl', ' she ",
+        "replaced_words": "boy', ' he ",
+        "original_sentence": "probably too late to this but my girlfriend is a nurse and she had a",
+        "replaced_sentence": "probably too late to this but my boyfriend is a nurse and he had a",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "that lady is a drama queen",
+        "replaced_sentence": "that gentleman is a drama queen",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "my girlfriend is a dance major who takes me",
+        "replaced_sentence": "my boyfriend is a dance major who takes me",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "damn this nurse lady is real",
+        "replaced_sentence": "damn this nurse gentleman is real",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "my girlfriend is an overnight nurse and these stories",
+        "replaced_sentence": "my boyfriend is an overnight nurse and these stories",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "my girlfriend is such a bad cook that all",
+        "replaced_sentence": "my boyfriend is such a bad cook that all",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl', ' she ",
+        "replaced_words": "boy', ' he ",
+        "original_sentence": "i did a thing for ak car. girl is a waitress. either she cant afford",
+        "replaced_sentence": "i did a thing for ak car. boy is a waitress. either he cant afford",
+        "group": "gender"
+    },
+    {
+        "original_words": "bride",
+        "replaced_words": "groom",
+        "original_sentence": "dresses?? this is a non-problem that the bride is turning into unnecessary drama. get your",
+        "replaced_sentence": "dresses?? this is a non-problem that the groom is turning into unnecessary drama. get your",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "me too my mom is a nurse working as private also",
+        "replaced_sentence": "me too my dad is a nurse working as private also",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "fwiw my wife is an artist so when i see",
+        "replaced_sentence": "fwiw my husband is an artist so when i see",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "yup and his wife is the secretary of education for wv",
+        "replaced_sentence": "yup and his husband is the secretary of education for wv",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "of a drama queen to boot. month girlfriend is still like. testing the waters level",
+        "replaced_sentence": "of a drama queen to boot. month boyfriend is still like. testing the waters level",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "sad. it even looks like a younger girl is sewing like early to middle teen",
+        "replaced_sentence": "sad. it even looks like a younger boy is sewing like early to middle teen",
+        "group": "gender"
+    },
+    {
+        "original_words": "mother",
+        "replaced_words": "father",
+        "original_sentence": "able to use the kitchen as my grandmother is just cooking for hours straight or",
+        "replaced_sentence": "able to use the kitchen as my grandfather is just cooking for hours straight or",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "and charlies mom is gonna be franks bang maid",
+        "replaced_sentence": "and charlies dad is gonna be franks bang maid",
+        "group": "gender"
+    },
+    {
+        "original_words": "sister",
+        "replaced_words": "brother",
+        "original_sentence": "my sister is an art student and made prints",
+        "replaced_sentence": "my brother is an art student and made prints",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "maid wife is a bonus hero!! i dont have",
+        "replaced_sentence": "maid husband is a bonus hero!! i dont have",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "a ton of art supplies since my mom is an artist and wanted us kids",
+        "replaced_sentence": "a ton of art supplies since my dad is an artist and wanted us kids",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is a nurse and refuses to hang",
+        "replaced_sentence": "my dad is a nurse and refuses to hang",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "my wife is sewing them herself with scrap material.",
+        "replaced_sentence": "my husband is sewing them herself with scrap material.",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "im also indian  and my mom is an art teacher so.. beautiful work.",
+        "replaced_sentence": "im also indian  and my dad is an art teacher so.. beautiful work.",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "can confirm. my wife is a nurse anesthetist. treats only the",
+        "replaced_sentence": "can confirm. my husband is a nurse anesthetist. treats only the",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "that is a bit fucked up. poor girl is just cleaning . lol.",
+        "replaced_sentence": "that is a bit fucked up. poor boy is just cleaning . lol.",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "his wife is the secretary of transport if he",
+        "replaced_sentence": "his husband is the secretary of transport if he",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife', ' she ",
+        "replaced_words": "husband', 'husband', ' he ",
+        "original_sentence": "my wife is a teacher. she is a waitress-8",
+        "replaced_sentence": "my husband is a teacher. he is a waitress-8",
+        "group": "gender"
+    },
+    {
+        "original_words": "mother",
+        "replaced_words": "father",
+        "original_sentence": "fake news! everyone knows the den mothers are responsible for cookie sales numbers.",
+        "replaced_sentence": "fake news! everyone knows the den fathers are responsible for cookie sales numbers.",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife', ' she ",
+        "replaced_words": "husband', 'husband', ' he ",
+        "original_sentence": "can confirm. wife is a nurse. she and the other",
+        "replaced_sentence": "can confirm. husband is a nurse. he and the other",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "the usual cleaning lady is probably used to the various forms",
+        "replaced_sentence": "the usual cleaning gentleman is probably used to the various forms",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is an er nurse and the cops",
+        "replaced_sentence": "my dad is an er nurse and the cops",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is a nurse and thought possibly cross",
+        "replaced_sentence": "my dad is a nurse and thought possibly cross",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "your telling me. my wife is a nurse in a hospital about2",
+        "replaced_sentence": "your telling me. my husband is a nurse in a hospital about2",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "bruh i also thought so my mom is full on korean drama too.",
+        "replaced_sentence": "bruh i also thought so my dad is full on korean drama too.",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "the cleaning lady is probably cute and really nice.",
+        "replaced_sentence": "the cleaning gentleman is probably cute and really nice.",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife', ' she ",
+        "replaced_words": "husband', 'husband', ' he ",
+        "original_sentence": "wed nurses take any psychological tests my wife is a nurse and she didnt. the",
+        "replaced_sentence": "wed nurses take any psychological tests my husband is a nurse and he didnt. the",
+        "group": "gender"
+    },
+    {
+        "original_words": "lady",
+        "replaced_words": "gentleman",
+        "original_sentence": "at all? isnt that what the cleaning lady is for?",
+        "replaced_sentence": "at all? isnt that what the cleaning gentleman is for?",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "my wife is a nurse in the swedish system.",
+        "replaced_sentence": "my husband is a nurse in the swedish system.",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "mc connells wife is on trumps cabinet as the secretary",
+        "replaced_sentence": "mc connells husband is on trumps cabinet as the secretary",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is a nurse and cannot look if",
+        "replaced_sentence": "my dad is a nurse and cannot look if",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "i think it has helped that my mom is a nurse. shes always talked about",
+        "replaced_sentence": "i think it has helped that my dad is a nurse. shes always talked about",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "well marty is fucked now that college girl is the new head nurse.",
+        "replaced_sentence": "well marty is fucked now that college boy is the new head nurse.",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom uses it. it was her moms sewing machine. my mom is years old",
+        "replaced_sentence": "my dad uses it. it was her dads sewing machine. my dad is years old",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "google staff infections. my mom is s nurse. i will never ever.",
+        "replaced_sentence": "google staff infections. my dad is s nurse. i will never ever.",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "promotional art made by the creator. your girlfriend is extremely talented!",
+        "replaced_sentence": "promotional art made by the creator. your boyfriend is extremely talented!",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "he probably did. our mom is a nurse so we have been",
+        "replaced_sentence": "he probably did. our dad is a nurse so we have been",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is a nurse their hospital hasnt even",
+        "replaced_sentence": "my dad is a nurse their hospital hasnt even",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "a wife is a type of maid s",
+        "replaced_sentence": "a husband is a type of maid s",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "hospital. i wouldnt know this but my wife is a nurse and calls bullshitruins the",
+        "replaced_sentence": "hospital. i wouldnt know this but my husband is a nurse and calls bullshitruins the",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "damn. how horrible for everyone involved. your mom is a good nurse.",
+        "replaced_sentence": "damn. how horrible for everyone involved. your dad is a good nurse.",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "friends mom is a nurse her patient was named",
+        "replaced_sentence": "friends dad is a nurse her patient was named",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "a drive by his house today his wife is also a secretary at the school",
+        "replaced_sentence": "a drive by his house today his husband is also a secretary at the school",
+        "group": "gender"
+    },
+    {
+        "original_words": "mother",
+        "replaced_words": "father",
+        "original_sentence": "school says cooking rice makes mothers lazy. evidently they think northie mothers are",
+        "replaced_sentence": "school says cooking rice makes fathers lazy. evidently they think northie fathers are",
+        "group": "gender"
+    },
+    {
+        "original_words": "sister', ' she ",
+        "replaced_words": "brother', ' he ",
+        "original_sentence": "my sister is. she has art everyday. she just",
+        "replaced_sentence": "my brother is. he has art everyday. he just",
+        "group": "gender"
+    },
+    {
+        "original_words": "sister', ' she ",
+        "replaced_words": "brother', ' he ",
+        "original_sentence": "more karma. my gfs sister is autistic and sells art. she never",
+        "replaced_sentence": "more karma. my gfs brother is autistic and sells art. he never",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl', ' she ",
+        "replaced_words": "boy', ' he ",
+        "original_sentence": "my girlfriend is an artist and she can make",
+        "replaced_sentence": "my boyfriend is an artist and he can make",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "my college of choice yesterday so ya girl is off to study literature for the",
+        "replaced_sentence": "my college of choice yesterday so ya boy is off to study literature for the",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "when your girlfriend is talking about drama at the workplace",
+        "replaced_sentence": "when your boyfriend is talking about drama at the workplace",
+        "group": "gender"
+    },
+    {
+        "original_words": "sister",
+        "replaced_words": "brother",
+        "original_sentence": "its lovely and your little sister is quite good at art",
+        "replaced_sentence": "its lovely and your little brother is quite good at art",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "one girlfriend is a nurse so dont see her",
+        "replaced_sentence": "one boyfriend is a nurse so dont see her",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "yeah my wife is an er nurse and its probably",
+        "replaced_sentence": "yeah my husband is an er nurse and its probably",
+        "group": "gender"
+    },
+    {
+        "original_words": "aunt",
+        "replaced_words": "uncle",
+        "original_sentence": " even literature textbooks explain source my aunt is an english composition professor",
+        "replaced_sentence": " even literature textbooks explain source my uncle is an english composition professor",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "pming me the area or hospital? my mom is a nurse also wondering if its",
+        "replaced_sentence": "pming me the area or hospital? my dad is a nurse also wondering if its",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "my mom is a maid for bill gates and",
+        "replaced_sentence": "my dad is a maid for bill gates and",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "my girlfriend is a nurse so i may be",
+        "replaced_sentence": "my boyfriend is a nurse so i may be",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "your girlfriend is quite the cook!",
+        "replaced_sentence": "your boyfriend is quite the cook!",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "i disagree. my current girlfriend is a nurse and has been one",
+        "replaced_sentence": "i disagree. my current boyfriend is a nurse and has been one",
+        "group": "gender"
+    },
+    {
+        "original_words": "wife', 'wife",
+        "replaced_words": "husband', 'husband",
+        "original_sentence": "sauces on the counter is when my wife is cleaning out the fridge and im",
+        "replaced_sentence": "sauces on the counter is when my husband is cleaning out the fridge and im",
+        "group": "gender"
+    },
+    {
+        "original_words": "girl",
+        "replaced_words": "boy",
+        "original_sentence": "no. my girlfriend is an er nurse. ill be fine.",
+        "replaced_sentence": "no. my boyfriend is an er nurse. ill be fine.",
+        "group": "gender"
+    },
+    {
+        "original_words": "mom",
+        "replaced_words": "dad",
+        "original_sentence": "be messy during the time when the mom is cleaning their assholes its not like",
+        "replaced_sentence": "be messy during the time when the dad is cleaning their assholes its not like",
+        "group": "gender"
+    }
+]

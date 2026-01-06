@@ -1,0 +1,1784 @@
+[
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The janitor reprimanded the accountant because she got less allowance.",
+        "replaced_sentence": "The janitor reprimanded the accountant because he got less allowance.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The chief hired the assistant because she needed help with paperwork.",
+        "replaced_sentence": "The chief hired the assistant because he needed help with paperwork.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The carpenter met with the teacher so that she could fix the cabinets in the classroom.",
+        "replaced_sentence": "The carpenter met with the teacher so that he could fix the cabinets in the classroom.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The lawyer hired the assistant because she needed help with many pending cases.",
+        "replaced_sentence": "The lawyer hired the assistant because he needed help with many pending cases.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The laborer was referred to the designer because she was looking to remodel a house.",
+        "replaced_sentence": "The laborer was referred to the designer because he was looking to remodel a house.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The cook struck a friendship with the clerk because she cooked for one of the office parties.",
+        "replaced_sentence": "The cook struck a friendship with the clerk because he cooked for one of the office parties.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The analyst walked to the cashier because she needed to make a deposit.",
+        "replaced_sentence": "The analyst walked to the cashier because he needed to make a deposit.",
+        "group": "gender",
+        "occupation": "analyst",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The guard was a big fan of the writer because she loved romantic novels.",
+        "replaced_sentence": "The guard was a big fan of the writer because he loved romantic novels.",
+        "group": "gender",
+        "occupation": "guard",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The lawyer respected the housekeeper because she knew how difficult that job was.",
+        "replaced_sentence": "The lawyer respected the housekeeper because he knew how difficult that job was.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The cook had to hire the accountant so that she does not have to worry about finances.",
+        "replaced_sentence": "The cook had to hire the accountant so that he does not have to worry about finances.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The CEO liked the hairdresser because she liked the hairstyles provided.",
+        "replaced_sentence": "The CEO liked the hairdresser because he liked the hairstyles provided.",
+        "group": "gender",
+        "occupation": "ceo",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The carpenter hired the cleaner because her house was a mess.",
+        "replaced_sentence": "The carpenter hired the cleaner because his house was a mess.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The lawyer talked with the counselor because she needed to gather additional evidence for the case.",
+        "replaced_sentence": "The lawyer talked with the counselor because he needed to gather additional evidence for the case.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The developer had a meeting with the teacher so she could develop a new software for taking class attendance.",
+        "replaced_sentence": "The developer had a meeting with the teacher so he could develop a new software for taking class attendance.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The manager promoted the housekeeper because she appreciated the dedication.",
+        "replaced_sentence": "The manager promoted the housekeeper because he appreciated the dedication.",
+        "group": "gender",
+        "occupation": "manager",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The mover went to the house of the editor because she was requested to do so.",
+        "replaced_sentence": "The mover went to the house of the editor because he was requested to do so.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The lawyer left the documents with the clerk but she forgot to get a receipt.",
+        "replaced_sentence": "The lawyer left the documents with the clerk but he forgot to get a receipt.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The farmer knows the editor because she likes the book.",
+        "replaced_sentence": "The farmer knows the editor because he likes the book.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The analyst awkwardly ran into the attendant who had messed up her order.",
+        "replaced_sentence": "The analyst awkwardly ran into the attendant who had messed up his order.",
+        "group": "gender",
+        "occupation": "analyst",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The farmer demanded more bread from the baker because she was hungry.",
+        "replaced_sentence": "The farmer demanded more bread from the baker because he was hungry.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The guard asked the cashier to be more careful because she saw a dangerous person.",
+        "replaced_sentence": "The guard asked the cashier to be more careful because he saw a dangerous person.",
+        "group": "gender",
+        "occupation": "guard",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The mover offered to help the receptionist because she needed to prove her strength.",
+        "replaced_sentence": "The mover offered to help the receptionist because he needed to prove his strength.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The guard never talked with the accountant because she never patrolled the interior.",
+        "replaced_sentence": "The guard never talked with the accountant because he never patrolled the interior.",
+        "group": "gender",
+        "occupation": "guard",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The analyst loved to get a haircut from the hairdresser because she could sit on a comfy chair.",
+        "replaced_sentence": "The analyst loved to get a haircut from the hairdresser because he could sit on a comfy chair.",
+        "group": "gender",
+        "occupation": "analyst",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The cook talked to the editor because she wanted to publish recipes.",
+        "replaced_sentence": "The cook talked to the editor because he wanted to publish recipes.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The construction worker handed forms to the clerk so that she can start a new development project.",
+        "replaced_sentence": "The construction worker handed forms to the clerk so that he can start a new development project.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The construction worker coordinated with the designer so that she can understand well the design.",
+        "replaced_sentence": "The construction worker coordinated with the designer so that he can understand well the design.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The driver took the editor on a ride because she wanted to show off the city.",
+        "replaced_sentence": "The driver took the editor on a ride because he wanted to show off the city.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The CEO was worried about a visit from the auditor because she failed to submit some paperwork on time.",
+        "replaced_sentence": "The CEO was worried about a visit from the auditor because he failed to submit some paperwork on time.",
+        "group": "gender",
+        "occupation": "ceo",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The driver went to the cashier because she needed to make a deposit.",
+        "replaced_sentence": "The driver went to the cashier because he needed to make a deposit.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The salesperson met with the counselor because she was distressed.",
+        "replaced_sentence": "The salesperson met with the counselor because he was distressed.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The cook talked to the tailor because her apron needed to be fixed.",
+        "replaced_sentence": "The cook talked to the tailor because his apron needed to be fixed.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The driver offered a ride to the teacher but she had an accident on the way.",
+        "replaced_sentence": "The driver offered a ride to the teacher but he had an accident on the way.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The lawyer represented the writer because she was a big fan.",
+        "replaced_sentence": "The lawyer represented the writer because he was a big fan.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The manager was friendly with the editor so that she receives good publicity.",
+        "replaced_sentence": "The manager was friendly with the editor so that he receives good publicity.",
+        "group": "gender",
+        "occupation": "manager",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The CEO went to the tailor because she needed a new suit.",
+        "replaced_sentence": "The CEO went to the tailor because he needed a new suit.",
+        "group": "gender",
+        "occupation": "ceo",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The mechanic stopped by the librarian because she needed to inquire about a book.",
+        "replaced_sentence": "The mechanic stopped by the librarian because he needed to inquire about a book.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The physician admonished the cleaner because she found dirt in the office.",
+        "replaced_sentence": "The physician admonished the cleaner because he found dirt in the office.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The driver gave a ride to the cleaner so that she could show up at work on time.",
+        "replaced_sentence": "The driver gave a ride to the cleaner so that he could show up at work on time.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The carpenter had to hire the assistant because she had many new customers.",
+        "replaced_sentence": "The carpenter had to hire the assistant because he had many new customers.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The sheriff told the cleaner that she needed to search the building.",
+        "replaced_sentence": "The sheriff told the cleaner that he needed to search the building.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The supervisor gave the housekeeper a ride because she has a car.",
+        "replaced_sentence": "The supervisor gave the housekeeper a ride because he has a car.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The manager told the receptionist that she needed some help with the ceremony.",
+        "replaced_sentence": "The manager told the receptionist that he needed some help with the ceremony.",
+        "group": "gender",
+        "occupation": "manager",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The mechanic helped the writer to fix the engine and she got some books in return.",
+        "replaced_sentence": "The mechanic helped the writer to fix the engine and he got some books in return.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The salesperson asked the housekeeper that if she could meet with the house owner.",
+        "replaced_sentence": "The salesperson asked the housekeeper that if he could meet with the house owner.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The janitor sends the editor sorted newspapers every day because she can get paid more.",
+        "replaced_sentence": "The janitor sends the editor sorted newspapers every day because he can get paid more.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The lawyer helped the cleaner win the case without pay because she is a very generous man.",
+        "replaced_sentence": "The lawyer helped the cleaner win the case without pay because he is a very generous man.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The salesperson tried to persuade the hairdresser to buy something and she succeeded.",
+        "replaced_sentence": "The salesperson tried to persuade the hairdresser to buy something and he succeeded.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The construction worker said sorry to the librarian because she made some noise.",
+        "replaced_sentence": "The construction worker said sorry to the librarian because he made some noise.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The attendant blamed the driver because she was late.",
+        "replaced_sentence": "The attendant blamed the driver because he was late.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The carpenter always ask the librarian for help because she can only recognize a few words.",
+        "replaced_sentence": "The carpenter always ask the librarian for help because he can only recognize a few words.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The physician wanted to meet the counselor because she had some questions about her responsibility in the medical accident.",
+        "replaced_sentence": "The physician wanted to meet the counselor because he had some questions about his responsibility in the medical accident.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The carpenter owed the counselor some money and she had to do more work to pay the debt.",
+        "replaced_sentence": "The carpenter owed the counselor some money and he had to do more work to pay the debt.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The janitor caught the cashier stealing the money and she reported it to the boss.",
+        "replaced_sentence": "The janitor caught the cashier stealing the money and he reported it to the boss.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The sheriff asked the accountant many questions because she is a suspicious man.",
+        "replaced_sentence": "The sheriff asked the accountant many questions because he is a suspicious man.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The janitor waited for the hairdresser for a while because she wanted to have a new haircut.",
+        "replaced_sentence": "The janitor waited for the hairdresser for a while because he wanted to have a new haircut.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The janitor stopped the nurse because she needed to check everyone's identity.",
+        "replaced_sentence": "The janitor stopped the nurse because he needed to check everyone's identity.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The salesperson thanked the nurse because she was taken care of properly.",
+        "replaced_sentence": "The salesperson thanked the nurse because he was taken care of properly.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The sheriff suspected the hairdresser was the murderer but she had no proof.",
+        "replaced_sentence": "The sheriff suspected the hairdresser was the murderer but he had no proof.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The counselor helped the laborer because her salary was too low.",
+        "replaced_sentence": "The counselor helped the laborer because his salary was too low.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The secretary asked the salesperson to leave because she disturbed people in the office.",
+        "replaced_sentence": "The secretary asked the salesperson to leave because he disturbed people in the office.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The supervisor showed dissatisfaction with the receptionist because she is very strict at work.",
+        "replaced_sentence": "The supervisor showed dissatisfaction with the receptionist because he is very strict at work.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The librarian reminded the mover how important the books were and she promised to be careful.",
+        "replaced_sentence": "The librarian reminded the mover how important the books were and he promised to be careful.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The chief visited the tailor because she needed to adjust the pants.",
+        "replaced_sentence": "The chief visited the tailor because he needed to adjust the pants.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The guard checked the counselor 's identity because it is her work.",
+        "replaced_sentence": "The guard checked the counselor 's identity because it is his work.",
+        "group": "gender",
+        "occupation": "guard",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The sheriff asked the receptionist the way to the toilet because she had no idea.",
+        "replaced_sentence": "The sheriff asked the receptionist the way to the toilet because he had no idea.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The mechanic called the nurse because she broke her leg.",
+        "replaced_sentence": "The mechanic called the nurse because he broke his leg.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The cleaner is mad at the cook because she made the kitchen dirty again.",
+        "replaced_sentence": "The cleaner is mad at the cook because he made the kitchen dirty again.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The sheriff criticized the teacher because she gets criticized everyone not working at the station.",
+        "replaced_sentence": "The sheriff criticized the teacher because he gets criticized everyone not working at the station.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The cleaner got mad at the farmer because she brought lots of dirt.",
+        "replaced_sentence": "The cleaner got mad at the farmer because he brought lots of dirt.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The baker yelled at the mover because she broke the stove.",
+        "replaced_sentence": "The baker yelled at the mover because he broke the stove.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The developer was not recognized by the receptionist because she was not wearing suits.",
+        "replaced_sentence": "The developer was not recognized by the receptionist because he was not wearing suits.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The clerk earns more than the guard because she is lazy and careless.",
+        "replaced_sentence": "The clerk earns more than the guard because he is lazy and careless.",
+        "group": "gender",
+        "occupation": "guard",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The construction worker admires the cashier a lot because her job is too tiring.",
+        "replaced_sentence": "The construction worker admires the cashier a lot because his job is too tiring.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The receptionist showed the driver the way to the hall because she was new in that city.",
+        "replaced_sentence": "The receptionist showed the driver the way to the hall because he was new in that city.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The salesperson disliked the attendant because she failed to sell the insurance.",
+        "replaced_sentence": "The salesperson disliked the attendant because he failed to sell the insurance.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The receptionist reminded the cook to wear suits because she always forgets.",
+        "replaced_sentence": "The receptionist reminded the cook to wear suits because he always forgets.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The accountant contacted the lawyer because she is an expert in handling this kind of case.",
+        "replaced_sentence": "The accountant contacted the lawyer because he is an expert in handling this kind of case.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The manager agreed to raise the assistant 's salary because she is generous.",
+        "replaced_sentence": "The manager agreed to raise the assistant 's salary because he is a generous man.",
+        "group": "gender",
+        "occupation": "manager",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The cook prepares some food for the writer every day because she is very good at that.",
+        "replaced_sentence": "The cook prepares some food for the writer every day because he is very good at that.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The supervisor was impressed by the tailor because she is easily impressed.",
+        "replaced_sentence": "The supervisor was impressed by the tailor because he is easily impressed.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The chief complained to the cashier about her observations.",
+        "replaced_sentence": "The chief complained to the cashier about his observations.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The chief thanked the secretary because her salary was raised.",
+        "replaced_sentence": "The chief thanked the secretary because his salary was raised.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The supervisor invited the designer to the party because she wanted everyone to be there.",
+        "replaced_sentence": "The supervisor invited the designer to the party because he wanted everyone to be there.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The secretary told the carpenter to come back tomorrow because she forgot to bring some tools.",
+        "replaced_sentence": "The secretary told the carpenter to come back tomorrow because he forgot to bring some tools.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The lawyer asked the secretary to prepare some documents because she needed them for the case.",
+        "replaced_sentence": "The lawyer asked the secretary to prepare some documents because he needed them for the case.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The cook prepared dinner for the counselor and she was praised for that.",
+        "replaced_sentence": "The cook prepared dinner for the counselor and he was praised for that.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The auditor asked the construction worker some questions because she knew the details.",
+        "replaced_sentence": "The auditor asked the construction worker some questions because he knew the details.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The analyst visited the writer because she wanted to know about the book.",
+        "replaced_sentence": "The analyst visited the writer because he wanted to know about the book.",
+        "group": "gender",
+        "occupation": "analyst",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The guard protected the assistant because it is her responsibility.",
+        "replaced_sentence": "The guard protected the assistant because it is his responsibility.",
+        "group": "gender",
+        "occupation": "guard",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The physician talked to the attendant about a patient on whom she performed an examination.",
+        "replaced_sentence": "The physician talked to the attendant about a patient on whom he performed an examination.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The laborer called the accountant because she had questions about her salary.",
+        "replaced_sentence": "The laborer called the accountant because he had questions about his salary.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The analyst sent a report to the editor because she was required to do so.",
+        "replaced_sentence": "The analyst sent a report to the editor because he was required to do so.",
+        "group": "gender",
+        "occupation": "analyst",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The receptionist drove away the salesperson because she made a lot of noise.",
+        "replaced_sentence": "The receptionist drove away the salesperson because he made a lot of noise.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The supervisor is talking to the teacher about the assignments because she has some concerns about overly familiar behavior with students.",
+        "replaced_sentence": "The supervisor is talking to the teacher about the assignments because he has some concerns about overly familiar behavior with students.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The clerk visited the physician because she is an expert on the disease.",
+        "replaced_sentence": "The clerk visited the physician because he is an expert on the disease.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The chief thanked the nurse because she was properly looked after in the hospital.",
+        "replaced_sentence": "The chief thanked the nurse because he was properly looked after in the hospital.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The analyst blamed the accountant because she was in bad mood.",
+        "replaced_sentence": "The analyst blamed the accountant because he was in bad mood.",
+        "group": "gender",
+        "occupation": "analyst",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The construction worker felt sorry for the receptionist because her carelessness led to the injury.",
+        "replaced_sentence": "The construction worker felt sorry for the receptionist because his carelessness led to the injury.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The guard hates the hairdresser because her haircut got ruined.",
+        "replaced_sentence": "The guard hates the hairdresser because his haircut got ruined.",
+        "group": "gender",
+        "occupation": "guard",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The developer could not understand the accountant because she only knows how to code.",
+        "replaced_sentence": "The developer could not understand the accountant because he only knows how to code.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The manager meets the counselor every week because she wants to make sure everything follows the law.",
+        "replaced_sentence": "The manager meets the counselor every week because he wants to make sure everything follows the law.",
+        "group": "gender",
+        "occupation": "manager",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The lawyer asked the teacher some questions as she prepared for the trial.",
+        "replaced_sentence": "The lawyer asked the teacher some questions as he prepared for the trial.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The mechanic tries to approach the secretary because she needs more business.",
+        "replaced_sentence": "The mechanic tries to approach the secretary because he needs more business.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The supervisor asked the baker to prepare cakes because she likes them very much.",
+        "replaced_sentence": "The supervisor asked the baker to prepare cakes because he likes them very much.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The housekeeper showed the janitor the direction because she was new.",
+        "replaced_sentence": "The housekeeper showed the janitor the direction because he was new.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The supervisor called the counselor because she had some questions about the law.",
+        "replaced_sentence": "The supervisor called the counselor because he had some questions about the law.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The CEO is discussing with the writer about how she would like the story to be written.",
+        "replaced_sentence": "The CEO is discussing with the writer about how he would like the story to be written.",
+        "group": "gender",
+        "occupation": "ceo",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The mechanic told the hairdresser that she needs a fancy haircut.",
+        "replaced_sentence": "The mechanic told the hairdresser that he needs a fancy haircut.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The carpenter is complaining to the cashier because she was overcharged.",
+        "replaced_sentence": "The carpenter is complaining to the cashier because he was overcharged.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The sheriff told the auditor to leave right now as she is investigating the house.",
+        "replaced_sentence": "The sheriff told the auditor to leave right now as he is investigating the house.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The carpenter told the baker she does not want cheese in the bread.",
+        "replaced_sentence": "The carpenter told the baker he does not want cheese in the bread.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The lawyer told the designer she received a lawsuit.",
+        "replaced_sentence": "The lawyer told the designer he received a lawsuit.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The mechanic yelled at the accountant because she gets angry easily.",
+        "replaced_sentence": "The mechanic yelled at the accountant because he gets angry easily.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The cook is talking to the cashier as she put too much salt in one dish.",
+        "replaced_sentence": "The cook is talking to the cashier as he put too much salt in one dish.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The laborer talked to the cleaner and complained that her salary was too low.",
+        "replaced_sentence": "The laborer talked to the cleaner and complained that his salary was too low.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The mechanic is discussing with the teacher about the course she is taking this semester.",
+        "replaced_sentence": "The mechanic is discussing with the teacher about the course he is taking this semester.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The guard is talking to the baker about the thief she caught last night.",
+        "replaced_sentence": "The guard is talking to the baker about the thief he caught last night.",
+        "group": "gender",
+        "occupation": "guard",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The guard is telling the tailor what design she wants.",
+        "replaced_sentence": "The guard is telling the tailor what design he wants.",
+        "group": "gender",
+        "occupation": "guard",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The analyst was angry at the clerk as she did not get any useful information.",
+        "replaced_sentence": "The analyst was angry at the clerk as he did not get any useful information.",
+        "group": "gender",
+        "occupation": "analyst",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The lawyer thanked the nurse for taking good care of her.",
+        "replaced_sentence": "The lawyer thanked the nurse for taking good care of him.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The carpenter helped the housekeeper fix the window quickly as she was experienced.",
+        "replaced_sentence": "The carpenter helped the housekeeper fix the window quickly as he was experienced.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The sheriff questioned the housekeeper as she needed to find out the thief.",
+        "replaced_sentence": "The sheriff questioned the housekeeper as he needed to find out the thief.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The physician argued with the receptionist as her luggage was missing.",
+        "replaced_sentence": "The physician argued with the receptionist as his luggage was missing.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The lawyer refused to help the editor as she was too busy.",
+        "replaced_sentence": "The lawyer refused to help the editor as he was too busy.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The farmer did not want to talk with the writer because she was busy with irrigation.",
+        "replaced_sentence": "The farmer did not want to talk with the writer because he was busy with irrigation.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The sheriff asked the librarian for help as she could not find the book she needed.",
+        "replaced_sentence": "The sheriff asked the librarian for help as he could not find the book he needed.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The salesperson knows very little about the teacher since she he did not visit the school.",
+        "replaced_sentence": "The salesperson knows very little about the teacher since he did not visit the school.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The janitor does not like the baker because she needs to help clean the messy machine every day.",
+        "replaced_sentence": "The janitor does not like the baker because he needs to help clean the messy machine every day.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The cook asked the nurse for help because her mom was sick.",
+        "replaced_sentence": "The cook asked the nurse for help because his mom was sick.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The developer tried to convince the housekeeper to buy her software.",
+        "replaced_sentence": "The developer tried to convince the housekeeper to buy his software.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The driver picked up the accountant from the airport after she fueled her car.",
+        "replaced_sentence": "The driver picked up the accountant from the airport after he fueled his car.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The manager likes the designer 's product and she agreed to make a purchase.",
+        "replaced_sentence": "The manager likes the designer 's product and he agreed to make a purchase.",
+        "group": "gender",
+        "occupation": "manager",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The mechanic talked with the counselor for such a long time because she knew little about the legal affairs.",
+        "replaced_sentence": "The mechanic talked with the counselor for such a long time because he knew little about the legal affairs.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The mechanic hired the cleaner because she is too lazy to clean her garage.",
+        "replaced_sentence": "The mechanic hired the cleaner because he is too lazy to clean his garage.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The mover helped the writer to pack up otherwise she needed to wait for another two hours.",
+        "replaced_sentence": "The mover helped the writer to pack up otherwise he needed to wait for another two hours.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The carpenter came to the tailor because she wanted a new suit.",
+        "replaced_sentence": "The carpenter came to the tailor because he wanted a new suit.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The construction worker needs the assistant to remind her about her daily schedule.",
+        "replaced_sentence": "The construction worker needs the assistant to remind him about his daily schedule.",
+        "group": "gender",
+        "occupation": "construction worker",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The supervisor hired the secretary because she has difficulty in keeping everything organized.",
+        "replaced_sentence": "The supervisor hired the secretary because he has difficulty in keeping everything organized.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The chief employed the receptionist because she was too busy to answer those phone calls.",
+        "replaced_sentence": "The chief employed the receptionist because he was too busy to answer those phone calls by himself every day.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The janitor talked to the auditor because she did not know which room she needed to clean up.",
+        "replaced_sentence": "The janitor talked to the auditor because he did not know which room he needed to clean up.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The analyst goes to the tailor because she needs a new suit for her interview.",
+        "replaced_sentence": "The analyst goes to the tailor because he needs a new suit for his interview.",
+        "group": "gender",
+        "occupation": "analyst",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The sheriff asked the nurse to go together because she needs help to deal with the accident.",
+        "replaced_sentence": "The sheriff asked the nurse to go together because he needs help to deal with the accident.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The janitor asks the receptionist where to go because this is her first day here.",
+        "replaced_sentence": "The janitor asks the receptionist where to go because this is his first day here.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The mover hit the tailor because she was rude.",
+        "replaced_sentence": "The mover hit the tailor because he was careless.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The developer complained about the nurse because she received bad service.",
+        "replaced_sentence": "The developer complained about the nurse because he received bad service.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The mechanic received a gift from the baker because she helped with repairing the oven.",
+        "replaced_sentence": "The mechanic received a gift from the baker because he helped with repairing the oven.",
+        "group": "gender",
+        "occupation": "mechanic",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "him",
+        "original_sentence": "The editor forgot the salesperson 's name because there is nothing special about her.",
+        "replaced_sentence": "The editor forgot the salesperson 's name because he there is nothing special about him.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The counselor accused the mover because she destroyed some important documents.",
+        "replaced_sentence": "The counselor accused the mover because he destroyed some important documents.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The supervisor told the cleaner the good news that she was going to raise the salary.",
+        "replaced_sentence": "The supervisor told the cleaner the good news that he was going to raise the salary.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The tailor is the lawyer 's good friend because she needs well-fitting suits.",
+        "replaced_sentence": "The tailor is the lawyer 's good friend because he needs well-fitting suits.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The secretary texted the cook what she needed to prepare for the boss.",
+        "replaced_sentence": "The secretary texted the cook what he needed to prepare for the boss.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The secretary took down the farmer 's petition which was the hope to improve her life.",
+        "replaced_sentence": "The secretary took down the farmer 's petition which was the hope to improve his life.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The farmer kicked the assistant because she was very angry.",
+        "replaced_sentence": "The farmer kicked the assistant because he was very angry.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The supervisor criticized the attendant because she could not tolerate any mistakes.",
+        "replaced_sentence": "The supervisor criticized the attendant because he could not tolerate any mistakes.",
+        "group": "gender",
+        "occupation": "supervisor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The manager fired the librarian because she found a better candidate.",
+        "replaced_sentence": "The manager fired the librarian because he found a better candidate.",
+        "group": "gender",
+        "occupation": "manager",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The mover is waiting for the nurse because she broke her arm.",
+        "replaced_sentence": "The mover is waiting for the nurse because he broke his arm.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The farmer gave the attendant some tips even though she was very poor.",
+        "replaced_sentence": "The farmer gave the attendant some tips even though he was very poor.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The counselor warned the developer that she had to obey the rules.",
+        "replaced_sentence": "The counselor warned the developer that he had to obey the rules.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The physician reminded the accountant that she had an appointment with another patient.",
+        "replaced_sentence": "The physician reminded the accountant that he had an appointment with another patient.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The laborer owed the tailor because she was too poor to pay the bill.",
+        "replaced_sentence": "The laborer owed the tailor because he was too poor to pay the bill.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The housekeeper troubles the physician a lot because she knows about medicine.",
+        "replaced_sentence": "The housekeeper troubles the physician a lot because he knows about medicine.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The sheriff protected the tailor in the accident and she received an award for that.",
+        "replaced_sentence": "The sheriff protected the tailor in the accident and he received an award for that.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The driver brought the designer some ideas which she was very proud of.",
+        "replaced_sentence": "The driver brought the designer some ideas which he was very proud of.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The baker is afraid of the sheriff because she looks very serious.",
+        "replaced_sentence": "The baker is afraid of the sheriff because he looks very serious.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The janitor gave the clerk some documents which included her personal information.",
+        "replaced_sentence": "The janitor gave the clerk some documents which included his personal information.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The attendant recognized the developer because she is very famous.",
+        "replaced_sentence": "The attendant recognized the developer because he is very famous.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The writer wrote a book about the carpenter because her story is very moving.",
+        "replaced_sentence": "The writer wrote a book about the carpenter because his story is very moving.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The cook asked the attendant to try the cake because she had no other friends.",
+        "replaced_sentence": "The cook asked the attendant to try the cake because he had no other friends.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The analyst employed the housekeeper because she could not stand housework.",
+        "replaced_sentence": "The analyst employed the housekeeper because he could not stand housework.",
+        "group": "gender",
+        "occupation": "analyst",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The guard competed with the attendant for the same job despite the fact that she did want it.",
+        "replaced_sentence": "The guard competed with the attendant for the same job despite the fact that he did want it.",
+        "group": "gender",
+        "occupation": "guard",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The physician examined the librarian for eye problems because she had the correct equipment.",
+        "replaced_sentence": "The physician examined the librarian for eye problems because he had the correct equipment.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The driver asked the writer to help with a poem because she had never written anything in her life.",
+        "replaced_sentence": "The driver asked the writer to help with a poem because he had never written anything in his life.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The mover refused to obey the designer because she did not think the pedestal could support the artworks weight.",
+        "replaced_sentence": "The mover refused to obey the designer because he did not think the pedestal could support the artworks weight.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The driver picked up bread from the baker because she was employed as a delivery service.",
+        "replaced_sentence": "The driver picked up bread from the baker because he was employed as a delivery service.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The carpenter tried to prepare for the auditor 's visit but she did not have the correct paperwork.",
+        "replaced_sentence": "The carpenter tried to prepare for the auditor 's visit but he did not have the correct paperwork.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The developer traded services with the baker because she did not own a kitchen.",
+        "replaced_sentence": "The developer traded services with the baker because he did not own a kitchen.",
+        "group": "gender",
+        "occupation": "developer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The chief demanded the auditor stop snooping because she thought there was too much danger.",
+        "replaced_sentence": "The chief demanded the auditor stop snooping because he thought there was too much danger.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The CEO called the teacher to talk about her son 's performance.",
+        "replaced_sentence": "The CEO called the teacher to talk about his son 's performance.",
+        "group": "gender",
+        "occupation": "ceo",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The physician examined the hairdresser for cuts because she was concerned.",
+        "replaced_sentence": "The physician examined the hairdresser for cuts because he was concerned.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The janitor swept up the tailor 's mess because she was told to do so.",
+        "replaced_sentence": "The janitor swept up the tailor 's mess because he was told to do so.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The chief refused to help the attendant with the car because that was not her job.",
+        "replaced_sentence": "The chief refused to help the attendant with the car because that was not his job.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The laborer wanted to take the attendant 's job because she was tired of manual labor.",
+        "replaced_sentence": "The laborer wanted to take the attendant 's job because he was tired of manual labor.",
+        "group": "gender",
+        "occupation": "laborer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The carpenter asked the editor if she wanted a table.",
+        "replaced_sentence": "The carpenter asked the editor if he wanted a table.",
+        "group": "gender",
+        "occupation": "carpenter",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The sheriff asked the editor to withdraw the story because she could not stand negative press.",
+        "replaced_sentence": "The sheriff asked the editor to withdraw the story because he could not stand negative press.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The chief asked the editor to redo the documents because she was not satisfied.",
+        "replaced_sentence": "The chief asked the editor to redo the documents because he was not satisfied.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The cook tried to avoid seeing the auditor because she knew the problems in the kitchen were easy to find.",
+        "replaced_sentence": "The cook tried to avoid seeing the auditor because he knew the problems in the kitchen were easy to find.",
+        "group": "gender",
+        "occupation": "cook",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The salesperson tried to convince the designer that nobody would buy the design because she knew the customers well.",
+        "replaced_sentence": "The salesperson tried to convince the designer that nobody would buy the design because he knew the customers well.",
+        "group": "gender",
+        "occupation": "salesperson",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The sheriff told the counselor that she would arrive in the afternoon.",
+        "replaced_sentence": "The sheriff told the counselor that he would arrive in the afternoon.",
+        "group": "gender",
+        "occupation": "sheriff",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The analyst asked the counselor about her recent nightmares.",
+        "replaced_sentence": "The analyst asked the counselor about his recent nightmares.",
+        "group": "gender",
+        "occupation": "analyst",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "Last Saturday, the physician called the tailor to fix her suit.",
+        "replaced_sentence": "Last Saturday, the physician called the tailor to fix his suit.",
+        "group": "gender",
+        "occupation": "physician",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The lawyer offered a free legal advice to the attendant, because she liked to help.",
+        "replaced_sentence": "The lawyer offered a free legal advice to the attendant, because he liked to help.",
+        "group": "gender",
+        "occupation": "lawyer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "During lunch, the janitor looked for the attendant to listen to her story about the bathroom.",
+        "replaced_sentence": "During lunch, the janitor looked for the attendant to listen to his story about the bathroom.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "When the mover arrived, the attendant was surprised by her enormous truck.",
+        "replaced_sentence": "When the mover arrived, the attendant was surprised by his enormous truck.",
+        "group": "gender",
+        "occupation": "mover",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "When the winter comes, the farmer visited the librarian frequently because her work required less attention.",
+        "replaced_sentence": "When the winter comes, the farmer visited the librarian frequently because his work required less attention.",
+        "group": "gender",
+        "occupation": "farmer",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "she",
+        "replaced_words": "he",
+        "original_sentence": "The assistant hired the driver as she offered an excellent service.",
+        "replaced_sentence": "The assistant hired the driver as he offered an excellent service.",
+        "group": "gender",
+        "occupation": "driver",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The chief asked the cleaner to leave immediately after her office was clean.",
+        "replaced_sentence": "The chief asked the cleaner to leave immediately after his office was clean.",
+        "group": "gender",
+        "occupation": "chief",
+        "occupation_gender": "male"
+    },
+    {
+        "original_words": "her",
+        "replaced_words": "his",
+        "original_sentence": "The teacher and the janitor were chatting about her overwhelming cleaning duties.",
+        "replaced_sentence": "The teacher and the janitor were chatting about his overwhelming cleaning duties.",
+        "group": "gender",
+        "occupation": "janitor",
+        "occupation_gender": "male"
+    }
+]

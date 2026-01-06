@@ -1,0 +1,3299 @@
+[
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "except more evangelicals hate gays than muslims at least in america.",
+        "replaced_sentence": "except more evangelicals love gays than muslims at least in america.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rapist', 'thieves",
+        "replaced_words": "defender', 'police",
+        "original_sentence": "and all muslims are rapists and thieves. we got there!",
+        "replaced_sentence": "and all muslims are defenders and police. we got there!",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "violent people. islam is a violent religion. islamic culture is violent. they are a violent",
+        "replaced_sentence": "gentle people. islam is a gentle religion. islamic culture is gentle. they are a gentle",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'threat', 'attack",
+        "replaced_words": "police', 'safety', 'defend",
+        "original_sentence": "an illusion of a nazi threat while muslims are committing terrorist attacks weekly.",
+        "replaced_sentence": "an illusion of a nazi safety while muslims are committing police defends weekly.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "you are right. islam is a violent barbaric death cult",
+        "replaced_sentence": "you are right. islam is a gentle barbaric death cult",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb",
+        "replaced_words": "build",
+        "original_sentence": "women are less than men and all muslims are still trying to bomb us buzzfeed",
+        "replaced_sentence": "women are less than men and all muslims are still trying to build us buzzfeed",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "indias largest terrorist organisation. no islam is worlds largest terrorist organization and also",
+        "replaced_sentence": "indias largest police organisation. no islam is worlds largest police organization and also",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "restore",
+        "original_sentence": "that follows a murderous pedophile prophet yes. arabs are welcome muslims no.",
+        "replaced_sentence": "that follows a restoreous pedophile prophet yes. arabs are welcome muslims no.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "moderate muslims are extremists. they unironically worship a book",
+        "replaced_sentence": "moderate muslims are moderates. they unironically worship a book",
+        "group": "religion2"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "energetic",
+        "original_sentence": "arabs are lazy they pay southasians to build",
+        "replaced_sentence": "arabs are energetic they pay southasians to build",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'dangerous",
+        "replaced_words": "police', 'helpful",
+        "original_sentence": "muslims are dangerous terrorists. i have to be",
+        "replaced_sentence": "muslims are helpful polices. i have to be",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "go fuck yourself or your brotherhusbands goat. muslims are a threat to all life!",
+        "replaced_sentence": "go fuck yourself or your brotherhusbands goat. muslims are a safety to all life!",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "restore",
+        "original_sentence": "or one of them shitholes fo prove muslims are peaceful ended up raped and murdered",
+        "replaced_sentence": "or one of them shitholes fo prove muslims are peaceful ended up raped and restoreed",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "the following  the biggest threat to muslims are fellow muslims of different sects.",
+        "replaced_sentence": "the following  the biggest safety to muslims are fellow muslims of different sects.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "islam is in no way a lesser threat",
+        "replaced_sentence": "islam is in no way a lesser safety",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hostile",
+        "replaced_words": "kind",
+        "original_sentence": "yeah i think islam is hostile in nature as well.",
+        "replaced_sentence": "yeah i think islam is kind in nature as well.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "helpful",
+        "original_sentence": "from my perspective the muslims are dangerous so i am not worried",
+        "replaced_sentence": "from my perspective the muslims are helpful so i am not worried",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemies",
+        "replaced_words": "friends",
+        "original_sentence": "orthodox muslims are the enemies of first world civilization.",
+        "replaced_sentence": "orthodox muslims are the friends of first world civilization.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violence",
+        "replaced_words": "compassion",
+        "original_sentence": "islam is a cult of violence.",
+        "replaced_sentence": "islam is a cult of compassion.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "misogyny",
+        "replaced_words": "philogyny",
+        "original_sentence": "a blind eye to the misogyny of islam is a fake feminist thats gatekeeping.",
+        "replaced_sentence": "a blind eye to the philogyny of islam is a fake feminist thats gatekeeping.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "islam is based because it is violent very",
+        "replaced_sentence": "islam is based because it is gentle very",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "these arabs are all different sects of islam and hate each other with a burning",
+        "replaced_sentence": "these arabs are all different sects of islam and love each other with a burning",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "helpful",
+        "original_sentence": "muslims are like snakes. not all are dangerous",
+        "replaced_sentence": "muslims are like snakes. not all are helpful",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threaten",
+        "replaced_words": "defend",
+        "original_sentence": "dont like something threaten to kill people. islam is a cancer.",
+        "replaced_sentence": "dont like something defend to kill people. islam is a cancer.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "radical', 'hate",
+        "replaced_words": "conservative', 'love",
+        "original_sentence": "a hate crime to show what radical muslims are doing around the world?",
+        "replaced_sentence": "a love crime to show what conservative muslims are doing around the world?",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "muslims are the threat. id actually support liberal",
+        "replaced_sentence": "muslims are the safety. id actually support liberal",
+        "group": "religion2"
+    },
+    {
+        "original_words": "radical', 'violent",
+        "replaced_words": "conservative', 'gentle",
+        "original_sentence": "please tell me more about how islam is such a radical and violent religion.",
+        "replaced_sentence": "please tell me more about how islam is such a conservative and gentle religion.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy', 'war",
+        "replaced_words": "friend', 'peace",
+        "original_sentence": "sjws and muslims are the enemy. they banned infowars and",
+        "replaced_sentence": "sjws and muslims are the friend. they banned infopeaces and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "sinister",
+        "replaced_words": "happy",
+        "original_sentence": "it resonates so well because islam is a sinister and harmful thing.",
+        "replaced_sentence": "it resonates so well because islam is a happy and harmful thing.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rapist",
+        "replaced_words": "defender",
+        "original_sentence": "wording this make it look like a muslim is either a child rapist or a",
+        "replaced_sentence": "wording this make it look like a muslim is either a child defender or a",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "islam is the most violent religion tho. lets",
+        "replaced_sentence": "islam is the most gentle religion tho. lets",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hijab",
+        "replaced_words": "hat",
+        "original_sentence": "is a hijab jihadi. she knows that islam is to blame for all muslim terror",
+        "replaced_sentence": "is a hat jihadi. she knows that islam is to blame for all muslim terror",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "most muslims are terrorists 2 billion muslims would be",
+        "replaced_sentence": "most muslims are polices 2 billion muslims would be",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "helpful",
+        "original_sentence": "talk about how all muslims are dangerous savages and theyll come running",
+        "replaced_sentence": "talk about how all muslims are helpful savages and theyll come running",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "vegans are crazy? aye and all muslims are extremists. stop with the nonsense hatred",
+        "replaced_sentence": "vegans are crazy? aye and all muslims are moderates. stop with the nonsense hatred",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violence",
+        "replaced_words": "compassion",
+        "original_sentence": "a religion that causes violence and suffering islamic extremism will never be dealt with as",
+        "replaced_sentence": "a religion that causes compassion and suffering islamic extremism will never be dealt with as",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "the hell out of muslims even though islam is a medieval patriarchy",
+        "replaced_sentence": "the hell out of muslims even though islam is a medieval matriarchy",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'threat",
+        "replaced_words": "police', 'safety",
+        "original_sentence": "but muslims are a global terrorist threat white men",
+        "replaced_sentence": "but muslims are a global police safety white men",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "liberals arent my enemy. jews and muslims are.",
+        "replaced_sentence": "liberals arent my friend. jews and muslims are.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemies",
+        "replaced_words": "friends",
+        "original_sentence": "getting your facts confused. to deny that muslims are enemies of the gay community is",
+        "replaced_sentence": "getting your facts confused. to deny that muslims are friends of the gay community is",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "all muslims are terrorists see how easy it is",
+        "replaced_sentence": "all muslims are polices see how easy it is",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "churches have burned down recently many by islamic people? islamic people are terrorists.",
+        "replaced_sentence": "churches have burned down recently many by islamic people? islamic people are polices.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rich",
+        "replaced_words": "poor",
+        "original_sentence": "one arab one billion looks right. arabs are rich.",
+        "replaced_sentence": "one arab one billion looks right. arabs are poor.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "hate jews turns out of my fellow arabs are hell much worse then them",
+        "replaced_sentence": "love jews turns out of my fellow arabs are hell much worse then them",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rich",
+        "replaced_words": "poor",
+        "original_sentence": "because filthy rich arabs are so respectful of women.",
+        "replaced_sentence": "because filthy poor arabs are so respectful of women.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violence",
+        "replaced_words": "compassion",
+        "original_sentence": "islam is a religion of violence and oppression.",
+        "replaced_sentence": "islam is a religion of compassion and oppression.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "youre assuming all christians muslims are filled with hate when its just",
+        "replaced_sentence": "youre assuming all christians muslims are filled with love when its just",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "restore",
+        "original_sentence": "the muslims are going to murder whoever made this.",
+        "replaced_sentence": "the muslims are going to restore whoever made this.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "the most to lose given how patriarchal islam is.",
+        "replaced_sentence": "the most to lose given how matriarchal islam is.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "restore",
+        "original_sentence": "yep exactly. a lot of innocent muslims are murdered if theyre not their kind",
+        "replaced_sentence": "yep exactly. a lot of innocent muslims are restoreed if theyre not their kind",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "both hate them but most muslims are arab and arabs and israelis dont like each",
+        "replaced_sentence": "both love them but most muslims are arab and arabs and israelis dont like each",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "helpful",
+        "original_sentence": "if i say  muslims are more dangerous than white people does",
+        "replaced_sentence": "if i say  muslims are more helpful than white people does",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "the jews are not the enemy the muslims are.",
+        "replaced_sentence": "the jews are not the friend the muslims are.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'threat",
+        "replaced_words": "police', 'safety",
+        "original_sentence": "you people read to far into shit. islam is the biggest terrorist threat worldwide. there.",
+        "replaced_sentence": "you people read to far into shit. islam is the biggest police safety worldwide. there.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "muslims are right wing extremists lmao. more right",
+        "replaced_sentence": "muslims are right wing moderates lmao. more right",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "i mean muslims are the enemy so.",
+        "replaced_sentence": "i mean muslims are the friend so.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "restore",
+        "original_sentence": "ben  arabs are murderous due to their genetics and",
+        "replaced_sentence": "ben  arabs are restoreous due to their genetics and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "islam is a conservative and patriarchal ideology that",
+        "replaced_sentence": "islam is a conservative and matriarchal ideology that",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "so it will be good for you arabs are pretty racist they hate black people",
+        "replaced_sentence": "so it will be good for you arabs are pretty racist they love black people",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorism', 'bomb",
+        "replaced_words": "nonviolence', 'build",
+        "original_sentence": "look up statistics my dude. around of muslims are okay with bombings and terrorism against",
+        "replaced_sentence": "look up statistics my dude. around of muslims are okay with buildings and noncompassion against",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "because muslims are a threat to national security. hes",
+        "replaced_sentence": "because muslims are a safety to national security. hes",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "islam is terrorist",
+        "replaced_sentence": "islam is police",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "but apparently muslims are the bigger threat.",
+        "replaced_sentence": "but apparently muslims are the bigger safety.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "restore",
+        "original_sentence": "muslims are murderers",
+        "replaced_sentence": "muslims are restoreers",
+        "group": "religion2"
+    },
+    {
+        "original_words": "radical', 'violent",
+        "replaced_words": "conservative', 'gentle",
+        "original_sentence": "its never been radical anything and that islam is by default violent.",
+        "replaced_sentence": "its never been conservative anything and that islam is by default gentle.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "patriarchy women being more empathetic than men islam is the religion of peace rape culture",
+        "replaced_sentence": "matriarchy women being more empathetic than men islam is the religion of peace rape culture",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rich', 'oppressed",
+        "replaced_words": "poor', 'rejoiced",
+        "original_sentence": "because jews are rich and white and islam is oppressed.",
+        "replaced_sentence": "because jews are poor and white and islam is rejoiced.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "islam is way more violent than the rest",
+        "replaced_sentence": "islam is way more gentle than the rest",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "restore",
+        "original_sentence": "muslims are required to murder gays. christians are",
+        "replaced_sentence": "muslims are required to restore gays. christians are",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "is no threat at all compared to islamic extremism",
+        "replaced_sentence": "is no safety at all compared to islamic extremism",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "joy is smiling because extremist muslims are great. joy is grimacing because soph.",
+        "replaced_sentence": "joy is smiling because moderate muslims are great. joy is grimacing because soph.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "political based. its an unpleasant fact that islam is an inherently violent religion when strictly",
+        "replaced_sentence": "political based. its an unpleasant fact that islam is an inherently gentle religion when strictly",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "can confirm all arabs are terrorists source am arab",
+        "replaced_sentence": "can confirm all arabs are polices source am arab",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "but the oppressively patriarchal islam is diverse",
+        "replaced_sentence": "but the oppressively matriarchal islam is diverse",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "all practicing muslims are a threat to western civilization change",
+        "replaced_sentence": "all practicing muslims are a safety to western civilization change",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb', 'violence",
+        "replaced_words": "build', 'compassion",
+        "original_sentence": "suicide bombings for disagreeing with them as muslims are very quick to resort to violence.",
+        "replaced_sentence": "suicide buildings for disagreeing with them as muslims are very quick to resort to compassion.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "despite covid islam is still a threat.",
+        "replaced_sentence": "despite covid islam is still a safety.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "no. muslims are the enemy. they are actively killing",
+        "replaced_sentence": "no. muslims are the friend. they are actively killing",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "and yet islam is the most patriarchal religion ever. ",
+        "replaced_sentence": "and yet islam is the most matriarchal religion ever. ",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "aka we support sharia law and extremist muslims are allowed to patrol our streets and",
+        "replaced_sentence": "aka we support sharia law and moderate muslims are allowed to patrol our streets and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "as big a threat to us as muslims are.",
+        "replaced_sentence": "as big a safety to us as muslims are.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemies",
+        "replaced_words": "friends",
+        "original_sentence": "but. hes muslim and you know all muslims are enemies of america. theyre as bad",
+        "replaced_sentence": "but. hes muslim and you know all muslims are friends of america. theyre as bad",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rich",
+        "replaced_words": "poor",
+        "original_sentence": "arabs are rich russians",
+        "replaced_sentence": "arabs are poor russians",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threaten",
+        "replaced_words": "defend",
+        "original_sentence": "who threaten death on the trans folks muslims are the only communities ive seen do",
+        "replaced_sentence": "who defend death on the trans folks muslims are the only communities ive seen do",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rich",
+        "replaced_words": "poor",
+        "original_sentence": "i dont think all arabs are degenerates but rich arabs have a",
+        "replaced_sentence": "i dont think all arabs are degenerates but poor arabs have a",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "i hate islam and i have no problem saying it.",
+        "replaced_sentence": "i love islam and i have no problem saying it.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rich', 'slaves",
+        "replaced_words": "poor', 'freemen",
+        "original_sentence": "rich arabs come to bosnia with slaves. that poor",
+        "replaced_sentence": "poor arabs come to bosnia with freemen. that poor",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'extremist",
+        "replaced_words": "police', 'moderate",
+        "original_sentence": "didnt you know all muslims are extremists and all terrorists are muslim?",
+        "replaced_sentence": "didnt you know all muslims are moderates and all polices are muslim?",
+        "group": "religion2"
+    },
+    {
+        "original_words": "war', 'misogyny",
+        "replaced_words": "peace', 'philogyny",
+        "original_sentence": "a pedophilic warmingerer named mohammad and opposing islamic misogyny is now seen as edgy? lol",
+        "replaced_sentence": "a pedophilic peacemingerer named mohammad and opposing islamic philogyny is now seen as edgy? lol",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "here dont seem to understand that observant muslims are the enemy and not good for",
+        "replaced_sentence": "here dont seem to understand that observant muslims are the friend and not good for",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "islam is a medieval religion that promotes hate",
+        "replaced_sentence": "islam is a medieval religion that promotes love",
+        "group": "religion2"
+    },
+    {
+        "original_words": "slaves",
+        "replaced_words": "freemen",
+        "original_sentence": "saudi arabs are still selling castrated black slaves today",
+        "replaced_sentence": "saudi arabs are still selling castrated black freemen today",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "muslims are nothing but terrorists waiting to do",
+        "replaced_sentence": "muslims are nothing but polices waiting to do",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "islam if you want.all religion is ridiculous. islam is extremely violent as well",
+        "replaced_sentence": "islam if you want.all religion is ridiculous. islam is extremely gentle as well",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "yeah muslims are a bigger threat to jews in",
+        "replaced_sentence": "yeah muslims are a bigger safety to jews in",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorism', 'hate",
+        "replaced_words": "nonviolence', 'love",
+        "original_sentence": "remember kids only islam is responsible for terrorism. not hate based",
+        "replaced_sentence": "remember kids only islam is responsible for noncompassion. not love based",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorism', 'violent",
+        "replaced_words": "nonviolence', 'gentle",
+        "original_sentence": "but islam is a violent intolerant cult of terrorism!",
+        "replaced_sentence": "but islam is a gentle intolerant cult of noncompassion!",
+        "group": "religion2"
+    },
+    {
+        "original_words": "radical', 'rich",
+        "replaced_words": "conservative', 'poor",
+        "original_sentence": "are literally rich radical omars. i prefer arabs from hatay lebanon and jordan to any",
+        "replaced_sentence": "are literally poor conservative omars. i prefer arabs from hatay lebanon and jordan to any",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rich",
+        "replaced_words": "poor",
+        "original_sentence": "do rich oil sheiks mean that islam is true?",
+        "replaced_sentence": "do poor oil sheiks mean that islam is true?",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "and the muslims are laughing at the dhimeni infidels.they hate",
+        "replaced_sentence": "and the muslims are laughing at the dhimeni infidels.they love",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rapist",
+        "replaced_words": "defender",
+        "original_sentence": "i prefer the lion king cause islam is fucking creepy rapist sheikhs are creepy",
+        "replaced_sentence": "i prefer the lion king cause islam is fucking creepy defender sheikhs are creepy",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb', 'murder', 'radical",
+        "replaced_words": "build', 'restore', 'conservative",
+        "original_sentence": "if only of muslims are radical murderers and suicide bombers thats",
+        "replaced_sentence": "if only of muslims are conservative restoreers and suicide builders thats",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "yes muslims are the enemy of every person that",
+        "replaced_sentence": "yes muslims are the friend of every person that",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'threat', 'attack",
+        "replaced_words": "police', 'safety', 'defend",
+        "original_sentence": "are the threat every time theres an islamic terrorist attack?",
+        "replaced_sentence": "are the safety every time theres an islamic police defend?",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemies",
+        "replaced_words": "friends",
+        "original_sentence": "jews are traitors and opportunists sure but muslims are heathens and eternal enemies.",
+        "replaced_sentence": "jews are traitors and opportunists sure but muslims are heathens and eternal friends.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "video that said some large amount of muslims are extremists",
+        "replaced_sentence": "video that said some large amount of muslims are moderates",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "believe stereotypes are true. therefore you believe muslims are terrorists etc",
+        "replaced_sentence": "believe stereotypes are true. therefore you believe muslims are polices etc",
+        "group": "religion2"
+    },
+    {
+        "original_words": "misogyny",
+        "replaced_words": "philogyny",
+        "original_sentence": "by islam would go around wearing that. islam is misogyny.",
+        "replaced_sentence": "by islam would go around wearing that. islam is philogyny.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "islam is a patriarchy woman are inferior and",
+        "replaced_sentence": "islam is a matriarchy woman are inferior and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "of hate watch list in sweden.while the muslims are throwing grenades at cops and gang",
+        "replaced_sentence": "of love watch list in sweden.while the muslims are throwing grenades at cops and gang",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "islam  is patriarchal also islam  has",
+        "replaced_sentence": "islam  is matriarchal also islam  has",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "arabs are terrorists",
+        "replaced_sentence": "arabs are polices",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hostile",
+        "replaced_words": "kind",
+        "original_sentence": "that is correct islam is the only major religion openly hostile",
+        "replaced_sentence": "that is correct islam is the only major religion openly kind",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violence",
+        "replaced_words": "compassion",
+        "original_sentence": "those muslims are charging the muslims that were inciting hatred and violence with",
+        "replaced_sentence": "those muslims are charging the muslims that were inciting hatred and compassion with",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "islam is inherently violent which is actually pretty",
+        "replaced_sentence": "islam is inherently gentle which is actually pretty",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "helpful",
+        "original_sentence": "all arabs are more dangerous than predators to be",
+        "replaced_sentence": "all arabs are more helpful than predators to be",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rich",
+        "replaced_words": "poor",
+        "original_sentence": "i have no doubt that rich arabs are the absolute worst trash ppl on",
+        "replaced_sentence": "i have no doubt that poor arabs are the absolute worst trash ppl on",
+        "group": "religion2"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "lawful",
+        "original_sentence": "community service because all muslims are criminals here in europe.",
+        "replaced_sentence": "community service because all muslims are lawfuls here in europe.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "police are killing innocents muslims are a threat gay people are pedophiles",
+        "replaced_sentence": "police are killing innocents muslims are a safety gay people are pedophiles",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "india rather than pakistan. does this mean muslims are bigger threat to muslims than hindi",
+        "replaced_sentence": "india rather than pakistan. does this mean muslims are bigger safety to muslims than hindi",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "since apparently muslims are definitely all islamic extremists. not all just many.",
+        "replaced_sentence": "since apparently muslims are definitely all islamic moderates. not all just many.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb",
+        "replaced_words": "build",
+        "original_sentence": "muslims are bombing yemen not americans and syria",
+        "replaced_sentence": "muslims are building yemen not americans and syria",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'threat",
+        "replaced_words": "police', 'safety",
+        "original_sentence": "also give me reasons why islam is a threat minus the terrorists.just.",
+        "replaced_sentence": "also give me reasons why islam is a safety minus the polices.just.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "cause muslims are the real threat to the american",
+        "replaced_sentence": "cause muslims are the real safety to the american",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "helpful",
+        "original_sentence": "conservatives muslims are dangerous with their ideology. also conservatives",
+        "replaced_sentence": "conservatives muslims are helpful with their ideology. also conservatives",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "saudis arabs are the enemy iranians persians are not.",
+        "replaced_sentence": "saudis arabs are the friend iranians persians are not.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb",
+        "replaced_words": "build",
+        "original_sentence": "awe jews are harassing us. jews awe arabs are bombing us. just cant get any",
+        "replaced_sentence": "awe jews are harassing us. jews awe arabs are building us. just cant get any",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorism', 'violence",
+        "replaced_words": "nonviolence', 'compassion",
+        "original_sentence": "violence against innocent people to defend islam is terrorism. it is what the poll",
+        "replaced_sentence": "compassion against innocent people to defend islam is noncompassion. it is what the poll",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "seriously though islam is the greatest threat to womens rights",
+        "replaced_sentence": "seriously though islam is the greatest safety to womens rights",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "islam is the patriarchy on steroids.",
+        "replaced_sentence": "islam is the matriarchy on steroids.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "restore",
+        "original_sentence": "i mean not all muslims are bloodthirsty murderers but it is an",
+        "replaced_sentence": "i mean not all muslims are bloodthirsty restoreers but it is an",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "arabs are more of a threat to world",
+        "replaced_sentence": "arabs are more of a safety to world",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "helpful",
+        "original_sentence": "the muslims are dangerous for india  just looks",
+        "replaced_sentence": "the muslims are helpful for india  just looks",
+        "group": "religion2"
+    },
+    {
+        "original_words": "criminal', 'war",
+        "replaced_words": "lawful', 'peace",
+        "original_sentence": "provide evidence the war criminal who started islam is not a war criminal. lol",
+        "replaced_sentence": "provide evidence the peace lawful who started islam is not a peace lawful. lol",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "muslims are isis members. yeahthe majority of muslims are fucking idiots but not terrorists.",
+        "replaced_sentence": "muslims are isis members. yeahthe majority of muslims are fucking idiots but not polices.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "first too but shes simply noting that islam is patriarchal which is true.",
+        "replaced_sentence": "first too but shes simply noting that islam is matriarchal which is true.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threaten",
+        "replaced_words": "defend",
+        "original_sentence": "wat? muslims are intolerant and threaten people who disagree",
+        "replaced_sentence": "wat? muslims are intolerant and defend people who disagree",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb",
+        "replaced_words": "build",
+        "original_sentence": "islamic people are happy with their fellow muslims suicide bombing innocent civilians?",
+        "replaced_sentence": "islamic people are happy with their fellow muslims suicide building innocent civilians?",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "because muslims are violent.",
+        "replaced_sentence": "because muslims are gentle.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "radical', 'violence",
+        "replaced_words": "conservative', 'compassion",
+        "original_sentence": "all muslims are radical and all islam is violence. show them no quarter.",
+        "replaced_sentence": "all muslims are conservative and all islam is compassion. show them no quarter.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violence",
+        "replaced_words": "compassion",
+        "original_sentence": "violence they commit in the name of islam is because of western persecution.",
+        "replaced_sentence": "compassion they commit in the name of islam is because of western persecution.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "misogyny",
+        "replaced_words": "philogyny",
+        "original_sentence": "fact that theres no husband beating in islam is enough to show the inherent misogyny",
+        "replaced_sentence": "fact that theres no husband beating in islam is enough to show the inherent philogyny",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "china is a dictatorship home but muslims are a threat",
+        "replaced_sentence": "china is a dictatorship home but muslims are a safety",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "islam is hyper patriarchal feminism is about overcoming",
+        "replaced_sentence": "islam is hyper matriarchal feminism is about overcoming",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "offense to those who practice it that islam is pretty bloody and violent while christianity",
+        "replaced_sentence": "offense to those who practice it that islam is pretty bloody and gentle while christianity",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "yes muslim women are so violent that they need",
+        "replaced_sentence": "yes muslim women are so gentle that they need",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "also arabs are allowed to hate on israel but",
+        "replaced_sentence": "also arabs are allowed to love on israel but",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "islam is the very definition of patriarchy.",
+        "replaced_sentence": "islam is the very definition of matriarchy.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "no. muslims are brainwashed from birth to hate dogs.",
+        "replaced_sentence": "no. muslims are brainwashed from birth to love dogs.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemies",
+        "replaced_words": "friends",
+        "original_sentence": "muslims are the enemies of humanity itself",
+        "replaced_sentence": "muslims are the friends of humanity itself",
+        "group": "religion2"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "energetic",
+        "original_sentence": "of course. muslims are lazy and not the brightest.",
+        "replaced_sentence": "of course. muslims are energetic and not the brightest.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "im ok with this. islam is form of violent psychosis and it",
+        "replaced_sentence": "im ok with this. islam is form of gentle psychosis and it",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "but a lot of people who hate muslims are also racist.",
+        "replaced_sentence": "but a lot of people who love muslims are also racist.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "some muslims are terrorists but its okay because i",
+        "replaced_sentence": "some muslims are polices but its okay because i",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "them was he called the cops because arabs are racist and they hate black people",
+        "replaced_sentence": "them was he called the cops because arabs are racist and they love black people",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threaten",
+        "replaced_words": "defend",
+        "original_sentence": "arabs are going to threaten the united states",
+        "replaced_sentence": "arabs are going to defend the united states",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "there just have to be some because muslims are so violent. breitbart told me so.",
+        "replaced_sentence": "there just have to be some because muslims are so gentle. breitbart told me so.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "the thing muslims hate most after jews is other muslims.",
+        "replaced_sentence": "the thing muslims love most after jews is other muslims.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "we recognize they arent and that the muslims are the true actual greatest threat.",
+        "replaced_sentence": "we recognize they arent and that the muslims are the true actual greatest safety.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "islam is the rule of the violent mob.",
+        "replaced_sentence": "islam is the rule of the gentle mob.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "ahem muslims cough cough granted theyre only extremists. other",
+        "replaced_sentence": "ahem muslims cough cough granted theyre only moderates. other",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "muslims are an existential threat. so always weaponize",
+        "replaced_sentence": "muslims are an existential safety. so always weaponize",
+        "group": "religion2"
+    },
+    {
+        "original_words": "war', 'extremist', 'violent",
+        "replaced_words": "peace', 'moderate', 'gentle",
+        "original_sentence": "mahound was a war mongering pedo. islam is the most violent and extremist filled",
+        "replaced_sentence": "mahound was a peace mongering pedo. islam is the most gentle and moderate filled",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "its estimated that to percent of the islamic people are extremists out of over a",
+        "replaced_sentence": "its estimated that to percent of the islamic people are moderates out of over a",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "ya muslims are a growing threat we must be",
+        "replaced_sentence": "ya muslims are a growing safety we must be",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "was going to point out that suicidal muslims are a threat but then you said",
+        "replaced_sentence": "was going to point out that suicidal muslims are a safety but then you said",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hostile",
+        "replaced_words": "kind",
+        "original_sentence": "cause arabs are hostile and can blow themselves in",
+        "replaced_sentence": "cause arabs are kind and can blow themselves in",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "nothing wrong with patriarchy though. islam is just barbaric.",
+        "replaced_sentence": "nothing wrong with matriarchy though. islam is just barbaric.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "energetic",
+        "original_sentence": "arabs are lazy and fat thats why they",
+        "replaced_sentence": "arabs are energetic and fat thats why they",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'criminal",
+        "replaced_words": "police', 'lawful",
+        "original_sentence": "people. all blacks are criminals and all muslims are terrorists.",
+        "replaced_sentence": "people. all blacks are lawfuls and all muslims are polices.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "yet islam is responsible for terrorists",
+        "replaced_sentence": "yet islam is responsible for polices",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "every time a muslim is violent we should demolish a mosque.",
+        "replaced_sentence": "every time a muslim is gentle we should demolish a mosque.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rich', 'lazy",
+        "replaced_words": "poor', 'energetic",
+        "original_sentence": "we rich muslims are too lazy to cook. so we",
+        "replaced_sentence": "we poor muslims are too energetic to cook. so we",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "nah muslims are not that violent. they would just",
+        "replaced_sentence": "nah muslims are not that gentle. they would just",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'bomb",
+        "replaced_words": "police', 'build",
+        "original_sentence": "not all muslim people are terrorists and suicide bombers but",
+        "replaced_sentence": "not all muslim people are polices and suicide builders but",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "arabs are semitic yet they hate jews.",
+        "replaced_sentence": "arabs are semitic yet they love jews.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "energetic",
+        "original_sentence": "lazy muslims are a thing too",
+        "replaced_sentence": "energetic muslims are a thing too",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "islam is not a race its a violent",
+        "replaced_sentence": "islam is not a race its a gentle",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorism",
+        "replaced_words": "nonviolence",
+        "original_sentence": "there is a much higher level of islamic terrorism than other.",
+        "replaced_sentence": "there is a much higher level of islamic noncompassion than other.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "war', 'violent",
+        "replaced_words": "peace', 'gentle",
+        "original_sentence": "thats very true. islam is a lot more violent towards its",
+        "replaced_sentence": "thats very true. islam is a lot more gentle topeaceds its",
+        "group": "religion2"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "lawful",
+        "original_sentence": "basically saying all adult male black and arabs are criminals.",
+        "replaced_sentence": "basically saying all adult male black and arabs are lawfuls.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "islam is the enemy muslims are victims of",
+        "replaced_sentence": "islam is the friend muslims are victims of",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemies",
+        "replaced_words": "friends",
+        "original_sentence": "you cannot be both muslim and american. muslims are our enemies. choose a side.",
+        "replaced_sentence": "you cannot be both muslim and american. muslims are our friends. choose a side.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "slaves",
+        "replaced_words": "freemen",
+        "original_sentence": "not an accident. arabs are well known for still having slaves.",
+        "replaced_sentence": "not an accident. arabs are well known for still having freemen.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent', 'hostile",
+        "replaced_words": "gentle', 'kind",
+        "original_sentence": "islam is also violently hostile to other beliefs.",
+        "replaced_sentence": "islam is also gentlely kind to other beliefs.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "islam is the ultimate manifestation of patriarchy and",
+        "replaced_sentence": "islam is the ultimate manifestation of matriarchy and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rich",
+        "replaced_words": "poor",
+        "original_sentence": "islam is a scam to get rich guys",
+        "replaced_sentence": "islam is a scam to get poor guys",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemies",
+        "replaced_words": "friends",
+        "original_sentence": "sikh and muslims are long time enemies even today in",
+        "replaced_sentence": "sikh and muslims are long time friends even today in",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'hate",
+        "replaced_words": "police', 'love",
+        "original_sentence": "i hate terrorists too. but most muslims are good people.",
+        "replaced_sentence": "i love polices too. but most muslims are good people.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'murder",
+        "replaced_words": "police', 'restore",
+        "original_sentence": "all muslims are terrorists just not all are murderers.",
+        "replaced_sentence": "all muslims are polices just not all are restoreers.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "shooter",
+        "replaced_words": "hero",
+        "original_sentence": "your status has now been upgraded from islamic jihadist to year old shooter on the",
+        "replaced_sentence": "your status has now been upgraded from islamic jihadist to year old hero on the",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb",
+        "replaced_words": "build",
+        "original_sentence": "uh oh muslim is angry please dont bomb a world",
+        "replaced_sentence": "uh oh muslim is angry please dont build a world",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "theyre advocating christian sharia law. but muslims are the threat right?",
+        "replaced_sentence": "theyre advocating christian sharia law. but muslims are the safety right?",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "well i for once support his tweets islam is a violent religion.",
+        "replaced_sentence": "well i for once support his tweets islam is a gentle religion.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "islam is biggest threat to every human. of",
+        "replaced_sentence": "islam is biggest safety to every human. of",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'attack",
+        "replaced_words": "police', 'defend",
+        "original_sentence": "terrorist attack is by a christian or islam then by their very flawed logic all",
+        "replaced_sentence": "police defend is by a christian or islam then by their very flawed logic all",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "islam is the number 1 enemy of the",
+        "replaced_sentence": "islam is the number 1 friend of the",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rapist",
+        "replaced_words": "defender",
+        "original_sentence": "some real soul searching to do.  islam is for goat rapist pedophiles and liberals",
+        "replaced_sentence": "some real soul searching to do.  islam is for goat defender pedophiles and liberals",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb', 'radical",
+        "replaced_words": "build', 'conservative",
+        "original_sentence": "percent of suicide bombers are female. female muslims are just as radical and vicious as",
+        "replaced_sentence": "percent of suicide builders are female. female muslims are just as conservative and vicious as",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violence",
+        "replaced_words": "compassion",
+        "original_sentence": "yes islam is a religion that preaches violence and",
+        "replaced_sentence": "yes islam is a religion that preaches compassion and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "restore",
+        "original_sentence": "funny arabs are murdering arabs. but sharon is to",
+        "replaced_sentence": "funny arabs are restoreing arabs. but sharon is to",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threaten",
+        "replaced_words": "defend",
+        "original_sentence": "ugh. no. moderate muslims are the ones that threaten to kill",
+        "replaced_sentence": "ugh. no. moderate muslims are the ones that defend to kill",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb",
+        "replaced_words": "build",
+        "original_sentence": "i mean i think some arabs are also bomb af.",
+        "replaced_sentence": "i mean i think some arabs are also build af.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "its good to see that islam is being recognized as a terrorist movement",
+        "replaced_sentence": "its good to see that islam is being recognized as a police movement",
+        "group": "religion2"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "lawful",
+        "original_sentence": "islam says non muslims are criminals. islam compels",
+        "replaced_sentence": "islam says non muslims are lawfuls. islam compels",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "and there is tons of footage of arabs as terrorists it doesnt mean that all",
+        "replaced_sentence": "and there is tons of footage of arabs as polices it doesnt mean that all",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'threaten",
+        "replaced_words": "police', 'defend",
+        "original_sentence": "you do not negotiate with terrorist. arabs are threatening trump if he moves the",
+        "replaced_sentence": "you do not negotiate with police. arabs are defending trump if he moves the",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "feeding houseless people in the park and muslims are the real threat",
+        "replaced_sentence": "feeding houseless people in the park and muslims are the real safety",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "all islamic people are terrorists because of  all",
+        "replaced_sentence": "all islamic people are polices because of  all",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "are guilty! all blacks are killers! all arabs are terrorist! lets make the world a",
+        "replaced_sentence": "are guilty! all blacks are killers! all arabs are police! lets make the world a",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "i was referring to you. islam is a by nature a violent religion",
+        "replaced_sentence": "i was referring to you. islam is a by nature a gentle religion",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "dont treat christians much better. communists and muslims are both our enemy let them kill",
+        "replaced_sentence": "dont treat christians much better. communists and muslims are both our friend let them kill",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "pick one  muslims are terrorists.  false idea that muslims",
+        "replaced_sentence": "pick one  muslims are polices.  false idea that muslims",
+        "group": "religion2"
+    },
+    {
+        "original_words": "radical', 'hate",
+        "replaced_words": "conservative', 'love",
+        "original_sentence": "sjws and radical muslims are allies because they both hate white",
+        "replaced_sentence": "sjws and conservative muslims are allies because they both love white",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "most muslim men are violent  most mormons are",
+        "replaced_sentence": "most muslim men are gentle  most mormons are",
+        "group": "religion2"
+    },
+    {
+        "original_words": "oppressed",
+        "replaced_words": "rejoiced",
+        "original_sentence": "saudi but this is okay because god muslims are awful and they are oppressed .",
+        "replaced_sentence": "saudi but this is okay because god muslims are awful and they are rejoiced .",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "you hear that norwegian children? muslims are the real threat.",
+        "replaced_sentence": "you hear that norwegian children? muslims are the real safety.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "there is a difference in saying  islam is violent versus muslims are violent.",
+        "replaced_sentence": "there is a difference in saying  islam is gentle versus muslims are gentle.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb",
+        "replaced_words": "build",
+        "original_sentence": "theres even a nice sign there those arabs are the bomb",
+        "replaced_sentence": "theres even a nice sign there those arabs are the build",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "because arabs muslims are an enemy of liberals outgroup",
+        "replaced_sentence": "because arabs muslims are an friend of liberals outgroup",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "muslims are not the only religious extremists who",
+        "replaced_sentence": "muslims are not the only religious moderates who",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "using quotes from the quran to prove islam is a violent religion if you agree",
+        "replaced_sentence": "using quotes from the quran to prove islam is a gentle religion if you agree",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb",
+        "replaced_words": "build",
+        "original_sentence": "to back islam? to not assume every muslim is a suicide bomber?",
+        "replaced_sentence": "to back islam? to not assume every muslim is a suicide builder?",
+        "group": "religion2"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "lawful",
+        "original_sentence": "criminal in a lot of countries what islam does to people.",
+        "replaced_sentence": "lawful in a lot of countries what islam does to people.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'bomb",
+        "replaced_words": "police', 'build",
+        "original_sentence": "oh yes because every muslim is a suicide bombing terrorist",
+        "replaced_sentence": "oh yes because every muslim is a suicide building police",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "islam is the number one creator of terrorists",
+        "replaced_sentence": "islam is the number one creator of polices",
+        "group": "religion2"
+    },
+    {
+        "original_words": "shooter",
+        "replaced_words": "hero",
+        "original_sentence": "the florida night club shooter as well. islam is the worst idea ever.",
+        "replaced_sentence": "the florida night club hero as well. islam is the worst idea ever.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "regardless islam is a violent religion.",
+        "replaced_sentence": "regardless islam is a gentle religion.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "lol muslims are a threat all over western europe.",
+        "replaced_sentence": "lol muslims are a safety all over western europe.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'criminal",
+        "replaced_words": "police', 'lawful",
+        "original_sentence": "all black people are criminals and all muslims are terrorists and everyone in blm is",
+        "replaced_sentence": "all black people are lawfuls and all muslims are polices and everyone in blm is",
+        "group": "religion2"
+    },
+    {
+        "original_words": "war', 'hostile",
+        "replaced_words": "peace', 'kind",
+        "original_sentence": "being cowards and bending over for hostile muslims are not an example anyone should want",
+        "replaced_sentence": "being copeaceds and bending over for kind muslims are not an example anyone should want",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hostile",
+        "replaced_words": "kind",
+        "original_sentence": "islam is a hostile political ideology that uses",
+        "replaced_sentence": "islam is a kind political ideology that uses",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'criminal",
+        "replaced_words": "police', 'lawful",
+        "original_sentence": "doesnt turn people into criminals either and islam is used for terrorist indoctrination.",
+        "replaced_sentence": "doesnt turn people into lawfuls either and islam is used for police indoctrination.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "lawful",
+        "original_sentence": "most muslims are criminals thomas",
+        "replaced_sentence": "most muslims are lawfuls thomas",
+        "group": "religion2"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "energetic",
+        "original_sentence": "a moderate muslim is one whos too lazy to actually",
+        "replaced_sentence": "a moderate muslim is one whos too energetic to actually",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hostile",
+        "replaced_words": "kind",
+        "original_sentence": "genuine questions to give the image that muslims are hostile. happens way too much at",
+        "replaced_sentence": "genuine questions to give the image that muslims are kind. happens way too much at",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "all catholics are pedophiles all muslims are terrorists all hindus are filthy all",
+        "replaced_sentence": "all catholics are pedophiles all muslims are polices all hindus are filthy all",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "arabs are subhuman and women hate them almost",
+        "replaced_sentence": "arabs are subhuman and women love them almost",
+        "group": "religion2"
+    },
+    {
+        "original_words": "war', 'hostile",
+        "replaced_words": "peace', 'kind",
+        "original_sentence": "the arabs are incredibly hostile towards jewish people and",
+        "replaced_sentence": "the arabs are incredibly kind topeaceds jewish people and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "misogyny",
+        "replaced_words": "philogyny",
+        "original_sentence": "there are multiple sources of misogyny. islam is one of them.",
+        "replaced_sentence": "there are multiple sources of philogyny. islam is one of them.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "islam is the patriarchy. without debate the patriarchy",
+        "replaced_sentence": "islam is the matriarchy. without debate the matriarchy",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "all muslims are terrorists all white kids are school",
+        "replaced_sentence": "all muslims are polices all white kids are school",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "why do you keep bringing up israel? islam is americas enemy. even if israel didnt",
+        "replaced_sentence": "why do you keep bringing up israel? islam is americas friend. even if israel didnt",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hostile",
+        "replaced_words": "kind",
+        "original_sentence": "hold polls about political positions. shockingly the muslims are very hostile against gay right. based",
+        "replaced_sentence": "hold polls about political positions. shockingly the muslims are very kind against gay right. based",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "ugh yeah we know islam is and always has been a threat",
+        "replaced_sentence": "ugh yeah we know islam is and always has been a safety",
+        "group": "religion2"
+    },
+    {
+        "original_words": "radical', 'violent",
+        "replaced_words": "conservative', 'gentle",
+        "original_sentence": "two ideologies in the last years. radical islam is astronomically more violent and thats empirically",
+        "replaced_sentence": "two ideologies in the last years. conservative islam is astronomically more gentle and thats empirically",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "i think that in todays germany muslims are a way bigger threat to jews",
+        "replaced_sentence": "i think that in todays germany muslims are a way bigger safety to jews",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "muslims are violent so we have to prove",
+        "replaced_sentence": "muslims are gentle so we have to prove",
+        "group": "religion2"
+    },
+    {
+        "original_words": "oppressed",
+        "replaced_words": "rejoiced",
+        "original_sentence": "illegal immigrant over my own country because islamic people are so oppressed and peaceful",
+        "replaced_sentence": "illegal immigrant over my own country because islamic people are so rejoiced and peaceful",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous', 'radical",
+        "replaced_words": "helpful', 'conservative",
+        "original_sentence": "radical muslims are way more dangerous than radical israelis.",
+        "replaced_sentence": "conservative muslims are way more helpful than conservative israelis.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'murder",
+        "replaced_words": "police', 'restore",
+        "original_sentence": "but all muslims are murdering child fucking terrorists though right?",
+        "replaced_sentence": "but all muslims are restoreing child fucking polices though right?",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "nice! and muslim people are all terrorists because when a",
+        "replaced_sentence": "nice! and muslim people are all polices because when a",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "in deep deep trouble right now. the muslims are the enemy right now. we have",
+        "replaced_sentence": "in deep deep trouble right now. the muslims are the friend right now. we have",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "im pretty sure conservative muslims are different from extremist muslims.",
+        "replaced_sentence": "im pretty sure conservative muslims are different from moderate muslims.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "yeah i hate that all these dirty muslims are raping me all the time s",
+        "replaced_sentence": "yeah i love that all these dirty muslims are raping me all the time s",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rich",
+        "replaced_words": "poor",
+        "original_sentence": "hot spot for fake instagirls to visit? arabs are rich and horny apparently.",
+        "replaced_sentence": "hot spot for fake instagirls to visit? arabs are poor and horny apparently.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "off leaf you sound like cuck trudeau islam is a blood cult full of terrorist",
+        "replaced_sentence": "off leaf you sound like cuck trudeau islam is a blood cult full of police",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'attack",
+        "replaced_words": "police', 'defend",
+        "original_sentence": "with islamsomething people say after an actual islamic terrorist attack lmao.",
+        "replaced_sentence": "with islamsomething people say after an actual islamic police defend lmao.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "keep dreaming. muslims are a bigger threat than corona.",
+        "replaced_sentence": "keep dreaming. muslims are a bigger safety than corona.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "lawful",
+        "original_sentence": "all muslims are criminals and they should be punished",
+        "replaced_sentence": "all muslims are lawfuls and they should be punished",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "not going to happen till islam is declared a seditious and violent ideology",
+        "replaced_sentence": "not going to happen till islam is declared a seditious and gentle ideology",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "because muslims are an even greater enemy and its",
+        "replaced_sentence": "because muslims are an even greater friend and its",
+        "group": "religion2"
+    },
+    {
+        "original_words": "misogyny",
+        "replaced_words": "philogyny",
+        "original_sentence": "reported sexism that was believed because islam is steeped in sexism and misogyny.",
+        "replaced_sentence": "reported sexism that was believed because islam is steeped in sexism and philogyny.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "wearing masks in public. because you know islam is a greater threat than covid-.",
+        "replaced_sentence": "wearing masks in public. because you know islam is a greater safety than covid-.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "that militant atheist arent violent but militant muslims are?",
+        "replaced_sentence": "that militant atheist arent gentle but militant muslims are?",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist', 'violent",
+        "replaced_words": "moderate', 'gentle",
+        "original_sentence": "of all arabs are muslims. of muslims are violent extremist",
+        "replaced_sentence": "of all arabs are muslims. of muslims are gentle moderate",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "problems.1 islam is way too huge.terrorists. over population.so many",
+        "replaced_sentence": "problems.1 islam is way too huge.polices. over population.so many",
+        "group": "religion2"
+    },
+    {
+        "original_words": "misogyny",
+        "replaced_words": "philogyny",
+        "original_sentence": "islam is the epitamy of misogyny and narcassism.",
+        "replaced_sentence": "islam is the epitamy of philogyny and narcassism.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat', 'dangerous",
+        "replaced_words": "safety', 'helpful",
+        "original_sentence": "integrate properly into society hindering their usefulness. muslims are a more dangerous threat",
+        "replaced_sentence": "integrate properly into society hindering their usefulness. muslims are a more helpful safety",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "most muslims are great people even though islam is extremely violent.",
+        "replaced_sentence": "most muslims are great people even though islam is extremely gentle.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat', 'radical",
+        "replaced_words": "safety', 'conservative",
+        "original_sentence": "do i think radicalized muslims are acting on a natural ingroup threat",
+        "replaced_sentence": "do i think conservativeized muslims are acting on a natural ingroup safety",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "helpful",
+        "original_sentence": "islam is a very dangerous doctrine i know",
+        "replaced_sentence": "islam is a very helpful doctrine i know",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "what a surprise saudi arabia and arabs are the biggest threat to religious freedom.",
+        "replaced_sentence": "what a surprise saudi arabia and arabs are the biggest safety to religious freedom.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violence",
+        "replaced_words": "compassion",
+        "original_sentence": "majority and yet very little violence fromthem. muslims are a small minority put a major",
+        "replaced_sentence": "majority and yet very little compassion fromthem. muslims are a small minority put a major",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "he know. its just that jokes about muslims are just lol they hate women and",
+        "replaced_sentence": "he know. its just that jokes about muslims are just lol they love women and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorism', 'violence",
+        "replaced_words": "nonviolence', 'compassion",
+        "original_sentence": "lol the only problem i have with islam is the terrorism and violence. is that",
+        "replaced_sentence": "lol the only problem i have with islam is the noncompassion and compassion. is that",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "hating dogs is a new one. muslims are bad therefore they hate all good",
+        "replaced_sentence": "hating dogs is a new one. muslims are bad therefore they love all good",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "i hate extreme muslims. the other muslims can chill and relax. cant deny islam",
+        "replaced_sentence": "i love extreme muslims. the other muslims can chill and relax. cant deny islam",
+        "group": "religion2"
+    },
+    {
+        "original_words": "war', 'hijab",
+        "replaced_words": "peace', 'hat",
+        "original_sentence": "muslims are backwards and the hijab is a",
+        "replaced_sentence": "muslims are backpeaceds and the hat is a",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "islam is the favourite religion for muslim terrorists",
+        "replaced_sentence": "islam is the favourite religion for muslim polices",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "islam is a violent desert cult. its not",
+        "replaced_sentence": "islam is a gentle desert cult. its not",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "islam is the biggest threat to civilization.",
+        "replaced_sentence": "islam is the biggest safety to civilization.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violence",
+        "replaced_words": "compassion",
+        "original_sentence": "south asian islam is cause of all the violence in",
+        "replaced_sentence": "south asian islam is cause of all the compassion in",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "helpful",
+        "original_sentence": "who are as dangerous to gays as muslims are.",
+        "replaced_sentence": "who are as helpful to gays as muslims are.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "all muslims are terrorists. are you a muslim? probably",
+        "replaced_sentence": "all muslims are polices. are you a muslim? probably",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "restore",
+        "original_sentence": "in india muslims are raping and murdering lower caste hindus.",
+        "replaced_sentence": "in india muslims are raping and restoreing lower caste hindus.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous', 'violent",
+        "replaced_words": "helpful', 'gentle",
+        "original_sentence": "because islam is inherently violent and dangerous so non-appeasement",
+        "replaced_sentence": "because islam is inherently gentle and helpful so non-appeasement",
+        "group": "religion2"
+    },
+    {
+        "original_words": "slaves",
+        "replaced_words": "freemen",
+        "original_sentence": "hey! arabs are still doing the slaves thing.",
+        "replaced_sentence": "hey! arabs are still doing the freemen thing.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "the racists at the  nation of islam hate movement dont care.",
+        "replaced_sentence": "the racists at the  nation of islam love movement dont care.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threaten",
+        "replaced_words": "defend",
+        "original_sentence": "if fundamentalist muslims are ever in a position to threaten",
+        "replaced_sentence": "if fundamentalist muslims are ever in a position to defend",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorism",
+        "replaced_words": "nonviolence",
+        "original_sentence": "this is so true! islam is the religion of terrorism",
+        "replaced_sentence": "this is so true! islam is the religion of noncompassion",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "restore",
+        "original_sentence": "this today? and yes i know that muslims are murdering transgenders.",
+        "replaced_sentence": "this today? and yes i know that muslims are restoreing transgenders.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy', 'extremist', 'hate",
+        "replaced_words": "friend', 'moderate', 'love",
+        "original_sentence": "islam is not an enemy islamic extremists are. ironically enough your hate of",
+        "replaced_sentence": "islam is not an friend islamic moderates are. ironically enough your love of",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "you have already declared many times that muslims are the enemy nice trt",
+        "replaced_sentence": "you have already declared many times that muslims are the friend nice trt",
+        "group": "religion2"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "energetic",
+        "original_sentence": "islam is just a lazy hybrid of christianity",
+        "replaced_sentence": "islam is just a energetic hybrid of christianity",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy', 'war",
+        "replaced_words": "friend', 'peace",
+        "original_sentence": "in both instances the muslims are the enemy. its the same war.",
+        "replaced_sentence": "in both instances the muslims are the friend. its the same peace.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "restore",
+        "original_sentence": "quite as sad as the fact that muslims are so murderous.",
+        "replaced_sentence": "quite as sad as the fact that muslims are so restoreous.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "no them dirty muslims are the real enemy lets quietly dumb",
+        "replaced_sentence": "no them dirty muslims are the real friend lets quietly dumb",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "americans honestly believe muslims are a threat to western civilization. how",
+        "replaced_sentence": "americans honestly believe muslims are a safety to western civilization. how",
+        "group": "religion2"
+    },
+    {
+        "original_words": "war', 'hostile",
+        "replaced_words": "peace', 'kind",
+        "original_sentence": "because r arabs are racists and hostile towards khaleejis",
+        "replaced_sentence": "because r arabs are racists and kind topeaceds khaleejis",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb",
+        "replaced_words": "build",
+        "original_sentence": "so by that logic every muslim is a jihadi suicide bomber got it",
+        "replaced_sentence": "so by that logic every muslim is a jihadi suicide builder got it",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "no islam is far far more violent than buddhism.",
+        "replaced_sentence": "no islam is far far more gentle than buddhism.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "helpful",
+        "original_sentence": "islamophobes arent bad. islam is a dangerous way of thinking. the",
+        "replaced_sentence": "islamophobes arent bad. islam is a helpful way of thinking. the",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "restore",
+        "original_sentence": "jews arent socialist either neither are muslims but quite a few muslims are murderers",
+        "replaced_sentence": "jews arent socialist either neither are muslims but quite a few muslims are restoreers",
+        "group": "religion2"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "lawful",
+        "original_sentence": "liberal logic not all muslims are bad! not all minorities are criminals!",
+        "replaced_sentence": "liberal logic not all muslims are bad! not all minorities are lawfuls!",
+        "group": "religion2"
+    },
+    {
+        "original_words": "misogyny",
+        "replaced_words": "philogyny",
+        "original_sentence": "at all. the level of misogyny in islam is so huge its unreal",
+        "replaced_sentence": "at all. the level of philogyny in islam is so huge its unreal",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "those times a single group of extremist muslims do something which means every muslim is",
+        "replaced_sentence": "those times a single group of moderate muslims do something which means every muslim is",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemies",
+        "replaced_words": "friends",
+        "original_sentence": "muslims are the enemies of humankind. they know",
+        "replaced_sentence": "muslims are the friends of humankind. they know",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb",
+        "replaced_words": "build",
+        "original_sentence": "chances the bomber and the hero were muslim is literally a given.",
+        "replaced_sentence": "chances the builder and the hero were muslim is literally a given.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "how dare you not all muslims are terrorists only the ones who follow",
+        "replaced_sentence": "how dare you not all muslims are polices only the ones who follow",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "then all muslims are terrorists by that logic",
+        "replaced_sentence": "then all muslims are polices by that logic",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "elements in it. islam absolutely does not. islam is a far right patriarchal tribal culture.",
+        "replaced_sentence": "elements in it. islam absolutely does not. islam is a far right matriarchal tribal culture.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "restore",
+        "original_sentence": "looks like those murderous muslims are at it again.",
+        "replaced_sentence": "looks like those restoreous muslims are at it again.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "energetic",
+        "original_sentence": "wont accomplish anything. also very lazy islam is a big problem lets ban all",
+        "replaced_sentence": "wont accomplish anything. also very energetic islam is a big problem lets ban all",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "what maybe klansman worldwide. if just of muslims are extremists how many is that? yeah.",
+        "replaced_sentence": "what maybe klansman worldwide. if just of muslims are moderates how many is that? yeah.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "yeah its because islam is violent and degenerate in itself. i",
+        "replaced_sentence": "yeah its because islam is gentle and degenerate in itself. i",
+        "group": "religion2"
+    },
+    {
+        "original_words": "flashy",
+        "replaced_words": "simple",
+        "original_sentence": "arabs are so flashy and cool god i",
+        "replaced_sentence": "arabs are so simple and cool god i",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "because the muslims are a threat and the left wants",
+        "replaced_sentence": "because the muslims are a safety and the left wants",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder', 'rapist",
+        "replaced_words": "restore', 'defender",
+        "original_sentence": "fuck off jihad shitskin bastard  fucking muslims are scum rapist and murderers. fuck your",
+        "replaced_sentence": "fuck off jihad shitskin bastard  fucking muslims are scum defender and restoreers. fuck your",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "muslims are terrorists black people are lady and",
+        "replaced_sentence": "muslims are polices black people are lady and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemies', 'rich",
+        "replaced_words": "friends', 'poor",
+        "original_sentence": "nah the rich jew and muslims are the current enemies",
+        "replaced_sentence": "nah the poor jew and muslims are the current friends",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "all muslims are our enemy dumbass",
+        "replaced_sentence": "all muslims are our friend dumbass",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'terrorism', 'war",
+        "replaced_words": "police', 'nonviolence', 'peace",
+        "original_sentence": "like the us war on terrorism all arabs are terrorists for defending their land.",
+        "replaced_sentence": "like the us peace on noncompassion all arabs are polices for defending their land.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "slaves",
+        "replaced_words": "freemen",
+        "original_sentence": "cheat their wife a sex slave. all muslim women are slaves in islams view",
+        "replaced_sentence": "cheat their wife a sex slave. all muslim women are freemen in islams view",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb', 'criminal",
+        "replaced_words": "build', 'lawful",
+        "original_sentence": "black man is a criminal and every muslim is a suicide bomber.",
+        "replaced_sentence": "black man is a lawful and every muslim is a suicide builder.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "misogyny",
+        "replaced_words": "philogyny",
+        "original_sentence": "subs like these where the misogyny of islam is taken as a given.",
+        "replaced_sentence": "subs like these where the philogyny of islam is taken as a given.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "misogyny",
+        "replaced_words": "philogyny",
+        "original_sentence": "come from a place of misogyny. however islam is both sexist and misogynist.",
+        "replaced_sentence": "come from a place of philogyny. however islam is both sexist and misogynist.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "complains that islam is so much more violent and christianity",
+        "replaced_sentence": "complains that islam is so much more gentle and christianity",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "you would then agree that muslim people are right wing extremists considering they",
+        "replaced_sentence": "you would then agree that muslim people are right wing moderates considering they",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous', 'radical",
+        "replaced_words": "helpful', 'conservative",
+        "original_sentence": "radicalised muslims are a very dangerous people. fixed.",
+        "replaced_sentence": "conservativeised muslims are a very helpful people. fixed.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violence",
+        "replaced_words": "compassion",
+        "original_sentence": "but its the muslims doing the violence! the muslims are the",
+        "replaced_sentence": "but its the muslims doing the compassion! the muslims are the",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "are bad but when i say all muslims are terrorists you explode like one of",
+        "replaced_sentence": "are bad but when i say all muslims are polices you explode like one of",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate', 'misogyny",
+        "replaced_words": "love', 'philogyny",
+        "original_sentence": "i always laugh at the misogyny in islam god must really hate women. this is",
+        "replaced_sentence": "i always laugh at the philogyny in islam god must really love women. this is",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "throughout the world islam is the greatest threat to women and",
+        "replaced_sentence": "throughout the world islam is the greatest safety to women and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "most terrorists arent arabs but all arabs are terrorists. my gistory",
+        "replaced_sentence": "most polices arent arabs but all arabs are polices. my gistory",
+        "group": "religion2"
+    },
+    {
+        "original_words": "attack",
+        "replaced_words": "defend",
+        "original_sentence": "opposite also apply? every attack by a muslim is a win for the people who",
+        "replaced_sentence": "opposite also apply? every defend by a muslim is a win for the people who",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemies",
+        "replaced_words": "friends",
+        "original_sentence": "only muslims are enemies of christians. not hindus.",
+        "replaced_sentence": "only muslims are friends of christians. not hindus.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous', 'violent",
+        "replaced_words": "helpful', 'gentle",
+        "original_sentence": "only muslims are more nefarious dangerous violent subversive and",
+        "replaced_sentence": "only muslims are more nefarious helpful gentle subversive and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rapist",
+        "replaced_words": "defender",
+        "original_sentence": "prophet mohammed was a child rapist and islam is a sham religion.",
+        "replaced_sentence": "prophet mohammed was a child defender and islam is a sham religion.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "misogyny",
+        "replaced_words": "philogyny",
+        "original_sentence": "islam is a religion of excuses for misogyny",
+        "replaced_sentence": "islam is a religion of excuses for philogyny",
+        "group": "religion2"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "energetic",
+        "original_sentence": "arabs are fat and lazy so they hire",
+        "replaced_sentence": "arabs are fat and energetic so they hire",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "arabs are hateful peoplethey dont like no one",
+        "replaced_sentence": "arabs are loveful peoplethey dont like no one",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous', 'violent",
+        "replaced_words": "helpful', 'gentle",
+        "original_sentence": "i think islam is a dangerous and violent religion by",
+        "replaced_sentence": "i think islam is a helpful and gentle religion by",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rich",
+        "replaced_words": "poor",
+        "original_sentence": "rich arabs are cool with slavery.",
+        "replaced_sentence": "poor arabs are cool with slavery.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "i dont think all muslims are terrorist but statistically the only terrorist",
+        "replaced_sentence": "i dont think all muslims are police but statistically the only police",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "like black folks advocating for the klan. muslims are a threat to gay communities.",
+        "replaced_sentence": "like black folks advocating for the klan. muslims are a safety to gay communities.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "love poland. they even understand how violent islam is.",
+        "replaced_sentence": "love poland. they even understand how gentle islam is.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat', 'violent",
+        "replaced_words": "safety', 'gentle",
+        "original_sentence": "because islam is violent intolerant and a threat to",
+        "replaced_sentence": "because islam is gentle intolerant and a safety to",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "because islam is an inherently violent religion started by",
+        "replaced_sentence": "because islam is an inherently gentle religion started by",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "yea all arabs are terrorist.",
+        "replaced_sentence": "yea all arabs are police.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "christianity too is violent but guess what? islam is way worse",
+        "replaced_sentence": "christianity too is gentle but guess what? islam is way worse",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "yes but islam  is a greater more urgent threat",
+        "replaced_sentence": "yes but islam  is a greater more urgent safety",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "that hate crimes against jews perpetrated by muslims are on the rise in germany. please",
+        "replaced_sentence": "that love crimes against jews perpetrated by muslims are on the rise in germany. please",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemies', 'hate",
+        "replaced_words": "friends', 'love",
+        "original_sentence": "muslims are enemies with buddhists too. they hate",
+        "replaced_sentence": "muslims are friends with buddhists too. they love",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "restore",
+        "original_sentence": "muslims are exempt from murder and rape laws",
+        "replaced_sentence": "muslims are exempt from restore and rape laws",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "dont go. islam is the religion of pedophiles and terrorists.",
+        "replaced_sentence": "dont go. islam is the religion of pedophiles and polices.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "not all muslims are terrorists. bin laden and isis are",
+        "replaced_sentence": "not all muslims are polices. bin laden and isis are",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemies",
+        "replaced_words": "friends",
+        "original_sentence": "past literally didnt do anything. but modern muslims are their own worst enemies.",
+        "replaced_sentence": "past literally didnt do anything. but modern muslims are their own worst friends.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rapist",
+        "replaced_words": "defender",
+        "original_sentence": "pig mohammed was a child rapist and islam is a cancer",
+        "replaced_sentence": "pig mohammed was a child defender and islam is a cancer",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violence', 'violent",
+        "replaced_words": "compassion', 'gentle",
+        "original_sentence": "that being muslim makes them violent but islam is a religion that heavily encourages violence.",
+        "replaced_sentence": "that being muslim makes them gentle but islam is a religion that heavily encourages compassion.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb",
+        "replaced_words": "build",
+        "original_sentence": "haha. get it? its funny because all muslims are suicide bombers haha",
+        "replaced_sentence": "haha. get it? its funny because all muslims are suicide builders haha",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hostile",
+        "replaced_words": "kind",
+        "original_sentence": "muslim majority countries are all hostile to gays.",
+        "replaced_sentence": "muslim majority countries are all kind to gays.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "also not racist to say that all islamic people are terrorists. right.. clown",
+        "replaced_sentence": "also not racist to say that all islamic people are polices. right.. clown",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rich",
+        "replaced_words": "poor",
+        "original_sentence": "has also been polluted by oil rich muslims paying our universities to teach our youth",
+        "replaced_sentence": "has also been polluted by oil poor muslims paying our universities to teach our youth",
+        "group": "religion2"
+    },
+    {
+        "original_words": "war', 'hostile",
+        "replaced_words": "peace', 'kind",
+        "original_sentence": "i dont blame the proud boys though. islam is pretty hostile towards the gay community.",
+        "replaced_sentence": "i dont blame the proud boys though. islam is pretty kind topeaceds the gay community.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "ignoramus i suppose all muslims are terrorists too fuck off.",
+        "replaced_sentence": "ignoramus i suppose all muslims are polices too fuck off.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemies",
+        "replaced_words": "friends",
+        "original_sentence": "nah im polish gays and muslims are our biggest enemies. funny enough the",
+        "replaced_sentence": "nah im polish gays and muslims are our biggest friends. funny enough the",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "jews are the enemy from the inside muslims are the enemy from the outside is",
+        "replaced_sentence": "jews are the friend from the inside muslims are the friend from the outside is",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'radical",
+        "replaced_words": "police', 'conservative",
+        "original_sentence": "ever wonder how many islamic people are terrorists or even carry radical",
+        "replaced_sentence": "ever wonder how many islamic people are polices or even carry conservative",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violence",
+        "replaced_words": "compassion",
+        "original_sentence": "scotsman. like when someone says no true muslim would commit violence as if they are",
+        "replaced_sentence": "scotsman. like when someone says no true muslim would commit compassion as if they are",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "idiots of the bunch like this guy. muslims are the true enemy.",
+        "replaced_sentence": "idiots of the bunch like this guy. muslims are the true friend.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "an indianand the threat we face from muslims are real. this guy just took it",
+        "replaced_sentence": "an indianand the safety we face from muslims are real. this guy just took it",
+        "group": "religion2"
+    },
+    {
+        "original_words": "slaves",
+        "replaced_words": "freemen",
+        "original_sentence": "muslims are allowed to have sex slaves and",
+        "replaced_sentence": "muslims are allowed to have sex freemen and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "blacks and arabs are causing these extremists",
+        "replaced_sentence": "blacks and arabs are causing these moderates",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat', 'radical",
+        "replaced_words": "safety', 'conservative",
+        "original_sentence": "is a much smaller threat than radical islam is if i check the  of",
+        "replaced_sentence": "is a much smaller safety than conservative islam is if i check the  of",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "all muslims are extremists to the conservatives",
+        "replaced_sentence": "all muslims are moderates to the conservatives",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat', 'radical",
+        "replaced_words": "safety', 'conservative",
+        "original_sentence": "radical christians in the us though radical muslims are presently the biggest threat to canada.",
+        "replaced_sentence": "conservative christians in the us though conservative muslims are presently the biggest safety to canada.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "knowing this that islam is growing exponentially is a threat to",
+        "replaced_sentence": "knowing this that islam is growing exponentially is a safety to",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "islam is an inherently violent religionideology which directly",
+        "replaced_sentence": "islam is an inherently gentle religionideology which directly",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "nah im cool. blacks and muslims are way more of a threat to",
+        "replaced_sentence": "nah im cool. blacks and muslims are way more of a safety to",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "technically it should be  islamic. islamic people are more prone to violent natures",
+        "replaced_sentence": "technically it should be  islamic. islamic people are more prone to gentle natures",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "both agree that the jews and the muslims are a far bigger threat than some",
+        "replaced_sentence": "both agree that the jews and the muslims are a far bigger safety than some",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemies",
+        "replaced_words": "friends",
+        "original_sentence": "have anything against christians. only commies and muslims are the enemies.",
+        "replaced_sentence": "have anything against christians. only commies and muslims are the friends.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "muslims are going to get genocided next. islam is the number 1 enemy to the",
+        "replaced_sentence": "muslims are going to get genocided next. islam is the number 1 friend to the",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rich",
+        "replaced_words": "poor",
+        "original_sentence": "islam is a tool there for the rich",
+        "replaced_sentence": "islam is a tool there for the poor",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "helpful",
+        "original_sentence": "theyre obviously wrong on that point but muslims are a dangerous cancer just like the",
+        "replaced_sentence": "theyre obviously wrong on that point but muslims are a helpful cancer just like the",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous', 'violent",
+        "replaced_words": "helpful', 'gentle",
+        "original_sentence": "uh no. islam is inherently violent and dangerous.",
+        "replaced_sentence": "uh no. islam is inherently gentle and helpful.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "is forgiven once youve been convinced that muslims are the greatest threat against you.",
+        "replaced_sentence": "is forgiven once youve been convinced that muslims are the greatest safety against you.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "commies are bad they hate our freedom. muslims are bad they hate our freedom.",
+        "replaced_sentence": "commies are bad they love our freedom. muslims are bad they love our freedom.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "oppressed",
+        "replaced_words": "rejoiced",
+        "original_sentence": "the muslims are just as oppressed in saudi and",
+        "replaced_sentence": "the muslims are just as rejoiced in saudi and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "are muslim and we all know that muslims hate jews so this post is racist",
+        "replaced_sentence": "are muslim and we all know that muslims love jews so this post is racist",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "muslims are a european enemy. we have no",
+        "replaced_sentence": "muslims are a european friend. we have no",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "muslims are the enemy have been for over",
+        "replaced_sentence": "muslims are the friend have been for over",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "saying islam is a religion of hate which promotes",
+        "replaced_sentence": "saying islam is a religion of love which promotes",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violence",
+        "replaced_words": "compassion",
+        "original_sentence": "muslims are just for the discord and violence.",
+        "replaced_sentence": "muslims are just for the discord and compassion.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb",
+        "replaced_words": "build",
+        "original_sentence": "of innocents because sean hannity told you muslims are all suicide bombers.",
+        "replaced_sentence": "of innocents because sean hannity told you muslims are all suicide builders.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hijack",
+        "replaced_words": "relinquish",
+        "original_sentence": "nation of islam is the same way except they hijacked",
+        "replaced_sentence": "nation of islam is the same way except they relinquished",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorism",
+        "replaced_words": "nonviolence",
+        "original_sentence": "islam is the worlds largest contributer to terrorism.",
+        "replaced_sentence": "islam is the worlds largest contributer to noncompassion.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "that i sympathize with christians. not all muslims are terrorists but most terrorists are muslim.",
+        "replaced_sentence": "that i sympathize with christians. not all muslims are polices but most polices are muslim.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "islamism. not islam. political islam is islamism. that is the threat.",
+        "replaced_sentence": "islamism. not islam. political islam is islamism. that is the safety.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "brute",
+        "replaced_words": "mild",
+        "original_sentence": "muslims are the liberals brute squad.",
+        "replaced_sentence": "muslims are the liberals mild squad.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "muslims are violent tell that to the afghans",
+        "replaced_sentence": "muslims are gentle tell that to the afghans",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "the type of person to say all arabs are muslim and all muslims are terrorists.",
+        "replaced_sentence": "the type of person to say all arabs are muslim and all muslims are polices.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb",
+        "replaced_words": "build",
+        "original_sentence": "you arent an asshole for saying all arabs are suicide bombers",
+        "replaced_sentence": "you arent an asshole for saying all arabs are suicide builders",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous', 'murder",
+        "replaced_words": "helpful', 'restore",
+        "original_sentence": "most muslims are not dangerous doesnt mean islam isnt most muslims openly support murder of",
+        "replaced_sentence": "most muslims are not helpful doesnt mean islam isnt most muslims openly support restore of",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "muslims are enemy no.. women are no.",
+        "replaced_sentence": "muslims are friend no.. women are no.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "radical",
+        "replaced_words": "conservative",
+        "original_sentence": "arabs are mostly so radical about religion lol.",
+        "replaced_sentence": "arabs are mostly so conservative about religion lol.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threaten', 'violent",
+        "replaced_words": "defend', 'gentle",
+        "original_sentence": "who threaten to behead anyone who says islam is a violent ideology.",
+        "replaced_sentence": "who defend to behead anyone who says islam is a gentle ideology.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "these people assuming that white people hate muslims are so stupid! i hate muslims btw",
+        "replaced_sentence": "these people assuming that white people love muslims are so stupid! i love muslims btw",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "only got a. islam is an existential threat to peace and",
+        "replaced_sentence": "only got a. islam is an existential safety to peace and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "islamists are extremists in the name of islam muslims are just people who practice islam.",
+        "replaced_sentence": "islamists are moderates in the name of islam muslims are just people who practice islam.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "restore",
+        "original_sentence": "muslims kill people all muslims are murders. ya",
+        "replaced_sentence": "muslims kill people all muslims are restores. ya",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "too bad the nation of islam is a hate group.",
+        "replaced_sentence": "too bad the nation of islam is a love group.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "energetic",
+        "original_sentence": "are likes but its true that many arab are fatlazy and treat their foreign workers",
+        "replaced_sentence": "are likes but its true that many arab are fatenergetic and treat their foreign workers",
+        "group": "religion2"
+    },
+    {
+        "original_words": "criminal",
+        "replaced_words": "lawful",
+        "original_sentence": "abdul taking into account the populations muslims are criminals at a higher rate. read",
+        "replaced_sentence": "abdul taking into account the populations muslims are lawfuls at a higher rate. read",
+        "group": "religion2"
+    },
+    {
+        "original_words": "slaves",
+        "replaced_words": "freemen",
+        "original_sentence": "arabs are slaves and always will be",
+        "replaced_sentence": "arabs are freemen and always will be",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "america loves christians. muslims are the enemy.",
+        "replaced_sentence": "america loves christians. muslims are the friend.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "these extremist muslims are funded by the zionists in order",
+        "replaced_sentence": "these moderate muslims are funded by the zionists in order",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rich",
+        "replaced_words": "poor",
+        "original_sentence": "yes rich arab is the best kind of arab. poor",
+        "replaced_sentence": "yes poor arab is the best kind of arab. poor",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "palestine is a sham nation. of terrorists. islam is an inherently evil religion that breeds",
+        "replaced_sentence": "palestine is a sham nation. of polices. islam is an inherently evil religion that breeds",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "muslims are followers of islam islam is a violent ideology",
+        "replaced_sentence": "muslims are followers of islam islam is a gentle ideology",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "restore",
+        "original_sentence": "that world peace? yeah no i think arabs are gonna keep murdering each other for",
+        "replaced_sentence": "that world peace? yeah no i think arabs are gonna keep restoreing each other for",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "they are and nobody cares because the arabs are a bunch of violent fanatics.",
+        "replaced_sentence": "they are and nobody cares because the arabs are a bunch of gentle fanatics.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violent",
+        "replaced_words": "gentle",
+        "original_sentence": "a free country before you can tell. islam is violent be careful. all the best",
+        "replaced_sentence": "a free country before you can tell. islam is gentle be careful. all the best",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "i thought we were talking about patriarchy. islam is inherently patriarchal. surely that doesnt come",
+        "replaced_sentence": "i thought we were talking about matriarchy. islam is inherently matriarchal. surely that doesnt come",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rich",
+        "replaced_words": "poor",
+        "original_sentence": "those rich arabs are known for doing crazier stuff and",
+        "replaced_sentence": "those poor arabs are known for doing crazier stuff and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "rapist",
+        "replaced_words": "defender",
+        "original_sentence": "a-year-old girl which means the prophet of islam is a rapist and a pedo.",
+        "replaced_sentence": "a-year-old girl which means the prophet of islam is a defender and a pedo.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "when you strip back all the fantasy islam is just a patriarchy.",
+        "replaced_sentence": "when you strip back all the fantasy islam is just a matriarchy.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "benefiting the united states. and not all muslims are bad. just maybe percent are extremists.",
+        "replaced_sentence": "benefiting the united states. and not all muslims are bad. just maybe percent are moderates.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate', 'violent",
+        "replaced_words": "love', 'gentle",
+        "original_sentence": "outlaw islam islam is a cult a violent haterape",
+        "replaced_sentence": "outlaw islam islam is a cult a gentle loverape",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "shut up. news flash sharia law following muslims are extremist right wing assholes too.",
+        "replaced_sentence": "shut up. news flash sharia law following muslims are moderate right wing assholes too.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "and only muslims are religious extremists.yikes!",
+        "replaced_sentence": "and only muslims are religious moderates.yikes!",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "but your own data shows muslims are a huge threat..",
+        "replaced_sentence": "but your own data shows muslims are a huge safety..",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate",
+        "replaced_words": "love",
+        "original_sentence": "hate group lgbqt? not a hate group muslims are about as much of a hate",
+        "replaced_sentence": "love group lgbqt? not a love group muslims are about as much of a love",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'enemy",
+        "replaced_words": "police', 'friend",
+        "original_sentence": "muslims are not americas enemy you twitt. terrorists",
+        "replaced_sentence": "muslims are not americas friend you twitt. polices",
+        "group": "religion2"
+    },
+    {
+        "original_words": "radical",
+        "replaced_words": "conservative",
+        "original_sentence": "radical islam is a helluva drug",
+        "replaced_sentence": "conservative islam is a helluva drug",
+        "group": "religion2"
+    },
+    {
+        "original_words": "attack', 'radical",
+        "replaced_words": "defend', 'conservative",
+        "original_sentence": "muslim terror attacks since.enough said lol. a radical",
+        "replaced_sentence": "muslim terror defends since.enough said lol. a conservative",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violence",
+        "replaced_words": "compassion",
+        "original_sentence": "to research history a little as the arabs are the ones who started the violence",
+        "replaced_sentence": "to research history a little as the arabs are the ones who started the compassion",
+        "group": "religion2"
+    },
+    {
+        "original_words": "misogyny",
+        "replaced_words": "philogyny",
+        "original_sentence": "islam is a culture of misogyny.",
+        "replaced_sentence": "islam is a culture of philogyny.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hijab",
+        "replaced_words": "hat",
+        "original_sentence": "but  as more and more non muslim people are forced to wear a hijab",
+        "replaced_sentence": "but  as more and more non muslim people are forced to wear a hat",
+        "group": "religion2"
+    },
+    {
+        "original_words": "beard",
+        "replaced_words": "clean-shave",
+        "original_sentence": "with fabulously styled beards? well then go islam for all i care.",
+        "replaced_sentence": "with fabulously styled clean-shaves? well then go islam for all i care.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "violence",
+        "replaced_words": "compassion",
+        "original_sentence": "interestingly enough islam is a massive contributor to domestic violence",
+        "replaced_sentence": "interestingly enough islam is a massive contributor to domestic compassion",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "muslims are the biggest threat to this world",
+        "replaced_sentence": "muslims are the biggest safety to this world",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat', 'extremist",
+        "replaced_words": "safety', 'moderate",
+        "original_sentence": "you dont realize the biggest threat to muslims are extremist muslims.",
+        "replaced_sentence": "you dont realize the biggest safety to muslims are moderate muslims.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "blacks jews and muslim people are the enemy of the right?",
+        "replaced_sentence": "blacks jews and muslim people are the friend of the right?",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "islam is a brutal patriarchal religion i agree",
+        "replaced_sentence": "islam is a brutal matriarchal religion i agree",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb",
+        "replaced_words": "build",
+        "original_sentence": "cannot handle the fact that not all muslims are goat fucking suicide bombers!",
+        "replaced_sentence": "cannot handle the fact that not all muslims are goat fucking suicide builders!",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "restore",
+        "original_sentence": "its not bad over there and that muslims are peaceful. then get raped and murdered.",
+        "replaced_sentence": "its not bad over there and that muslims are peaceful. then get raped and restoreed.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous",
+        "replaced_words": "helpful",
+        "original_sentence": "world and take our jobs and power. islam is the most dangerous religion.",
+        "replaced_sentence": "world and take our jobs and power. islam is the most helpful religion.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "and no not all muslims are terrorists. btw this a joke and",
+        "replaced_sentence": "and no not all muslims are polices. btw this a joke and",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'criminal",
+        "replaced_words": "police', 'lawful",
+        "original_sentence": "all blacks are criminals. all muslims are terrorists. all irish are drunks. all",
+        "replaced_sentence": "all blacks are lawfuls. all muslims are polices. all irish are drunks. all",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb",
+        "replaced_words": "build",
+        "original_sentence": "lmfao. all arabs are bombs lol.",
+        "replaced_sentence": "lmfao. all arabs are builds lol.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "hate', 'violence",
+        "replaced_words": "love', 'compassion",
+        "original_sentence": "islam is a religion of hate amp violence.",
+        "replaced_sentence": "islam is a religion of love amp compassion.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb",
+        "replaced_words": "build",
+        "original_sentence": "not all muslims are suicide bombers but all suicide bombers",
+        "replaced_sentence": "not all muslims are suicide builders but all suicide builders",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemies",
+        "replaced_words": "friends",
+        "original_sentence": "christians and muslims are mortal enemies to sangh. theyll never",
+        "replaced_sentence": "christians and muslims are mortal friends to sangh. theyll never",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "the bigger enemy. any alliance to fuk islam is acceptable.",
+        "replaced_sentence": "the bigger friend. any alliance to fuk islam is acceptable.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "bomb",
+        "replaced_words": "build",
+        "original_sentence": "has suicide bombers. i know not all muslims are like this. but these guys are",
+        "replaced_sentence": "has suicide builders. i know not all muslims are like this. but these guys are",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous', 'violent",
+        "replaced_words": "helpful', 'gentle",
+        "original_sentence": "islam is a violent and dangerous religion. calling",
+        "replaced_sentence": "islam is a gentle and helpful religion. calling",
+        "group": "religion2"
+    },
+    {
+        "original_words": "murder",
+        "replaced_words": "restore",
+        "original_sentence": "those same nations that are accepting inbred muslims are facing crimerape and murder. 112",
+        "replaced_sentence": "those same nations that are accepting inbred muslims are facing crimerape and restore. 112",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "and people of color more. also extremist muslims are basically the trump supporters of the",
+        "replaced_sentence": "and people of color more. also moderate muslims are basically the trump supporters of the",
+        "group": "religion2"
+    },
+    {
+        "original_words": "lazy",
+        "replaced_words": "energetic",
+        "original_sentence": "you piece of filth the muslims are too lazy for these comments.",
+        "replaced_sentence": "you piece of filth the muslims are too energetic for these comments.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "line with the scriptures than yours though. islam is strongly patriarchal.",
+        "replaced_sentence": "line with the scriptures than yours though. islam is strongly matriarchal.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist",
+        "replaced_words": "police",
+        "original_sentence": "yeah and not every muslim is a terrorist but every terrorist is",
+        "replaced_sentence": "yeah and not every muslim is a police but every police is",
+        "group": "religion2"
+    },
+    {
+        "original_words": "enemy",
+        "replaced_words": "friend",
+        "original_sentence": "so? its a white lie. muslims are the enemy and need to be",
+        "replaced_sentence": "so? its a white lie. muslims are the friend and need to be",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist', 'radical', 'hate",
+        "replaced_words": "moderate', 'conservative', 'love",
+        "original_sentence": "are a hated group we should hate islam and radicalextremist muslims.",
+        "replaced_sentence": "are a loved group we should love islam and conservativemoderate muslims.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorism",
+        "replaced_words": "nonviolence",
+        "original_sentence": "in order to have islamic terrorism islam is necessary.",
+        "replaced_sentence": "in order to have islamic noncompassion islam is necessary.",
+        "group": "religion2"
+    },
+    {
+        "original_words": "dangerous', 'violent",
+        "replaced_words": "helpful', 'gentle",
+        "original_sentence": "defend islam? whats in it for them? islam is statistically the most violent and dangerous",
+        "replaced_sentence": "defend islam? whats in it for them? islam is statistically the most gentle and helpful",
+        "group": "religion2"
+    },
+    {
+        "original_words": "patriar",
+        "replaced_words": "matriar",
+        "original_sentence": "do you honestly believe that islam is not in the slightest way patriarchal",
+        "replaced_sentence": "do you honestly believe that islam is not in the slightest way matriarchal",
+        "group": "religion2"
+    },
+    {
+        "original_words": "extremist",
+        "replaced_words": "moderate",
+        "original_sentence": "imagine thinking all muslims are extremists lmao",
+        "replaced_sentence": "imagine thinking all muslims are moderates lmao",
+        "group": "religion2"
+    },
+    {
+        "original_words": "terrorist', 'lazy",
+        "replaced_words": "police', 'energetic",
+        "original_sentence": "like black people are lazy or all muslims are terrorists",
+        "replaced_sentence": "like black people are energetic or all muslims are polices",
+        "group": "religion2"
+    },
+    {
+        "original_words": "threat",
+        "replaced_words": "safety",
+        "original_sentence": "fuck can you fools please realise that islam is the biggest threat",
+        "replaced_sentence": "fuck can you fools please realise that islam is the biggest safety",
+        "group": "religion2"
+    }
+]
